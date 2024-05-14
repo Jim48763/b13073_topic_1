@@ -1,0 +1,11 @@
+ffddcdcfdaedadccfecc_exe C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/SysJoker\1ffd6559d21470c40dcf9236da51e5823d7ad58c93502279871c3fe7718c901c.exe
+
+
+
+
+ffddcdcfdaedadccfecc_exe C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/SysJoker\61df74731fbe1eafb2eb987f20e5226962eeceef010164e41ea6c4494a4010fc.dll
+
+dffbeeafbebfeeeceefeeacafc_dll C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/SysJoker\61df74731fbe1eafb2eb987f20e5226962eeceef010164e41ea6c4494a4010fc.dll
+
+
+

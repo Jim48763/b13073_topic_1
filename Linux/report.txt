@@ -1,0 +1,9 @@
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Linux\Python\4b76ad80e9ce4c503bde0e476a88447426fc38315d440d22926627295e1b0ec6.exe
+被以下規則掃描到:
+- 規則: rule_01_badececbdeeafcddebec_exe.yar
+  命令: yara64 "ALL yara rules\rule_01_badececbdeeafcddebec_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Linux\Python\4b76ad80e9ce4c503bde0e476a88447426fc38315d440d22926627295e1b0ec6.exe"
+
+
+總結:
+被掃描到的惡意程式: 1
+總共掃描的程式: 56

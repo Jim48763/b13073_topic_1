@@ -1,0 +1,9 @@
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Phishing\15de7f8defad6bace8c44bd3bd7725c10c0dc8336a58a7e8d92075a651fd61d0.exe
+被以下規則掃描到:
+- 規則: rule_01_defdefadbacecbdbdccdcaaedafdd_exe.yar
+  命令: yara64 "ALL yara rules\rule_01_defdefadbacecbdbdccdcaaedafdd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Phishing\15de7f8defad6bace8c44bd3bd7725c10c0dc8336a58a7e8d92075a651fd61d0.exe"
+
+
+總結:
+被掃描到的惡意程式: 1
+總共掃描的程式: 18

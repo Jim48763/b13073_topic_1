@@ -1,0 +1,29 @@
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/AgentTesla\63c4e17fa9b6d87a9f4b68b854cae50e95f8de2a86929fecb8f34af0d15798e7.exe
+被以下規則掃描到:
+- 規則: rule_01_cefabdafbbcaeefdeafecbfafde_exe.yar
+  命令: yara64 "ALL yara rules\rule_01_cefabdafbbcaeefdeafecbfafde_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/AgentTesla\63c4e17fa9b6d87a9f4b68b854cae50e95f8de2a86929fecb8f34af0d15798e7.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/AgentTesla\8da0c8e4b3fa6550fa7a04fd525ea52ac2773bc7c4b267ceb19775c0d4e20a64.exe
+被以下規則掃描到:
+- 規則: rule_02_dacebfafaafdeaacbccbcebcdea_exe.yar
+  命令: yara64 "ALL yara rules\rule_02_dacebfafaafdeaacbccbcebcdea_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/AgentTesla\8da0c8e4b3fa6550fa7a04fd525ea52ac2773bc7c4b267ceb19775c0d4e20a64.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/AgentTesla\bacbd1e1b139791f7ca8eeba6a14cf7b34c9c010aca5ce7eb527aea212448868.exe
+被以下規則掃描到:
+- 規則: rule_03_bacbdebfcaeebaacfbccacaceebaea_exe.yar
+  命令: yara64 "ALL yara rules\rule_03_bacbdebfcaeebaacfbccacaceebaea_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/AgentTesla\bacbd1e1b139791f7ca8eeba6a14cf7b34c9c010aca5ce7eb527aea212448868.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/AgentTesla\d8e273754006eb7118be058c46efef0a1b20ae4929dad75ecfed1ae1aae0c0eb.exe
+被以下規則掃描到:
+- 規則: rule_04_deebbecefefabaedadecfedaeaaeceb_exe.yar
+  命令: yara64 "ALL yara rules\rule_04_deebbecefefabaedadecfedaeaaeceb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/AgentTesla\d8e273754006eb7118be058c46efef0a1b20ae4929dad75ecfed1ae1aae0c0eb.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/AgentTesla\ea4d7ae710b25f166a8d0a4254983d69ac60da4f6846bf912362c00f8e25c382.exe
+被以下規則掃描到:
+- 規則: rule_05_eadaebfadadacdafbfcfec_exe.yar
+  命令: yara64 "ALL yara rules\rule_05_eadaebfadadacdafbfcfec_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/AgentTesla\ea4d7ae710b25f166a8d0a4254983d69ac60da4f6846bf912362c00f8e25c382.exe"
+
+
+總結:
+被掃描到的惡意程式: 5
+總共掃描的程式: 18

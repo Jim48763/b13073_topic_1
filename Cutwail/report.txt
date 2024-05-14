@@ -1,0 +1,24 @@
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Cutwail\0a905cb733a72dc8a3a2d4b744653d5697cfe86a0fb481ea9db8b8f60dc3a1f7.dll
+被以下規則掃描到:
+- 規則: rule_01_acbadcaadbdcfeafbeadbbfdcaf_dll.yar
+  命令: yara64 "ALL yara rules\rule_01_acbadcaadbdcfeafbeadbbfdcaf_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Cutwail\0a905cb733a72dc8a3a2d4b744653d5697cfe86a0fb481ea9db8b8f60dc3a1f7.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Cutwail\377b6494504cb789a2ea6c43f1cec155d92b3af9ad4a18a1d833e553e0cc6a68.exe
+被以下規則掃描到:
+- 規則: rule_02_bcbaeacfcecdbafadaadeecca_exe.yar
+  命令: yara64 "ALL yara rules\rule_02_bcbaeacfcecdbafadaadeecca_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Cutwail\377b6494504cb789a2ea6c43f1cec155d92b3af9ad4a18a1d833e553e0cc6a68.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Cutwail\5b3a8ff94b27ba20933e4850821591f20b6c1bf2d9141bb3870d81b8a457ed83.exe
+被以下規則掃描到:
+- 規則: rule_03_baffbbaefbcbfdbbdbaed_exe.yar
+  命令: yara64 "ALL yara rules\rule_03_baffbbaefbcbfdbbdbaed_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Cutwail\5b3a8ff94b27ba20933e4850821591f20b6c1bf2d9141bb3870d81b8a457ed83.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Cutwail\e652e4656e036887ef4b145b2eb9bfd92e908889302e42a9ca74e66ed1ac64a7.dll
+被以下規則掃描到:
+- 規則: rule_04_eeeefbbebbfdeeacaeedaca_dll.yar
+  命令: yara64 "ALL yara rules\rule_04_eeeefbbebbfdeeacaeedaca_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Cutwail\e652e4656e036887ef4b145b2eb9bfd92e908889302e42a9ca74e66ed1ac64a7.dll"
+
+
+總結:
+被掃描到的惡意程式: 4
+總共掃描的程式: 10

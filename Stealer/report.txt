@@ -1,0 +1,229 @@
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\1ms0rryMiner\5dcdd9b2e6f81b11f4e4d0cb96709286deac6c8a8385d473f17d599ee55c150f.exe
+被以下規則掃描到:
+- 規則: rule_01_dcddbefbfedcbdeaccadfdeecf_exe.yar
+  命令: yara64 "ALL yara rules\rule_01_dcddbefbfedcbdeaccadfdeecf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\1ms0rryMiner\5dcdd9b2e6f81b11f4e4d0cb96709286deac6c8a8385d473f17d599ee55c150f.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\1ms0rryMiner\a1dc7ead6d6684ecfe4b23cd035fbf647e16278ffa31a287f24fe1bb27806a7f.exe
+被以下規則掃描到:
+- 規則: rule_02_adceaddecfebcdfbfeffaaffebbaf_exe.yar
+  命令: yara64 "ALL yara rules\rule_02_adceaddecfebcdfbfeffaaffebbaf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\1ms0rryMiner\a1dc7ead6d6684ecfe4b23cd035fbf647e16278ffa31a287f24fe1bb27806a7f.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\NitroStealer\0a4a4add676de2d153171b422cf3ce6e501c42e9b8f6c9244f756b2ba40bf0e2.exe
+被以下規則掃描到:
+- 規則: rule_03_aaadddedbcfceecebfcfbbabfe_exe.yar
+  命令: yara64 "ALL yara rules\rule_03_aaadddedbcfceecebfcfbbabfe_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\NitroStealer\0a4a4add676de2d153171b422cf3ce6e501c42e9b8f6c9244f756b2ba40bf0e2.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\NitroStealer\30c1000f2c89e04995f2dd05e81a35addadd8646a903437a51a7abb4f91cba40.exe
+被以下規則掃描到:
+- 規則: rule_04_cfcefddeaaddaddaaaabbfcba_exe.yar
+  命令: yara64 "ALL yara rules\rule_04_cfcefddeaaddaddaaaabbfcba_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\NitroStealer\30c1000f2c89e04995f2dd05e81a35addadd8646a903437a51a7abb4f91cba40.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\NitroStealer\54c91df7deaeaf52b3e9cb09480781c6929da68c64aa6298989b5e06e659e482.exe
+被以下規則掃描到:
+- 規則: rule_05_cdfdeaeafbecbcdacaabeee_exe.yar
+  命令: yara64 "ALL yara rules\rule_05_cdfdeaeafbecbcdacaabeee_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\NitroStealer\54c91df7deaeaf52b3e9cb09480781c6929da68c64aa6298989b5e06e659e482.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\NitroStealer\97873e59ba02f0e322bce20f7222e58c6808b8a40af8c5225459d77f9c030537.exe
+被以下規則掃描到:
+- 規則: rule_06_ebafebcefecbaafcdfc_exe.yar
+  命令: yara64 "ALL yara rules\rule_06_ebafebcefecbaafcdfc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\NitroStealer\97873e59ba02f0e322bce20f7222e58c6808b8a40af8c5225459d77f9c030537.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\NitroStealer\a3edb9db3528c751e0a0b74b9dc8c98b917e68dfc6613671995f51429ac900d7.exe
+被以下規則掃描到:
+- 規則: rule_07_aedbdbceabbdccbedfcfacd_exe.yar
+  命令: yara64 "ALL yara rules\rule_07_aedbdbceabbdccbedfcfacd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\NitroStealer\a3edb9db3528c751e0a0b74b9dc8c98b917e68dfc6613671995f51429ac900d7.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\NitroStealer\c9ac9582c979029bb83b4b14b735c764ef94bdac3dd59ebe5963d2ca0ad5f897.exe
+被以下規則掃描到:
+- 規則: rule_08_caccbbbbbcefbdacddebedcaadf_exe.yar
+  命令: yara64 "ALL yara rules\rule_08_caccbbbbbcefbdacddebedcaadf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\NitroStealer\c9ac9582c979029bb83b4b14b735c764ef94bdac3dd59ebe5963d2ca0ad5f897.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\OskiStealer\3be583104ac2df031993b4f1bcbca40c01cefc5282050bc70b74e6e428291aba.exe
+被以下規則掃描到:
+- 規則: rule_09_beacdfbfbcbcaccefcbcbeeaba_exe.yar
+  命令: yara64 "ALL yara rules\rule_09_beacdfbfbcbcaccefcbcbeeaba_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\OskiStealer\3be583104ac2df031993b4f1bcbca40c01cefc5282050bc70b74e6e428291aba.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\OskiStealer\4277f535c9ba7220bd853269f0b2b75a702eb6c298240e4439179405072283dd.exe
+被以下規則掃描到:
+- 規則: rule_10_fcbabdfbbaebcedd_exe.yar
+  命令: yara64 "ALL yara rules\rule_10_fcbabdfbbaebcedd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\OskiStealer\4277f535c9ba7220bd853269f0b2b75a702eb6c298240e4439179405072283dd.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\OskiStealer\9db40f7f060e08b2891dc881c6f6d1ea165b56747b4302fd96e53d8bd194d8d5.exe
+被以下規則掃描到:
+- 規則: rule_11_dbffebdccfdeabbfdedbddd_exe.yar
+  命令: yara64 "ALL yara rules\rule_11_dbffebdccfdeabbfdedbddd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\OskiStealer\9db40f7f060e08b2891dc881c6f6d1ea165b56747b4302fd96e53d8bd194d8d5.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\OskiStealer\f98f307a6a414fcbe42e1017d720f1ed8c9e0df21b703f74e94dbe1afa8b32ff.exe
+被以下規則掃描到:
+- 規則: rule_12_ffaafcbeedfedcedfbfedbeafabff_exe.yar
+  命令: yara64 "ALL yara rules\rule_12_ffaafcbeedfedcedfbfedbeafabff_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\OskiStealer\f98f307a6a414fcbe42e1017d720f1ed8c9e0df21b703f74e94dbe1afa8b32ff.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\PandaStealer\0017e2bb45469ea5f02edab017f77b7242c9a3330478c748e7e8380149ded601.exe
+被以下規則掃描到:
+- 規則: rule_13_ebbeafedabfbcaceeded_exe.yar
+  命令: yara64 "ALL yara rules\rule_13_ebbeafedabfbcaceeded_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\PandaStealer\0017e2bb45469ea5f02edab017f77b7242c9a3330478c748e7e8380149ded601.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\PandaStealer\04a3b0f970d1689d6c1d6859c81ef3f41f1a503baf4275188e848548b2669950.exe
+被以下規則掃描到:
+- 規則: rule_14_abfddcdcefffabafeb_exe.yar
+  命令: yara64 "ALL yara rules\rule_14_abfddcdcefffabafeb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\PandaStealer\04a3b0f970d1689d6c1d6859c81ef3f41f1a503baf4275188e848548b2669950.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\PandaStealer\05d38ac5460418b0aa813fc8c582ee5be42be192de10d188332901157c54287c.exe
+被以下規則掃描到:
+- 規則: rule_15_dacbaafcceebebededcc_exe.yar
+  命令: yara64 "ALL yara rules\rule_15_dacbaafcceebebededcc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\PandaStealer\05d38ac5460418b0aa813fc8c582ee5be42be192de10d188332901157c54287c.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\PandaStealer\9fc9eb14ef8cae1832d29e2b831fef33ad1fdd27de590f1d7727dc58f260992e.exe
+被以下規則掃描到:
+- 規則: rule_16_fcebefcaedebfefadfdddefddcfe_exe.yar
+  命令: yara64 "ALL yara rules\rule_16_fcebefcaedebfefadfdddefddcfe_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\PandaStealer\9fc9eb14ef8cae1832d29e2b831fef33ad1fdd27de590f1d7727dc58f260992e.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\PhoenixStealer\2b697dedde68e57f4ce0031983226e1db30f0e41e52e5307f1bb1eddc87ae7e7.exe
+被以下規則掃描到:
+- 規則: rule_17_bdeddeefceedbfeeefbbeddcaee_exe.yar
+  命令: yara64 "ALL yara rules\rule_17_bdeddeefceedbfeeefbbeddcaee_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\PhoenixStealer\2b697dedde68e57f4ce0031983226e1db30f0e41e52e5307f1bb1eddc87ae7e7.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\PhoenixStealer\2e7a02de59323fccbd4c44da43a2846b6492bf68cf0b22057e42200a4bba1e93.exe
+被以下規則掃描到:
+- 規則: rule_18_eadefccbdcdaabbfcfbeabbae_exe.yar
+  命令: yara64 "ALL yara rules\rule_18_eadefccbdcdaabbfcfbeabbae_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\PhoenixStealer\2e7a02de59323fccbd4c44da43a2846b6492bf68cf0b22057e42200a4bba1e93.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\PhoenixStealer\7c6be662e016b02ac9e7a44966301ea70b365e5ca38d9ebb493544a186083349.exe
+被以下規則掃描到:
+- 規則: rule_19_cbeebaceaeabecadebba_exe.yar
+  命令: yara64 "ALL yara rules\rule_19_cbeebaceaeabecadebba_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\PhoenixStealer\7c6be662e016b02ac9e7a44966301ea70b365e5ca38d9ebb493544a186083349.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\PhoenixStealer\b57f308f23219a556a06c31ada3c96f055ca0608665091b7cce2757200736ea9.exe
+被以下規則掃描到:
+- 規則: rule_20_bffaacadacfcabcceea_exe.yar
+  命令: yara64 "ALL yara rules\rule_20_bffaacadacfcabcceea_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\PhoenixStealer\b57f308f23219a556a06c31ada3c96f055ca0608665091b7cce2757200736ea9.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\PhoenixStealer\e62467fc0e7982279b2752a3330e741135366e7b318890aa9613ccc5ddcfd37f.exe
+被以下規則掃描到:
+- 規則: rule_21_efcebaeebaacccddcfdf_exe.yar
+  命令: yara64 "ALL yara rules\rule_21_efcebaeebaacccddcfdf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\PhoenixStealer\e62467fc0e7982279b2752a3330e741135366e7b318890aa9613ccc5ddcfd37f.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\PredatorStealer\5a917efefa5936c1931158d7061e428bdf412112823de5d24ab8546b8c4f2877.exe
+被以下規則掃描到:
+- 規則: rule_22_aefefacdebdfdedabbcf_exe.yar
+  命令: yara64 "ALL yara rules\rule_22_aefefacdebdfdedabbcf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\PredatorStealer\5a917efefa5936c1931158d7061e428bdf412112823de5d24ab8546b8c4f2877.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\PredatorStealer\ff48fabbfab6eabbcda54ac752aac9b681253da1cf3c9ee8ee4a0c1b224147b7.exe
+被以下規則掃描到:
+- 規則: rule_23_fffabbfabeabbcdaacaacbdacfceeeeacbb_exe.yar
+  命令: yara64 "ALL yara rules\rule_23_fffabbfabeabbcdaacaacbdacfceeeeacbb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\PredatorStealer\ff48fabbfab6eabbcda54ac752aac9b681253da1cf3c9ee8ee4a0c1b224147b7.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\RaccoonStealer\0fd2b5dba8eb6762b397cf61bd9c2ff9de3eefc8eb8c4cbb1002d1b9c96fe5d1.exe
+被以下規則掃描到:
+- 規則: rule_24_fdbdbaebbcfbdcffdeeefcebccbbdbcfed_exe.yar
+  命令: yara64 "ALL yara rules\rule_24_fdbdbaebbcfbdcffdeeefcebccbbdbcfed_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\RaccoonStealer\0fd2b5dba8eb6762b397cf61bd9c2ff9de3eefc8eb8c4cbb1002d1b9c96fe5d1.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\RaccoonStealer\218333bd24c8318b23dd2c9579df008329219ef3841a9bcbc17b4a725c075cae.exe
+被以下規則掃描到:
+- 規則: rule_25_bdcbddcdfefabcbcbaccae_exe.yar
+  命令: yara64 "ALL yara rules\rule_25_bdcbddcdfefabcbcbaccae_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\RaccoonStealer\218333bd24c8318b23dd2c9579df008329219ef3841a9bcbc17b4a725c075cae.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\RaccoonStealer\3cc66db6e76b9b4e3713fcf69438cd1ec43253165f3fe1e05593580da9737d3b.exe
+被以下規則掃描到:
+- 規則: rule_26_ccdbebbefcfcdecffeedadb_exe.yar
+  命令: yara64 "ALL yara rules\rule_26_ccdbebbefcfcdecffeedadb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\RaccoonStealer\3cc66db6e76b9b4e3713fcf69438cd1ec43253165f3fe1e05593580da9737d3b.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\RedLineStealer\0d5bfc0c20d8142640a572b53e611015b225c0312faac51006c299e59a061a8a.exe
+被以下規則掃描到:
+- 規則: rule_27_dbfccdabebcfaacceaaa_exe.yar
+  命令: yara64 "ALL yara rules\rule_27_dbfccdabebcfaacceaaa_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\RedLineStealer\0d5bfc0c20d8142640a572b53e611015b225c0312faac51006c299e59a061a8a.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\RedLineStealer\3c90e174ff5097d991e0b99001a4e64e0c9e312df0ec03cee51380148974920e.exe
+被以下規則掃描到:
+- 規則: rule_28_ceffdebaeecedfecceee_exe.yar
+  命令: yara64 "ALL yara rules\rule_28_ceffdebaeecedfecceee_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\RedLineStealer\3c90e174ff5097d991e0b99001a4e64e0c9e312df0ec03cee51380148974920e.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\RedLineStealer\5e511e5ef8d11046dae403ecb2299c18320d9ccc1ede9fdaff63ef5d42672753.exe
+被以下規則掃描到:
+- 規則: rule_29_eeefddaeecbcdcccedefdaffefd_exe.yar
+  命令: yara64 "ALL yara rules\rule_29_eeefddaeecbcdcccedefdaffefd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\RedLineStealer\5e511e5ef8d11046dae403ecb2299c18320d9ccc1ede9fdaff63ef5d42672753.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\RedLineStealer\7afefba65e72f42925ba76fae9ea98286eff7d0d01dcccd07c6117384858b6bb.exe
+被以下規則掃描到:
+- 規則: rule_30_afefbaefbafaeeaeffdddcccdcbbb_exe.yar
+  命令: yara64 "ALL yara rules\rule_30_afefbaefbafaeeaeffdddcccdcbbb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\RedLineStealer\7afefba65e72f42925ba76fae9ea98286eff7d0d01dcccd07c6117384858b6bb.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\RedLineStealer\8e260eb76e2774843e8e79bfb5adef7a9eb06efb28161c9101a10accb475a54a.exe
+被以下規則掃描到:
+- 規則: rule_31_eebeeebfbadefaebefbcaaccbaa_exe.yar
+  命令: yara64 "ALL yara rules\rule_31_eebeeebfbadefaebefbcaaccbaa_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\RedLineStealer\8e260eb76e2774843e8e79bfb5adef7a9eb06efb28161c9101a10accb475a54a.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\RedLineStealer\aa0bce1f6c467a14f58b4897f23c70c80bd690ea91cc6855bc3c060b5b903cf9.exe
+被以下規則掃描到:
+- 規則: rule_32_aabcefcafbfccbdeaccbccbbcf_exe.yar
+  命令: yara64 "ALL yara rules\rule_32_aabcefcafbfccbdeaccbccbbcf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\RedLineStealer\aa0bce1f6c467a14f58b4897f23c70c80bd690ea91cc6855bc3c060b5b903cf9.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\RedLineStealer\f3fa03025a7f730194ec723fc73550b525bc098969c32802d6eddef97a7486f1.exe
+被以下規則掃描到:
+- 規則: rule_33_ffaafecfcbbccdeddefaf_exe.yar
+  命令: yara64 "ALL yara rules\rule_33_ffaafecfcbbccdeddefaf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\RedLineStealer\f3fa03025a7f730194ec723fc73550b525bc098969c32802d6eddef97a7486f1.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\RezoStealer\a925fc1289573f01bb86482e38340f0fe431269aa7500d776713c71091c49142.exe
+被以下規則掃描到:
+- 規則: rule_34_afcfbbeffeaadcc_exe.yar
+  命令: yara64 "ALL yara rules\rule_34_afcfbbeffeaadcc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\RezoStealer\a925fc1289573f01bb86482e38340f0fe431269aa7500d776713c71091c49142.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\RustyStealer\8f47d1e39242ee4b528fcb6eb1a89983c27854bac57bc4a15597b37b7edf34a6.exe
+被以下規則掃描到:
+- 規則: rule_35_fdeeebfcbebacbacbcabbedfa_exe.yar
+  命令: yara64 "ALL yara rules\rule_35_fdeeebfcbebacbacbcabbedfa_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\RustyStealer\8f47d1e39242ee4b528fcb6eb1a89983c27854bac57bc4a15597b37b7edf34a6.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\RustyStealer\faaa57dddff3a0e513c4abc0480ec7b877568269669cb15dee4927656588ad6d.exe
+被以下規則掃描到:
+- 規則: rule_36_faaadddffaecabcecbcbdeeadd_exe.yar
+  命令: yara64 "ALL yara rules\rule_36_faaadddffaecabcecbcbdeeadd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\RustyStealer\faaa57dddff3a0e513c4abc0480ec7b877568269669cb15dee4927656588ad6d.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\TaurusStealer\100f3322fa66d60cb9a64e2cbcceb0a9558e65e600526fcbc25852d62940c7ea.exe
+被以下規則掃描到:
+- 規則: rule_37_ffadcbaecbccebaeefcbcdcea_exe.yar
+  命令: yara64 "ALL yara rules\rule_37_ffadcbaecbccebaeefcbcdcea_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\TaurusStealer\100f3322fa66d60cb9a64e2cbcceb0a9558e65e600526fcbc25852d62940c7ea.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\TaurusStealer\2348533bdaabfe1f6418b36fa8e3aa06beb2317636a4cb6b0248bd4a01e51f95.exe
+被以下規則掃描到:
+- 規則: rule_38_bdaabfefbfaeaabebacbbbdaef_exe.yar
+  命令: yara64 "ALL yara rules\rule_38_bdaabfefbfaeaabebacbbbdaef_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\TaurusStealer\2348533bdaabfe1f6418b36fa8e3aa06beb2317636a4cb6b0248bd4a01e51f95.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\TaurusStealer\4245088e2600188006929bc88f455b57e849ef1748c0bda3e9bd3c4dd23ae017.exe
+被以下規則掃描到:
+- 規則: rule_39_ebcfbeefcbdaebdcddae_exe.yar
+  命令: yara64 "ALL yara rules\rule_39_ebcfbeefcbdaebdcddae_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\TaurusStealer\4245088e2600188006929bc88f455b57e849ef1748c0bda3e9bd3c4dd23ae017.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\TaurusStealer\68f9243f40945d2c3f15bed2d106401737caa94a26716af3d5918b3c0f760e8b.exe
+被以下規則掃描到:
+- 規則: rule_40_ffdcfbeddcaaaafdbcfeb_exe.yar
+  命令: yara64 "ALL yara rules\rule_40_ffdcfbeddcaaaafdbcfeb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\TaurusStealer\68f9243f40945d2c3f15bed2d106401737caa94a26716af3d5918b3c0f760e8b.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\TaurusStealer\84f6fd5103bfa97b8479af5a6db82100149167690502bb0231e6832fc463af13.exe
+被以下規則掃描到:
+- 規則: rule_41_ffdbfabafadbbbefcaf_exe.yar
+  命令: yara64 "ALL yara rules\rule_41_ffdbfabafadbbbefcaf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\TaurusStealer\84f6fd5103bfa97b8479af5a6db82100149167690502bb0231e6832fc463af13.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\VikroStealer\48a02cad33e580c75623f1e5b7f31abd174cde98be1381d002e7c2ce53ea2e77.exe
+被以下規則掃描到:
+- 規則: rule_42_acadecfebfabdcdebedecceeae_exe.yar
+  命令: yara64 "ALL yara rules\rule_42_acadecfebfabdcdebedecceeae_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\VikroStealer\48a02cad33e580c75623f1e5b7f31abd174cde98be1381d002e7c2ce53ea2e77.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\VikroStealer\7da988d08030c5ec1e3e6b3ffe424124c68fbcd7334fd441ec669ecd6ddf66b1.exe
+被以下規則掃描到:
+- 規則: rule_43_dadceceebffecfbcdfdececdddfb_exe.yar
+  命令: yara64 "ALL yara rules\rule_43_dadceceebffecfbcdfdececdddfb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\VikroStealer\7da988d08030c5ec1e3e6b3ffe424124c68fbcd7334fd441ec669ecd6ddf66b1.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\XenonStealer\63c4e17fa9b6d87a9f4b68b854cae50e95f8de2a86929fecb8f34af0d15798e7.exe
+被以下規則掃描到:
+- 規則: rule_44_cefabdafbbcaeefdeafecbfafde_exe.yar
+  命令: yara64 "ALL yara rules\rule_44_cefabdafbbcaeefdeafecbfafde_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\XenonStealer\63c4e17fa9b6d87a9f4b68b854cae50e95f8de2a86929fecb8f34af0d15798e7.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\ZeromaxStealer\4cb67a53b9aa137648e0af6235202f2a7ed2def37fa48fbda0ba6a9fb46f01c7.exe
+被以下規則掃描到:
+- 規則: rule_45_cbabaaeaffaeddeffafbdabaafbfc_exe.yar
+  命令: yara64 "ALL yara rules\rule_45_cbabaaeaffaeddeffafbdabaafbfc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Stealer\ZeromaxStealer\4cb67a53b9aa137648e0af6235202f2a7ed2def37fa48fbda0ba6a9fb46f01c7.exe"
+
+
+總結:
+被掃描到的惡意程式: 45
+總共掃描的程式: 165

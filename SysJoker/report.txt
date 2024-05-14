@@ -1,0 +1,14 @@
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/SysJoker\1ffd6559d21470c40dcf9236da51e5823d7ad58c93502279871c3fe7718c901c.exe
+被以下規則掃描到:
+- 規則: rule_01_ffddcdcfdaedadccfecc_exe.yar
+  命令: yara64 "ALL yara rules\rule_01_ffddcdcfdaedadccfecc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/SysJoker\1ffd6559d21470c40dcf9236da51e5823d7ad58c93502279871c3fe7718c901c.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/SysJoker\61df74731fbe1eafb2eb987f20e5226962eeceef010164e41ea6c4494a4010fc.dll
+被以下規則掃描到:
+- 規則: rule_02_dffbeeafbebfeeeceefeeacafc_dll.yar
+  命令: yara64 "ALL yara rules\rule_02_dffbeeafbebfeeeceefeeacafc_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/SysJoker\61df74731fbe1eafb2eb987f20e5226962eeceef010164e41ea6c4494a4010fc.dll"
+
+
+總結:
+被掃描到的惡意程式: 2
+總共掃描的程式: 4

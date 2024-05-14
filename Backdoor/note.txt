@@ -1,0 +1,2 @@
+analyze spend 01:30:00 time
+scan spend 01:00:00 time

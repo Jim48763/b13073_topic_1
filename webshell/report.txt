@@ -1,0 +1,19 @@
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/webshell\1099e1102e653f535ffc0af20da552de24ebbf7594ed8167b3b879393d2ec8d4.exe
+被以下規則掃描到:
+- 規則: rule_01_eefffcafdadeebbfedbbdecd_exe.yar
+  命令: yara64 "ALL yara rules\rule_01_eefffcafdadeebbfedbbdecd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/webshell\1099e1102e653f535ffc0af20da552de24ebbf7594ed8167b3b879393d2ec8d4.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/webshell\6c556f969bd5f41bc7b9eea322ece79ae8694a1a1a41773a6e34d4cc6d00ddaf.exe
+被以下規則掃描到:
+- 規則: rule_03_cfbdfbcbeeaeceaeaaaaedccdddaf_exe.yar
+  命令: yara64 "ALL yara rules\rule_03_cfbdfbcbeeaeceaeaaaaedccdddaf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/webshell\6c556f969bd5f41bc7b9eea322ece79ae8694a1a1a41773a6e34d4cc6d00ddaf.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/webshell\91861078428f6a75b48234afabc50176c5fa013949cd6f5910ed619ba0f6c103.dll
+被以下規則掃描到:
+- 規則: rule_04_fabafabccfacdfedbafc_dll.yar
+  命令: yara64 "ALL yara rules\rule_04_fabafabccfacdfedbafc_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/webshell\91861078428f6a75b48234afabc50176c5fa013949cd6f5910ed619ba0f6c103.dll"
+
+
+總結:
+被掃描到的惡意程式: 3
+總共掃描的程式: 102

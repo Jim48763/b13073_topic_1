@@ -1,0 +1,19 @@
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Log4j\76960749ed11d97582923e31d59115910ae74d8753c8e92f918f604ca8a0d26d.exe
+被以下規則掃描到:
+- 規則: rule_01_eddedaedceffcaadd_exe.yar
+  命令: yara64 "ALL yara rules\rule_01_eddedaedceffcaadd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Log4j\76960749ed11d97582923e31d59115910ae74d8753c8e92f918f604ca8a0d26d.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Log4j\8350a3a65abbc7a2ecb5c8d997341289370d26d1f6ad65e9bd99f04c806baa89.exe
+被以下規則掃描到:
+- 規則: rule_02_aaabbcaecbcdddfadebdfcbaa_exe.yar
+  命令: yara64 "ALL yara rules\rule_02_aaabbcaecbcdddfadebdfcbaa_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Log4j\8350a3a65abbc7a2ecb5c8d997341289370d26d1f6ad65e9bd99f04c806baa89.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Log4j\e8b2a8d0c3444c53f143d0b4ba87c23dd1b58b03fd0a6b1bcd6e8358e57807f1.exe
+被以下規則掃描到:
+- 規則: rule_03_ebadccfdbbacddbbfdabbcdeef_exe.yar
+  命令: yara64 "ALL yara rules\rule_03_ebadccfdbbacddbbfdabbcdeef_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Log4j\e8b2a8d0c3444c53f143d0b4ba87c23dd1b58b03fd0a6b1bcd6e8358e57807f1.exe"
+
+
+總結:
+被掃描到的惡意程式: 3
+總共掃描的程式: 24

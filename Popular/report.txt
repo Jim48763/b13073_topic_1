@@ -1,0 +1,189 @@
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Bonzify.exe
+被以下規則掃描到:
+- 規則: rule_01_Bonzify_exe.yar
+  命令: yara64 "ALL yara rules\rule_01_Bonzify_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Bonzify.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Email-Worm.Magistr.exe
+被以下規則掃描到:
+- 規則: rule_02_Email_Worm_Magistr_exe.yar
+  命令: yara64 "ALL yara rules\rule_02_Email_Worm_Magistr_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Email-Worm.Magistr.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Email-Worm.MyDoom.A.exe
+被以下規則掃描到:
+- 規則: rule_03_Email_Worm_MyDoom_A_exe.yar
+  命令: yara64 "ALL yara rules\rule_03_Email_Worm_MyDoom_A_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Email-Worm.MyDoom.A.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Email-Worm.MyDoom.L.exe
+被以下規則掃描到:
+- 規則: rule_04_Email_Worm_MyDoom_L_exe.yar
+  命令: yara64 "ALL yara rules\rule_04_Email_Worm_MyDoom_L_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Email-Worm.MyDoom.L.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Email-Worm.MyDoom.M.exe
+被以下規則掃描到:
+- 規則: rule_05_Email_Worm_MyDoom_M_exe.yar
+  命令: yara64 "ALL yara rules\rule_05_Email_Worm_MyDoom_M_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Email-Worm.MyDoom.M.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Email-Worm.MyDoom.NF.exe
+被以下規則掃描到:
+- 規則: rule_06_Email_Worm_MyDoom_NF_exe.yar
+  命令: yara64 "ALL yara rules\rule_06_Email_Worm_MyDoom_NF_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Email-Worm.MyDoom.NF.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Email-Worm.MyDoom.Q.exe
+被以下規則掃描到:
+- 規則: rule_07_Email_Worm_MyDoom_Q_exe.yar
+  命令: yara64 "ALL yara rules\rule_07_Email_Worm_MyDoom_Q_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Email-Worm.MyDoom.Q.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Joke.ChilledWindows.exe
+被以下規則掃描到:
+- 規則: rule_08_Joke_ChilledWindows_exe.yar
+  命令: yara64 "ALL yara rules\rule_08_Joke_ChilledWindows_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Joke.ChilledWindows.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Joke.SnowAtDestkop.exe
+被以下規則掃描到:
+- 規則: rule_09_Joke_SnowAtDestkop_exe.yar
+  命令: yara64 "ALL yara rules\rule_09_Joke_SnowAtDestkop_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Joke.SnowAtDestkop.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Locky.exe
+被以下規則掃描到:
+- 規則: rule_10_Locky_exe.yar
+  命令: yara64 "ALL yara rules\rule_10_Locky_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Locky.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Net-Worm.Sasser.exe
+被以下規則掃描到:
+- 規則: rule_11_Net_Worm_Sasser_exe.yar
+  命令: yara64 "ALL yara rules\rule_11_Net_Worm_Sasser_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Net-Worm.Sasser.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Ransomware.7ev3n.exe
+被以下規則掃描到:
+- 規則: rule_12_Ransomware_evn_exe.yar
+  命令: yara64 "ALL yara rules\rule_12_Ransomware_evn_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Ransomware.7ev3n.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Ransomware.BadRabbit.exe
+被以下規則掃描到:
+- 規則: rule_13_Ransomware_BadRabbit_exe.yar
+  命令: yara64 "ALL yara rules\rule_13_Ransomware_BadRabbit_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Ransomware.BadRabbit.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Ransomware.CoronaVirus.exe
+被以下規則掃描到:
+- 規則: rule_14_Ransomware_CoronaVirus_exe.yar
+  命令: yara64 "ALL yara rules\rule_14_Ransomware_CoronaVirus_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Ransomware.CoronaVirus.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Ransomware.CryptoLocker.exe
+被以下規則掃描到:
+- 規則: rule_15_Ransomware_CryptoLocker_exe.yar
+  命令: yara64 "ALL yara rules\rule_15_Ransomware_CryptoLocker_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Ransomware.CryptoLocker.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Ransomware.CryptoWall.exe
+被以下規則掃描到:
+- 規則: rule_16_Ransomware_CryptoWall_exe.yar
+  命令: yara64 "ALL yara rules\rule_16_Ransomware_CryptoWall_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Ransomware.CryptoWall.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Ransomware.GoldenEye.exe
+被以下規則掃描到:
+- 規則: rule_17_Ransomware_GoldenEye_exe.yar
+  命令: yara64 "ALL yara rules\rule_17_Ransomware_GoldenEye_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Ransomware.GoldenEye.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Ransomware.Jigsaw.exe
+被以下規則掃描到:
+- 規則: rule_18_Ransomware_Jigsaw_exe.yar
+  命令: yara64 "ALL yara rules\rule_18_Ransomware_Jigsaw_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Ransomware.Jigsaw.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Ransomware.Mischa.exe
+被以下規則掃描到:
+- 規則: rule_19_Ransomware_Mischa_exe.yar
+  命令: yara64 "ALL yara rules\rule_19_Ransomware_Mischa_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Ransomware.Mischa.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Ransomware.Mischa.v2.exe
+被以下規則掃描到:
+- 規則: rule_20_Ransomware_Mischa_v_exe.yar
+  命令: yara64 "ALL yara rules\rule_20_Ransomware_Mischa_v_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Ransomware.Mischa.v2.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Ransomware.NotPetya.exe
+被以下規則掃描到:
+- 規則: rule_21_Ransomware_NotPetya_exe.yar
+  命令: yara64 "ALL yara rules\rule_21_Ransomware_NotPetya_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Ransomware.NotPetya.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Ransomware.Petya.A.exe
+被以下規則掃描到:
+- 規則: rule_22_Ransomware_Petya_A_exe.yar
+  命令: yara64 "ALL yara rules\rule_22_Ransomware_Petya_A_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Ransomware.Petya.A.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Ransomware.Satana.exe
+被以下規則掃描到:
+- 規則: rule_23_Ransomware_Satana_exe.yar
+  命令: yara64 "ALL yara rules\rule_23_Ransomware_Satana_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Ransomware.Satana.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Ransomware.WannaCrypt0r.v1.exe
+被以下規則掃描到:
+- 規則: rule_24_Ransomware_WannaCryptr_v_exe.yar
+  命令: yara64 "ALL yara rules\rule_24_Ransomware_WannaCryptr_v_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Ransomware.WannaCrypt0r.v1.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Ransomware.WannaCrypt0r.v2.exe
+被以下規則掃描到:
+- 規則: rule_25_Ransomware_WannaCryptr_v_exe.yar
+  命令: yara64 "ALL yara rules\rule_25_Ransomware_WannaCryptr_v_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Ransomware.WannaCrypt0r.v2.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Trojan.000.exe
+被以下規則掃描到:
+- 規則: rule_26_Trojan__exe.yar
+  命令: yara64 "ALL yara rules\rule_26_Trojan__exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Trojan.000.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Trojan.Anti-VM.ANA.exe
+被以下規則掃描到:
+- 規則: rule_27_Trojan_Anti_VM_ANA_exe.yar
+  命令: yara64 "ALL yara rules\rule_27_Trojan_Anti_VM_ANA_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Trojan.Anti-VM.ANA.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Trojan.BossDaMajor.exe
+被以下規則掃描到:
+- 規則: rule_28_Trojan_BossDaMajor_exe.yar
+  命令: yara64 "ALL yara rules\rule_28_Trojan_BossDaMajor_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Trojan.BossDaMajor.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Trojan.BUG32.exe
+被以下規則掃描到:
+- 規則: rule_29_Trojan_BUG_exe.yar
+  命令: yara64 "ALL yara rules\rule_29_Trojan_BUG_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Trojan.BUG32.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Trojan.ColorBug.exe
+被以下規則掃描到:
+- 規則: rule_30_Trojan_ColorBug_exe.yar
+  命令: yara64 "ALL yara rules\rule_30_Trojan_ColorBug_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Trojan.ColorBug.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Trojan.MrsMajor2.0.exe
+被以下規則掃描到:
+- 規則: rule_31_Trojan_MrsMajor__exe.yar
+  命令: yara64 "ALL yara rules\rule_31_Trojan_MrsMajor__exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Trojan.MrsMajor2.0.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Trojan.MrsMajor3.0.exe
+被以下規則掃描到:
+- 規則: rule_32_Trojan_MrsMajor__exe.yar
+  命令: yara64 "ALL yara rules\rule_32_Trojan_MrsMajor__exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Trojan.MrsMajor3.0.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Trojan.NoEscape.exe
+被以下規則掃描到:
+- 規則: rule_33_Trojan_NoEscape_exe.yar
+  命令: yara64 "ALL yara rules\rule_33_Trojan_NoEscape_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Trojan.NoEscape.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Trojan.RegFuck.exe
+被以下規則掃描到:
+- 規則: rule_34_Trojan_RegFuck_exe.yar
+  命令: yara64 "ALL yara rules\rule_34_Trojan_RegFuck_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Trojan.RegFuck.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Trojan.Stuxnet.exe
+被以下規則掃描到:
+- 規則: rule_35_Trojan_Stuxnet_exe.yar
+  命令: yara64 "ALL yara rules\rule_35_Trojan_Stuxnet_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Trojan.Stuxnet.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Virus.CIH.exe
+被以下規則掃描到:
+- 規則: rule_37_Virus_CIH_exe.yar
+  命令: yara64 "ALL yara rules\rule_37_Virus_CIH_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Virus.CIH.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Virus.Win32.CIH.exe
+被以下規則掃描到:
+- 規則: rule_38_Virus_Win_CIH_exe.yar
+  命令: yara64 "ALL yara rules\rule_38_Virus_Win_CIH_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Popular\Virus.Win32.CIH.exe"
+
+
+總結:
+被掃描到的惡意程式: 37
+總共掃描的程式: 89

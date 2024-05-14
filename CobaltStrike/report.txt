@@ -1,0 +1,19 @@
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CobaltStrike\2a9cc30f7d56b3534b928749f86e7ca5d95d41086087ca1e34e021d0a2899d19.exe
+被以下規則掃描到:
+- 規則: rule_01_accfdbbfecaddcaeedad_exe.yar
+  命令: yara64 "ALL yara rules\rule_01_accfdbbfecaddcaeedad_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CobaltStrike\2a9cc30f7d56b3534b928749f86e7ca5d95d41086087ca1e34e021d0a2899d19.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CobaltStrike\c4bdba41c72b44534eb7692b4ed7274112300be0d9b49645cb05218407c74b8d.exe
+被以下規則掃描到:
+- 規則: rule_02_cbdbacbebbedbedbcbcbd_exe.yar
+  命令: yara64 "ALL yara rules\rule_02_cbdbacbebbedbedbcbcbd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CobaltStrike\c4bdba41c72b44534eb7692b4ed7274112300be0d9b49645cb05218407c74b8d.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CobaltStrike\dddf1d1b2b58721f04fe1eb77804d02fb5fc14deca7d8b4f6a9ce3c55644090e.exe
+被以下規則掃描到:
+- 規則: rule_03_dddfdbbffeebdfbfcdecadbfacece_exe.yar
+  命令: yara64 "ALL yara rules\rule_03_dddfdbbffeebdfbfcdecadbfacece_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CobaltStrike\dddf1d1b2b58721f04fe1eb77804d02fb5fc14deca7d8b4f6a9ce3c55644090e.exe"
+
+
+總結:
+被掃描到的惡意程式: 3
+總共掃描的程式: 12

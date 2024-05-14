@@ -1,0 +1,29 @@
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/apt\27c42ec84c4f69e6ac63580e8dae70d87190e60974c71b04b6471a78d7956d0a.exe
+被以下規則掃描到:
+- 規則: rule_01_ceccfeacedaedecbbadda_exe.yar
+  命令: yara64 "ALL yara rules\rule_01_ceccfeacedaedecbbadda_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/apt\27c42ec84c4f69e6ac63580e8dae70d87190e60974c71b04b6471a78d7956d0a.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/apt\2f2ef9e3f6db2146bd277d3c4e94c002ecaf7deaabafe6195fddabc81a8ee76c.exe
+被以下規則掃描到:
+- 規則: rule_02_fefefdbbddcececafdeaabafefddabcaeec_exe.yar
+  命令: yara64 "ALL yara rules\rule_02_fefefdbbddcececafdeaabafefddabcaeec_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/apt\2f2ef9e3f6db2146bd277d3c4e94c002ecaf7deaabafe6195fddabc81a8ee76c.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/apt\94b71ee0861cc7cfbbae53ad2e411a76f296fd5684edf6b25ebe79bf6a2a600a.exe
+被以下規則掃描到:
+- 規則: rule_03_beecccfbbaeadeaffdedfbebebfaaa_exe.yar
+  命令: yara64 "ALL yara rules\rule_03_beecccfbbaeadeaffdedfbebebfaaa_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/apt\94b71ee0861cc7cfbbae53ad2e411a76f296fd5684edf6b25ebe79bf6a2a600a.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/apt\b732bba813c06c1c92975b34eda400a84b5cc54a460eeca309dfecbe9b559bd4.exe
+被以下規則掃描到:
+- 規則: rule_04_bbbacccbedaabccaeecadfecbebbd_exe.yar
+  命令: yara64 "ALL yara rules\rule_04_bbbacccbedaabccaeecadfecbebbd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/apt\b732bba813c06c1c92975b34eda400a84b5cc54a460eeca309dfecbe9b559bd4.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/apt\f2ce2a00de8673f52d37911f3e0752b8dfab751b2a17e719a565b4083455528e.exe
+被以下規則掃描到:
+- 規則: rule_05_fceadefdfebdfabbaeabe_exe.yar
+  命令: yara64 "ALL yara rules\rule_05_fceadefdfebdfabbaeabe_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/apt\f2ce2a00de8673f52d37911f3e0752b8dfab751b2a17e719a565b4083455528e.exe"
+
+
+總結:
+被掃描到的惡意程式: 5
+總共掃描的程式: 14

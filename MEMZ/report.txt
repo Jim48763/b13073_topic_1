@@ -1,0 +1,24 @@
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/MEMZ\MEMZ-4.0-Clean.exe
+被以下規則掃描到:
+- 規則: rule_01_MEMZ___Clean_exe.yar
+  命令: yara64 "ALL yara rules\rule_01_MEMZ___Clean_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/MEMZ\MEMZ-4.0-Clean.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/MEMZ\MEMZ-Destructive.exe
+被以下規則掃描到:
+- 規則: rule_02_MEMZ_Destructive_exe.yar
+  命令: yara64 "ALL yara rules\rule_02_MEMZ_Destructive_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/MEMZ\MEMZ-Destructive.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/MEMZ\MEMZ.exe
+被以下規則掃描到:
+- 規則: rule_04_MEMZ_exe.yar
+  命令: yara64 "ALL yara rules\rule_04_MEMZ_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/MEMZ\MEMZ.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/MEMZ\WaffMEMZ-1.0.exe
+被以下規則掃描到:
+- 規則: rule_05_WaffMEMZ___exe.yar
+  命令: yara64 "ALL yara rules\rule_05_WaffMEMZ___exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/MEMZ\WaffMEMZ-1.0.exe"
+
+
+總結:
+被掃描到的惡意程式: 4
+總共掃描的程式: 14

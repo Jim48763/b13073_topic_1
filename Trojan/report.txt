@@ -1,0 +1,294 @@
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\BlackShades\461d7db0a5cfe22ad8ff89a17de069086857a39711d19ec79f72c6951fc9e867.exe
+被以下規則掃描到:
+- 規則: rule_01_ddbacfeadffadeadecfcfce_exe.yar
+  命令: yara64 "ALL yara rules\rule_01_ddbacfeadffadeadecfcfce_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\BlackShades\461d7db0a5cfe22ad8ff89a17de069086857a39711d19ec79f72c6951fc9e867.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\BlackShades\6f3f2cb69106750e1f87e809974a4087f304151e0de5fc626da8df33da8eb2b8.exe
+被以下規則掃描到:
+- 規則: rule_02_ffcbefeafedefcdadfdaebb_exe.yar
+  命令: yara64 "ALL yara rules\rule_02_ffcbefeafedefcdadfdaebb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\BlackShades\6f3f2cb69106750e1f87e809974a4087f304151e0de5fc626da8df33da8eb2b8.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\BlackShades\91e6f72cd4a4721915609abef27afcb72f170739c51384332da3cb6a8bb8f150.exe
+被以下規則掃描到:
+- 規則: rule_03_efcdaabefafcbfcdacbabbf_exe.yar
+  命令: yara64 "ALL yara rules\rule_03_efcdaabefafcbfcdacbabbf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\BlackShades\91e6f72cd4a4721915609abef27afcb72f170739c51384332da3cb6a8bb8f150.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\BlackShades\b1e7478ebc4b374feb2964da15149281da610a4e5773b890b7c9cabb4469c29f.exe
+被以下規則掃描到:
+- 規則: rule_04_beebcbfebdadaaebbccabbcf_exe.yar
+  命令: yara64 "ALL yara rules\rule_04_beebcbfebdadaaebbccabbcf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\BlackShades\b1e7478ebc4b374feb2964da15149281da610a4e5773b890b7c9cabb4469c29f.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\BlackShades\edd438b2036412ab241f6c8dd6701e348c2d118f7d1e467b1af8867265735ba5.exe
+被以下規則掃描到:
+- 規則: rule_05_eddbabfcddecdfdebafba_exe.yar
+  命令: yara64 "ALL yara rules\rule_05_eddbabfcddecdfdebafba_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\BlackShades\edd438b2036412ab241f6c8dd6701e348c2d118f7d1e467b1af8867265735ba5.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Floxif\422a664da017db27e7e12490e332985ccfd3740f662b7ada1a6ba11d076906f6.dll
+被以下規則掃描到:
+- 規則: rule_06_adadbeeeccfdfbadaabadf_dll.yar
+  命令: yara64 "ALL yara rules\rule_06_adadbeeeccfdfbadaabadf_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Floxif\422a664da017db27e7e12490e332985ccfd3740f662b7ada1a6ba11d076906f6.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Floxif\6f2d3e1ae0ac968d44b8b5c0248734c6162a069904661dd9a19000342597d5ad.exe
+被以下規則掃描到:
+- 規則: rule_07_fdeaeacdbbccaddadad_exe.yar
+  命令: yara64 "ALL yara rules\rule_07_fdeaeacdbbccaddadad_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Floxif\6f2d3e1ae0ac968d44b8b5c0248734c6162a069904661dd9a19000342597d5ad.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Floxif\747a66a004c4656c5ecdc5a8d5fbed372147b06075e311a891be4781bbcb3d8a.dll
+被以下規則掃描到:
+- 規則: rule_08_aaccecdcadfbedbeabebbcbda_dll.yar
+  命令: yara64 "ALL yara rules\rule_08_aaccecdcadfbedbeabebbcbda_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Floxif\747a66a004c4656c5ecdc5a8d5fbed372147b06075e311a891be4781bbcb3d8a.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Floxif\c71631c334671834995df974926a21def6921141b7cbc6c2f2a3d69362c61498.exe
+被以下規則掃描到:
+- 規則: rule_09_ccdfadefbcbccfadc_exe.yar
+  命令: yara64 "ALL yara rules\rule_09_ccdfadefbcbccfadc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Floxif\c71631c334671834995df974926a21def6921141b7cbc6c2f2a3d69362c61498.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Formbook\cddea2722f3db7a704360f9e0d01cb9339f63e4fe7f58fc179422fbb9eedf9b0.exe
+被以下規則掃描到:
+- 規則: rule_11_cddeafdbafedcbfefeffcfbbeedfb_exe.yar
+  命令: yara64 "ALL yara rules\rule_11_cddeafdbafedcbfefeffcfbbeedfb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Formbook\cddea2722f3db7a704360f9e0d01cb9339f63e4fe7f58fc179422fbb9eedf9b0.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Formbook\d874d79e704ea41fb26c793d19301243166f0fcabaa3c99007640e5f56ecba8c.exe
+被以下規則掃描到:
+- 規則: rule_12_ddeeafbcdffcabaacefecbac_exe.yar
+  命令: yara64 "ALL yara rules\rule_12_ddeeafbcdffcabaacefecbac_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Formbook\d874d79e704ea41fb26c793d19301243166f0fcabaa3c99007640e5f56ecba8c.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Formbook\f3a2d8b0fe1ccd8d1deb057efd255a123444b0298e24d0aabe385136580accdc.exe
+被以下規則掃描到:
+- 規則: rule_13_fadbfeccdddebefdabedaabeaccdc_exe.yar
+  命令: yara64 "ALL yara rules\rule_13_fadbfeccdddebefdabedaabeaccdc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Formbook\f3a2d8b0fe1ccd8d1deb057efd255a123444b0298e24d0aabe385136580accdc.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Formbook\f6f0605ad0d43fbc77adc372198d2fd9768b93fe51f3fa050843fc4293050e84.exe
+被以下規則掃描到:
+- 規則: rule_14_ffaddfbcadcdfdbfeffafce_exe.yar
+  命令: yara64 "ALL yara rules\rule_14_ffaddfbcadcdfdbfeffafce_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Formbook\f6f0605ad0d43fbc77adc372198d2fd9768b93fe51f3fa050843fc4293050e84.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\HawkEye\40bdc01698c806663cb359cb632f36320837884062ddb6c440c8d11580bbc745.exe
+被以下規則掃描到:
+- 規則: rule_15_bdcccbcbfddbccdbbc_exe.yar
+  命令: yara64 "ALL yara rules\rule_15_bdcccbcbfddbccdbbc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\HawkEye\40bdc01698c806663cb359cb632f36320837884062ddb6c440c8d11580bbc745.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\HawkEye\4d16ac850f443e678e5cdc8c104f9369a97e8347c3a64f3fce173329072fee53.exe
+被以下規則掃描到:
+- 規則: rule_16_dacfeecdccfaecaffcefee_exe.yar
+  命令: yara64 "ALL yara rules\rule_16_dacfeecdccfaecaffcefee_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\HawkEye\4d16ac850f443e678e5cdc8c104f9369a97e8347c3a64f3fce173329072fee53.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\HawkEye\a72abccbb65d45e50e2bdac6fbfcc3832af2be5e8bb2c20904674b8e59fc667c.exe
+被以下規則掃描到:
+- 規則: rule_17_aabccbbdeebdacfbfccafbeebbcbefcc_exe.yar
+  命令: yara64 "ALL yara rules\rule_17_aabccbbdeebdacfbfccafbeebbcbefcc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\HawkEye\a72abccbb65d45e50e2bdac6fbfcc3832af2be5e8bb2c20904674b8e59fc667c.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\HawkEye\ea56daef74bb7280e915eb22485008a932d9a73345810f0fbf2861285dfb9bbc.exe
+被以下規則掃描到:
+- 規則: rule_18_eadaefbbeebadaffbfdfbbbc_exe.yar
+  命令: yara64 "ALL yara rules\rule_18_eadaefbbeebadaffbfdfbbbc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\HawkEye\ea56daef74bb7280e915eb22485008a932d9a73345810f0fbf2861285dfb9bbc.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\HawkEye\f73d29d3a5ead37600a865eab0c868a610700bfd608775d253ae9e3dce1f92c8.exe
+被以下規則掃描到:
+- 規則: rule_19_fddaeadaeabcabfddaeedcefc_exe.yar
+  命令: yara64 "ALL yara rules\rule_19_fddaeadaeabcabfddaeedcefc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\HawkEye\f73d29d3a5ead37600a865eab0c868a610700bfd608775d253ae9e3dce1f92c8.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\HermeticWiper\0385eeab00e946a302b24a91dea4187c1210597b8e17cd9e2230450f5ece21da.exe
+被以下規則掃描到:
+- 規則: rule_20_eeabeabadeacbecdefeceda_exe.yar
+  命令: yara64 "ALL yara rules\rule_20_eeabeabadeacbecdefeceda_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\HermeticWiper\0385eeab00e946a302b24a91dea4187c1210597b8e17cd9e2230450f5ece21da.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\HermeticWiper\06086c1da4590dcc7f1e10a6be3431e1166286a9e7761f2de9de79d7fda9c397.exe
+被以下規則掃描到:
+- 規則: rule_21_cdadccfeabeeaefdededfdac_exe.yar
+  命令: yara64 "ALL yara rules\rule_21_cdadccfeabeeaefdededfdac_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\HermeticWiper\06086c1da4590dcc7f1e10a6be3431e1166286a9e7761f2de9de79d7fda9c397.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\HermeticWiper\1bc44eef75779e3ca1eefb8ff5a64807dbc942b1e4a2672d77b9f6928d292591.exe
+被以下規則掃描到:
+- 規則: rule_22_bceefecaeefbffadbcbeadbfd_exe.yar
+  命令: yara64 "ALL yara rules\rule_22_bceefecaeefbffadbcbeadbfd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\HermeticWiper\1bc44eef75779e3ca1eefb8ff5a64807dbc942b1e4a2672d77b9f6928d292591.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\HermeticWiper\2c10b2ec0b995b88c27d141d6f7b14d6b8177c52818687e4ff8e6ecf53adf5bf.exe
+被以下規則掃描到:
+- 規則: rule_23_cbecbbcddfbdbceffeecfadfbf_exe.yar
+  命令: yara64 "ALL yara rules\rule_23_cbecbbcddfbdbceffeecfadfbf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\HermeticWiper\2c10b2ec0b995b88c27d141d6f7b14d6b8177c52818687e4ff8e6ecf53adf5bf.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\HermeticWiper\3c557727953a8f6b4788984464fb77741b821991acbf5e746aebdd02615b1767.exe
+被以下規則掃描到:
+- 規則: rule_24_cafbfbbacbfeaebddb_exe.yar
+  命令: yara64 "ALL yara rules\rule_24_cafbfbbacbfeaebddb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\HermeticWiper\3c557727953a8f6b4788984464fb77741b821991acbf5e746aebdd02615b1767.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Ogoxts\36e08c2df39cd84d8969a95de6a6882fbc954e7ca31a5a5d4be8ec33cfa84649.exe
+被以下規則掃描到:
+- 規則: rule_25_ecdfcddadeafbcecaaadbeeccfa_exe.yar
+  命令: yara64 "ALL yara rules\rule_25_ecdfcddadeafbcecaaadbeeccfa_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Ogoxts\36e08c2df39cd84d8969a95de6a6882fbc954e7ca31a5a5d4be8ec33cfa84649.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Ogoxts\3d17fd9e7b6f5a98901cf7db19b26b997a5062e5aacfef9b312f8971584098a6.exe
+被以下規則掃描到:
+- 規則: rule_26_dfdebfacfdbbbaeaacfefbfa_exe.yar
+  命令: yara64 "ALL yara rules\rule_26_dfdebfacfdbbbaeaacfefbfa_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Ogoxts\3d17fd9e7b6f5a98901cf7db19b26b997a5062e5aacfef9b312f8971584098a6.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Ogoxts\ebf4b4b9ca75c5df802f233121769e85125b2d21d9f97a7a04577efedc66f430.exe
+被以下規則掃描到:
+- 規則: rule_27_ebfbbcacdffebddfaaefedcf_exe.yar
+  命令: yara64 "ALL yara rules\rule_27_ebfbbcacdffebddfaaefedcf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Ogoxts\ebf4b4b9ca75c5df802f233121769e85125b2d21d9f97a7a04577efedc66f430.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Ogoxts\f32fb1af5db650065e6e1d02ade5506e6c0903e4bbc9ff6ff2fbf94bef6ffba4.exe
+被以下規則掃描到:
+- 規則: rule_28_ffbafdbeedadeecebbcfffffbfbefffba_exe.yar
+  命令: yara64 "ALL yara rules\rule_28_ffbafdbeedadeecebbcfffffbfbefffba_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Ogoxts\f32fb1af5db650065e6e1d02ade5506e6c0903e4bbc9ff6ff2fbf94bef6ffba4.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\1c9c800d28964e7672d59e733c8eba0a262fe1d80cdee042f376927ee296c560.exe
+被以下規則掃描到:
+- 規則: rule_29_ccdedecebaafedcdeefeec_exe.yar
+  命令: yara64 "ALL yara rules\rule_29_ccdedecebaafedcdeefeec_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\1c9c800d28964e7672d59e733c8eba0a262fe1d80cdee042f376927ee296c560.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\1ecde301c58c104f87ee14162e221ab34ed8e77f0e1f04405336f379244f950e.exe
+被以下規則掃描到:
+- 規則: rule_30_ecdeccfeeeabedefefffe_exe.yar
+  命令: yara64 "ALL yara rules\rule_30_ecdeccfeeeabedefefffe_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\1ecde301c58c104f87ee14162e221ab34ed8e77f0e1f04405336f379244f950e.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\1f4cc05efadb87b86153abb1b850b7a78a7f7af14d09ff0cb5a91e2a90a00bdb.exe
+被以下規則掃描到:
+- 規則: rule_31_fccefadbbabbbbaafafdffcbaeaabdb_exe.yar
+  命令: yara64 "ALL yara rules\rule_31_fccefadbbabbbbaafafdffcbaeaabdb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\1f4cc05efadb87b86153abb1b850b7a78a7f7af14d09ff0cb5a91e2a90a00bdb.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\2ca4a58baaa31cba7165e2d778932c84deafc86722f6bafee71aaa893817d123.exe
+被以下規則掃描到:
+- 規則: rule_32_caabaaacbaedcdeafcfbafeeaaad_exe.yar
+  命令: yara64 "ALL yara rules\rule_32_caabaaacbaedcdeafcfbafeeaaad_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\2ca4a58baaa31cba7165e2d778932c84deafc86722f6bafee71aaa893817d123.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\3da25da5ad6f7b6257a2127119b45a0323e66fb674524ea08f5d8c8949222a5a.exe
+被以下規則掃描到:
+- 規則: rule_33_dadaadfbabaefbeafdcaa_exe.yar
+  命令: yara64 "ALL yara rules\rule_33_dadaadfbabaefbeafdcaa_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\3da25da5ad6f7b6257a2127119b45a0323e66fb674524ea08f5d8c8949222a5a.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\410dd4aecdfa74eeab45713cde39903d3f93e428c8db4ca23cf20b9c95865f71.exe
+被以下規則掃描到:
+- 規則: rule_34_ddaecdfaeeabcdedfecdbcacfbcf_exe.yar
+  命令: yara64 "ALL yara rules\rule_34_ddaecdfaeeabcdedfecdbcacfbcf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\410dd4aecdfa74eeab45713cde39903d3f93e428c8db4ca23cf20b9c95865f71.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\41d1addb382678e81ab59cb80613f2c2ee746b2615233674cc8c323a9a0eff4c.exe
+被以下規則掃描到:
+- 規則: rule_35_daddbeabcbfceebcccaaeffc_exe.yar
+  命令: yara64 "ALL yara rules\rule_35_daddbeabcbfceebcccaaeffc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\41d1addb382678e81ab59cb80613f2c2ee746b2615233674cc8c323a9a0eff4c.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\5170ff37a0d0a1ba65b92926cc920a9ee99e439ae6ff1dc268e61ab4f58089e1.exe
+被以下規則掃描到:
+- 規則: rule_36_ffadababccaeeeaeffdceabfe_exe.yar
+  命令: yara64 "ALL yara rules\rule_36_ffadababccaeeeaeffdceabfe_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\5170ff37a0d0a1ba65b92926cc920a9ee99e439ae6ff1dc268e61ab4f58089e1.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\583af25ca75cb0f80e876550eccd382b45cd1559647a683a68bc59ad6f5335d3.exe
+被以下規則掃描到:
+- 規則: rule_37_afcacbfeeccdbcdaabcadfd_exe.yar
+  命令: yara64 "ALL yara rules\rule_37_afcacbfeeccdbcdaabcadfd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\583af25ca75cb0f80e876550eccd382b45cd1559647a683a68bc59ad6f5335d3.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\602e290df2ca1016572cd2079ab36205cbc16d61af4fd229ecb4d0eb43af5c34.exe
+被以下規則掃描到:
+- 規則: rule_38_edfcacdabcbcdaffdecbdebafc_exe.yar
+  命令: yara64 "ALL yara rules\rule_38_edfcacdabcbcdaffdecbdebafc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\602e290df2ca1016572cd2079ab36205cbc16d61af4fd229ecb4d0eb43af5c34.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\6abef497f9ed98985aba0400a345084440567aa3a8a465041fe8bff27f99c787.exe
+被以下規則掃描到:
+- 規則: rule_39_abeffedabaaaaaafebfffc_exe.yar
+  命令: yara64 "ALL yara rules\rule_39_abeffedabaaaaaafebfffc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\6abef497f9ed98985aba0400a345084440567aa3a8a465041fe8bff27f99c787.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\85536d80cd215c55c6e716a82daf73c9fb700ca68cbf6a0df0ef0c1ec8ed61a1.exe
+被以下規則掃描到:
+- 規則: rule_40_dcdcceadafcfbcacbfadfefceceda_exe.yar
+  命令: yara64 "ALL yara rules\rule_40_dcdcceadafcfbcacbfadfefceceda_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\85536d80cd215c55c6e716a82daf73c9fb700ca68cbf6a0df0ef0c1ec8ed61a1.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\9a5a742cbe0c5fa8c91ef1d400896ff833476df27a9d28afc4a76838774174cb.exe
+被以下規則掃描到:
+- 規則: rule_41_aacbecfacefdffdfadafcacb_exe.yar
+  命令: yara64 "ALL yara rules\rule_41_aacbecfacefdffdfadafcacb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\9a5a742cbe0c5fa8c91ef1d400896ff833476df27a9d28afc4a76838774174cb.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\9ad452c41af7ed761449a51cca42b89827921f70f564331a4eed7a191c37c325.exe
+被以下規則掃描到:
+- 規則: rule_42_adcafedaccabffaeedacc_exe.yar
+  命令: yara64 "ALL yara rules\rule_42_adcafedaccabffaeedacc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\9ad452c41af7ed761449a51cca42b89827921f70f564331a4eed7a191c37c325.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\9d88425e266b3a74045186837fbd71de657b47d11efefcf8b3cd185a884b5306.exe
+被以下規則掃描到:
+- 規則: rule_43_debafbddebdefefcfbcdab_exe.yar
+  命令: yara64 "ALL yara rules\rule_43_debafbddebdefefcfbcdab_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\9d88425e266b3a74045186837fbd71de657b47d11efefcf8b3cd185a884b5306.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\a27aa292f9978f85dd0fcf599491efea6abf80223d4ce4baaf56789f870c9196.exe
+被以下規則掃描到:
+- 規則: rule_44_aaaffddfcfefeaabfdcebaaffc_exe.yar
+  命令: yara64 "ALL yara rules\rule_44_aaaffddfcfefeaabfdcebaaffc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\a27aa292f9978f85dd0fcf599491efea6abf80223d4ce4baaf56789f870c9196.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\a4e9f83090da94f3e24bc1792c953c62c4cc9f6ee0ba68a5b820349738d005a4.exe
+被以下規則掃描到:
+- 規則: rule_45_aefdafebccccccfeebaabda_exe.yar
+  命令: yara64 "ALL yara rules\rule_45_aefdafebccccccfeebaabda_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\a4e9f83090da94f3e24bc1792c953c62c4cc9f6ee0ba68a5b820349738d005a4.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\b3455d9d3bf50da0762a0d2aa57f4041af76b86024376af1a07b774bb7166ffc.exe
+被以下規則掃描到:
+- 規則: rule_46_bddbfdaadaafafbafabbbffc_exe.yar
+  命令: yara64 "ALL yara rules\rule_46_bddbfdaadaafafbafabbbffc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\b3455d9d3bf50da0762a0d2aa57f4041af76b86024376af1a07b774bb7166ffc.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\c203192bf329f099fddebfc57a7a258b974550e0b51a81115c9980aff02fe6c1.exe
+被以下規則掃描到:
+- 規則: rule_47_cbfffddebfcaabebacafffec_exe.yar
+  命令: yara64 "ALL yara rules\rule_47_cbfffddebfcaabebacafffec_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\c203192bf329f099fddebfc57a7a258b974550e0b51a81115c9980aff02fe6c1.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\ce9820f87744f7cd5f16e60470ec525cf1852762d5914278815b01737d4adacd.exe
+被以下規則掃描到:
+- 規則: rule_48_ceffcdfeeccfdbdadacd_exe.yar
+  命令: yara64 "ALL yara rules\rule_48_ceffcdfeeccfdbdadacd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\ce9820f87744f7cd5f16e60470ec525cf1852762d5914278815b01737d4adacd.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\e89f2dc0b3289c0de0c8957e5fc2807c32ab7402922acf27a274b1d460e8ad92.exe
+被以下規則掃描到:
+- 規則: rule_49_efdcbcdecefccabacfabdead_exe.yar
+  命令: yara64 "ALL yara rules\rule_49_efdcbcdecefccabacfabdead_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\e89f2dc0b3289c0de0c8957e5fc2807c32ab7402922acf27a274b1d460e8ad92.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\fb2604c4774fabb3c38cdaa40c46cde673cb98ac2bd58c46fc9a447849aaffb7.exe
+被以下規則掃描到:
+- 規則: rule_50_fbcfabbccdaaccdecbacbdcfcaaaffb_exe.yar
+  命令: yara64 "ALL yara rules\rule_50_fbcfabbccdaaccdecbacbdcfcaaaffb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Old\fb2604c4774fabb3c38cdaa40c46cde673cb98ac2bd58c46fc9a447849aaffb7.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Tinba\0af27a7efde352dab23830451b4f0c725ed631ed7f4560d2d149aa6aae205495.exe
+被以下規則掃描到:
+- 規則: rule_51_afaefdedabbfcededfddaaaae_exe.yar
+  命令: yara64 "ALL yara rules\rule_51_afaefdedabbfcededfddaaaae_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Tinba\0af27a7efde352dab23830451b4f0c725ed631ed7f4560d2d149aa6aae205495.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Tinba\74b18a596a13bb8cd39dee385397a6cb3df0c92d8b3e866de2b50a9dd242a721.exe
+被以下規則掃描到:
+- 規則: rule_52_baabbcddeeacbdfcdbedebadda_exe.yar
+  命令: yara64 "ALL yara rules\rule_52_baabbcddeeacbdfcdbedebadda_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Tinba\74b18a596a13bb8cd39dee385397a6cb3df0c92d8b3e866de2b50a9dd242a721.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Tinba\7b0008a4bffde20e7fb443c9e973fb7d3005437dbd1cb2a78ad3987de86278be.exe
+被以下規則掃描到:
+- 規則: rule_53_babffdeefbcefbddbdcbaaddebe_exe.yar
+  命令: yara64 "ALL yara rules\rule_53_babffdeefbcefbddbdcbaaddebe_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Tinba\7b0008a4bffde20e7fb443c9e973fb7d3005437dbd1cb2a78ad3987de86278be.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Tinba\8c8669db4bbb56e7c5b595d6dcf5e465dfd4e6c9718636c2b53a1c5df718756a.exe
+被以下規則掃描到:
+- 規則: rule_54_cdbbbbecbddcfedfdeccbacdfa_exe.yar
+  命令: yara64 "ALL yara rules\rule_54_cdbbbbecbddcfedfdeccbacdfa_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Tinba\8c8669db4bbb56e7c5b595d6dcf5e465dfd4e6c9718636c2b53a1c5df718756a.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Tinba\b784f6f26380c8a9bee2966fddf8ac0e4c073c7e09e867b1349d698902811d50.exe
+被以下規則掃描到:
+- 規則: rule_55_bffcabeefddfacecceebdd_exe.yar
+  命令: yara64 "ALL yara rules\rule_55_bffcabeefddfacecceebdd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\Tinba\b784f6f26380c8a9bee2966fddf8ac0e4c073c7e09e867b1349d698902811d50.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\WhisperGate\191ca4833351e2e82cb080a42c4848cfbc4b1f3e97250f2700eff4e97cf72019.exe
+被以下規則掃描到:
+- 規則: rule_56_caeecbaccfbcbfefeffecf_exe.yar
+  命令: yara64 "ALL yara rules\rule_56_caeecbaccfbcbfefeffecf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\WhisperGate\191ca4833351e2e82cb080a42c4848cfbc4b1f3e97250f2700eff4e97cf72019.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\WhisperGate\9ef7dbd3da51332a78eff19146d21c82957821e464e8133e9594a07d716d892d.dll
+被以下規則掃描到:
+- 規則: rule_57_efdbddaaeffdceeeaddd_dll.yar
+  命令: yara64 "ALL yara rules\rule_57_efdbddaaeffdceeeaddd_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\WhisperGate\9ef7dbd3da51332a78eff19146d21c82957821e464e8133e9594a07d716d892d.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\WhisperGate\a196c6b8ffcb97ffb276d04f354696e2391311db3841ae16c8c9f56f36a38e92.exe
+被以下規則掃描到:
+- 規則: rule_58_acbffcbffbdfedbaeccffae_exe.yar
+  命令: yara64 "ALL yara rules\rule_58_acbffcbffbdfedbaeccffae_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\WhisperGate\a196c6b8ffcb97ffb276d04f354696e2391311db3841ae16c8c9f56f36a38e92.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\WhisperGate\b50fb20396458aec55216cc9f5212162b3459bc769a38e050d4d8c22649888ae.exe
+被以下規則掃描到:
+- 規則: rule_59_bfbaecccfbbcaeddcae_exe.yar
+  命令: yara64 "ALL yara rules\rule_59_bfbaecccfbbcaeddcae_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Trojan\WhisperGate\b50fb20396458aec55216cc9f5212162b3459bc769a38e050d4d8c22649888ae.exe"
+
+
+總結:
+被掃描到的惡意程式: 58
+總共掃描的程式: 164

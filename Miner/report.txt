@@ -1,0 +1,84 @@
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Miner\Lucifer\630efa1e2dc642799b867363bb36d1953884480ac29942a1ab20243a8a9620ad.exe
+被以下規則掃描到:
+- 規則: rule_01_efaedcbbbdacaabaaad_exe.yar
+  命令: yara64 "ALL yara rules\rule_01_efaedcbbbdacaabaaad_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Miner\Lucifer\630efa1e2dc642799b867363bb36d1953884480ac29942a1ab20243a8a9620ad.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Miner\Lucifer\677bea9e71aa3a56fe62a20580eb0786431a4789cb340a7294eb243054191c58.exe
+被以下規則掃描到:
+- 規則: rule_02_beaeaaafeaebacbaebc_exe.yar
+  命令: yara64 "ALL yara rules\rule_02_beaeaaafeaebacbaebc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Miner\Lucifer\677bea9e71aa3a56fe62a20580eb0786431a4789cb340a7294eb243054191c58.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Miner\Lucifer\92500c24e39f3b7039e7e9ef8af9352ccda7025f5a6c65c6377f49e74beb1d37.exe
+被以下規則掃描到:
+- 規則: rule_03_cefbeeefafccdafaccfebebd_exe.yar
+  命令: yara64 "ALL yara rules\rule_03_cefbeeefafccdafaccfebebd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Miner\Lucifer\92500c24e39f3b7039e7e9ef8af9352ccda7025f5a6c65c6377f49e74beb1d37.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Miner\Lucifer\f58d2071a2fdaea27d814e788e002fe5da63843546f22c255eceade162323ce1.exe
+被以下規則掃描到:
+- 規則: rule_04_fdafdaeadeefedafceceadece_exe.yar
+  命令: yara64 "ALL yara rules\rule_04_fdafdaeadeefedafceceadece_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Miner\Lucifer\f58d2071a2fdaea27d814e788e002fe5da63843546f22c255eceade162323ce1.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Miner\Old\044d234d96ba4d2c8d6b75dce9f3b778137708ed2fd39edfab8711d3431f8763.exe
+被以下規則掃描到:
+- 規則: rule_05_ddbadcdbdcefbedfdedfabdf_exe.yar
+  命令: yara64 "ALL yara rules\rule_05_ddbadcdbdcefbedfdedfabdf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Miner\Old\044d234d96ba4d2c8d6b75dce9f3b778137708ed2fd39edfab8711d3431f8763.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Miner\Old\1915126c27ba8566c624491bd2613215021cc2b28e5e6f3af69e9e994327f3ac.exe
+被以下規則掃描到:
+- 規則: rule_06_cbacbdccbeefafeefac_exe.yar
+  命令: yara64 "ALL yara rules\rule_06_cbacbdccbeefafeefac_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Miner\Old\1915126c27ba8566c624491bd2613215021cc2b28e5e6f3af69e9e994327f3ac.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Miner\Old\23006345ce6dbf484967d9a10658c958906d5edfeb610d3d6b13fe29bda867de.exe
+被以下規則掃描到:
+- 規則: rule_07_cedbfdacdedfebddbfebdade_exe.yar
+  命令: yara64 "ALL yara rules\rule_07_cedbfdacdedfebddbfebdade_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Miner\Old\23006345ce6dbf484967d9a10658c958906d5edfeb610d3d6b13fe29bda867de.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Miner\Old\773a42f5dd2dbe163dbc36037d53a25675c29fd0dba24d19ccb249a6f590ef12.exe
+被以下規則掃描到:
+- 規則: rule_08_afdddbedbcdacfddbadccbafef_exe.yar
+  命令: yara64 "ALL yara rules\rule_08_afdddbedbcdacfddbadccbafef_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Miner\Old\773a42f5dd2dbe163dbc36037d53a25675c29fd0dba24d19ccb249a6f590ef12.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Miner\Old\ada1c5359c35e6b70c5a2d5533f9d725f86a1e155c8486bfd2941c9b40478ea2.exe
+被以下規則掃描到:
+- 規則: rule_09_adaccebcadfdfaecbfdcbea_exe.yar
+  命令: yara64 "ALL yara rules\rule_09_adaccebcadfdfaecbfdcbea_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Miner\Old\ada1c5359c35e6b70c5a2d5533f9d725f86a1e155c8486bfd2941c9b40478ea2.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Miner\Old\df5743b23ab9a79296cfaed04e42568823881dd0cb8cc9c53e8b4ddaf7f16b7d.exe
+被以下規則掃描到:
+- 規則: rule_10_dfbabacfaededdcbcccebddaffbd_exe.yar
+  命令: yara64 "ALL yara rules\rule_10_dfbabacfaededdcbcccebddaffbd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Miner\Old\df5743b23ab9a79296cfaed04e42568823881dd0cb8cc9c53e8b4ddaf7f16b7d.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Miner\Old\ebf8f470ffc1fa2c68fb9674c6e9842f9b5e5a15e2d37b11ffdb1de90d017b92.exe
+被以下規則掃描到:
+- 規則: rule_11_ebffffcfacfbcefbeaedbffdbdedb_exe.yar
+  命令: yara64 "ALL yara rules\rule_11_ebffffcfacfbcefbeaedbffdbdedb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Miner\Old\ebf8f470ffc1fa2c68fb9674c6e9842f9b5e5a15e2d37b11ffdb1de90d017b92.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Miner\XMRig\076be2c09b944ec56381f42405728f7f657d2597b6e27191354568fb70170b29.exe
+被以下規則掃描到:
+- 規則: rule_12_becbecfffdbefbb_exe.yar
+  命令: yara64 "ALL yara rules\rule_12_becbecfffdbefbb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Miner\XMRig\076be2c09b944ec56381f42405728f7f657d2597b6e27191354568fb70170b29.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Miner\XMRig\b1c5fd5c0f6a2760eb638414d9bf9b7536b81f45edbd9d509dd085346c67a6ae.exe
+被以下規則掃描到:
+- 規則: rule_13_bcfdcfaebdbfbbfedbddddcaae_exe.yar
+  命令: yara64 "ALL yara rules\rule_13_bcfdcfaebdbfbbfedbddddcaae_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Miner\XMRig\b1c5fd5c0f6a2760eb638414d9bf9b7536b81f45edbd9d509dd085346c67a6ae.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Miner\XMRig\ba8ef36743be7995a1d4a5b26e59776234acad92123303e98b6a4660c4527f07.exe
+被以下規則掃描到:
+- 規則: rule_14_baefbeadabeacadebacf_exe.yar
+  命令: yara64 "ALL yara rules\rule_14_baefbeadabeacadebacf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Miner\XMRig\ba8ef36743be7995a1d4a5b26e59776234acad92123303e98b6a4660c4527f07.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Miner\XMRig\c90b5bb05452d29be5614df538fe6c275ef607a8615325a78a370a6402976273.exe
+被以下規則掃描到:
+- 規則: rule_15_cbbbdbedffecefaaaa_exe.yar
+  命令: yara64 "ALL yara rules\rule_15_cbbbdbedffecefaaaa_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Miner\XMRig\c90b5bb05452d29be5614df538fe6c275ef607a8615325a78a370a6402976273.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Miner\XMRig\cd546894a737663aacacc3c3ebe2ea85c26bd5790a57ede5913355a15deac30f.exe
+被以下規則掃描到:
+- 規則: rule_16_cdaaacacccebeeacbdaedeadeacf_exe.yar
+  命令: yara64 "ALL yara rules\rule_16_cdaaacacccebeeacbdaedeadeacf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Miner\XMRig\cd546894a737663aacacc3c3ebe2ea85c26bd5790a57ede5913355a15deac30f.exe"
+
+
+總結:
+被掃描到的惡意程式: 16
+總共掃描的程式: 34

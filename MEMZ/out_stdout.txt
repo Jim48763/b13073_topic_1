@@ -1,0 +1,83 @@
+
+
+
+
+
+MEMZ___Clean_exe C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/MEMZ\MEMZ-4.0-Clean.exe
+
+MEMZ_Destructive_exe C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/MEMZ\MEMZ-4.0-Clean.exe
+
+
+MEMZ_exe C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/MEMZ\MEMZ-4.0-Clean.exe
+
+WaffMEMZ___exe C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/MEMZ\MEMZ-4.0-Clean.exe
+
+
+
+
+
+
+
+
+
+
+
+MEMZ___Clean_exe C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/MEMZ\MEMZ-Destructive.exe
+
+MEMZ_Destructive_exe C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/MEMZ\MEMZ-Destructive.exe
+
+
+MEMZ_exe C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/MEMZ\MEMZ-Destructive.exe
+
+WaffMEMZ___exe C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/MEMZ\MEMZ-Destructive.exe
+
+
+
+
+
+
+
+
+
+
+
+MEMZ___Clean_exe C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/MEMZ\MEMZ.exe
+
+MEMZ_Destructive_exe C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/MEMZ\MEMZ.exe
+
+
+MEMZ_exe C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/MEMZ\MEMZ.exe
+
+WaffMEMZ___exe C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/MEMZ\MEMZ.exe
+
+
+
+
+
+WaffMEMZ___exe C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/MEMZ\WaffMEMZ-1.0.exe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

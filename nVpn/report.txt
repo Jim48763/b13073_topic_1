@@ -1,0 +1,39 @@
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/nVpn\30f3eecdbc1298dc6ba731ffc775390ee61b2bda813ba8f7763c9c39293ce33c.exe
+被以下規則掃描到:
+- 規則: rule_01_feecdbcdcbaffceebbdabafcccec_exe.yar
+  命令: yara64 "ALL yara rules\rule_01_feecdbcdcbaffceebbdabafcccec_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/nVpn\30f3eecdbc1298dc6ba731ffc775390ee61b2bda813ba8f7763c9c39293ce33c.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/nVpn\3ca289bac2df826b2d7c4faa05cd9f39a948fdf47872d56ddcfd1a45e60be963.exe
+被以下規則掃描到:
+- 規則: rule_02_cabacdfbdcfaacdfafdfdddcfdaebe_exe.yar
+  命令: yara64 "ALL yara rules\rule_02_cabacdfbdcfaacdfafdfdddcfdaebe_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/nVpn\3ca289bac2df826b2d7c4faa05cd9f39a948fdf47872d56ddcfd1a45e60be963.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/nVpn\40fe69be55041a8607bf2596d0fa649ab26f6d6bd6973fb955f14f4e8a066b6c.exe
+被以下規則掃描到:
+- 規則: rule_03_febeabfdfaabfdbdfbffeabc_exe.yar
+  命令: yara64 "ALL yara rules\rule_03_febeabfdfaabfdbdfbffeabc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/nVpn\40fe69be55041a8607bf2596d0fa649ab26f6d6bd6973fb955f14f4e8a066b6c.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/nVpn\4d614f1af1fd899dfab03339f0284589b4b9f31688a34e39aad49a0560b7a44d.exe
+被以下規則掃描到:
+- 規則: rule_04_dfaffddfabfbbfaeaadabad_exe.yar
+  命令: yara64 "ALL yara rules\rule_04_dfaffddfabfbbfaeaadabad_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/nVpn\4d614f1af1fd899dfab03339f0284589b4b9f31688a34e39aad49a0560b7a44d.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/nVpn\4fe55684ef64ad80c3994eb961d1008585121b9708546ad0a1fd87141619555d.exe
+被以下規則掃描到:
+- 規則: rule_05_feefadcebdbadafdd_exe.yar
+  命令: yara64 "ALL yara rules\rule_05_feefadcebdbadafdd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/nVpn\4fe55684ef64ad80c3994eb961d1008585121b9708546ad0a1fd87141619555d.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/nVpn\61248c209119bd790c6ad906dd9d12e7a03455c2b2f6e4b7d1432aed6ae92439.exe
+被以下規則掃描到:
+- 規則: rule_06_cbdcaddddeacbfebdaedae_exe.yar
+  命令: yara64 "ALL yara rules\rule_06_cbdcaddddeacbfebdaedae_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/nVpn\61248c209119bd790c6ad906dd9d12e7a03455c2b2f6e4b7d1432aed6ae92439.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/nVpn\ab8e71a8035999799c88b25d8bd33d1ab5ca07075320e50f30cba174c7b82b4a.exe
+被以下規則掃描到:
+- 規則: rule_07_abeacbdbddabcaefcbacbba_exe.yar
+  命令: yara64 "ALL yara rules\rule_07_abeacbdbddabcaefcbacbba_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/nVpn\ab8e71a8035999799c88b25d8bd33d1ab5ca07075320e50f30cba174c7b82b4a.exe"
+
+
+總結:
+被掃描到的惡意程式: 7
+總共掃描的程式: 34

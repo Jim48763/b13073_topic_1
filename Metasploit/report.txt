@@ -1,0 +1,24 @@
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Metasploit\910f08368c08b139a951918b47ac7e0a23ca8f461bb319538ad17916819255bf.exe
+被以下規則掃描到:
+- 規則: rule_01_fcbabaceacafbbadbf_exe.yar
+  命令: yara64 "ALL yara rules\rule_01_fcbabaceacafbbadbf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Metasploit\910f08368c08b139a951918b47ac7e0a23ca8f461bb319538ad17916819255bf.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Metasploit\add5045922b0f280faed711a4cad46e0377df5cb26d948bbb11ab20351209244.exe
+被以下規則掃描到:
+- 規則: rule_02_addbffaedacadedfcbdbbbab_exe.yar
+  命令: yara64 "ALL yara rules\rule_02_addbffaedacadedfcbdbbbab_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Metasploit\add5045922b0f280faed711a4cad46e0377df5cb26d948bbb11ab20351209244.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Metasploit\ae1437499b1cf946f087c80235612ac9f723b4d3c95df55f0f8a25921b9e8e42.exe
+被以下規則掃描到:
+- 規則: rule_03_aebcffcacfbdcdfffabee_exe.yar
+  命令: yara64 "ALL yara rules\rule_03_aebcffcacfbdcdfffabee_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Metasploit\ae1437499b1cf946f087c80235612ac9f723b4d3c95df55f0f8a25921b9e8e42.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Metasploit\ecd8c09d08b3e27f15c3cba89f8ec2b284c9caa728852da8155d5955cee2ed58.exe
+被以下規則掃描到:
+- 規則: rule_04_ecdcdbefccbafecbccaadadceeed_exe.yar
+  命令: yara64 "ALL yara rules\rule_04_ecdcdbefccbafecbccaadadceeed_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Metasploit\ecd8c09d08b3e27f15c3cba89f8ec2b284c9caa728852da8155d5955cee2ed58.exe"
+
+
+總結:
+被掃描到的惡意程式: 4
+總共掃描的程式: 10

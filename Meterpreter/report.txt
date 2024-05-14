@@ -1,0 +1,39 @@
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Meterpreter\16644661d726e6aa78a34e050142970b02eb809f73371a38a60ca097a9e0e28f.exe
+被以下規則掃描到:
+- 規則: rule_01_deaaaebebfaacaaeef_exe.yar
+  命令: yara64 "ALL yara rules\rule_01_deaaaebebfaacaaeef_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Meterpreter\16644661d726e6aa78a34e050142970b02eb809f73371a38a60ca097a9e0e28f.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Meterpreter\32bf260a5a5db461fbd9f4705bf5d72abe31c6bf545ff18743004bd56734af32.exe
+被以下規則掃描到:
+- 規則: rule_03_bfaadbfbdfbfdabecbfffbdaf_exe.yar
+  命令: yara64 "ALL yara rules\rule_03_bfaadbfbdfbfdabecbfffbdaf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Meterpreter\32bf260a5a5db461fbd9f4705bf5d72abe31c6bf545ff18743004bd56734af32.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Meterpreter\4e990f48e219d5a115350ea794aca91fdb72df8529026bc7e6b0132123f4cd20.exe
+被以下規則掃描到:
+- 規則: rule_04_efedaeaacafdbdfbcebfcd_exe.yar
+  命令: yara64 "ALL yara rules\rule_04_efedaeaacafdbdfbcebfcd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Meterpreter\4e990f48e219d5a115350ea794aca91fdb72df8529026bc7e6b0132123f4cd20.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Meterpreter\6b62bbb5f9cff68d0f7c84b006250d1b1538c23710d1e4a07e69ade684376c86.exe
+被以下規則掃描到:
+- 規則: rule_05_bbbbfcffdfcbdbcdeaeadec_exe.yar
+  命令: yara64 "ALL yara rules\rule_05_bbbbfcffdfcbdbcdeaeadec_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Meterpreter\6b62bbb5f9cff68d0f7c84b006250d1b1538c23710d1e4a07e69ade684376c86.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Meterpreter\8ddde84503abd685a20b1fd833c9378bbe831646c82e9ed381deb8df909e2320.exe
+被以下規則掃描到:
+- 規則: rule_06_dddeabdabfdcbbeceeddebdfe_exe.yar
+  命令: yara64 "ALL yara rules\rule_06_dddeabdabfdcbbeceeddebdfe_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Meterpreter\8ddde84503abd685a20b1fd833c9378bbe831646c82e9ed381deb8df909e2320.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Meterpreter\be7ee2dcfc1a970fb5424d22e37a8828fb858c5291811e5beb066ad39eba393d.exe
+被以下規則掃描到:
+- 規則: rule_07_beeedcfcafbdeafbcebebadebad_exe.yar
+  命令: yara64 "ALL yara rules\rule_07_beeedcfcafbdeafbcebebadebad_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Meterpreter\be7ee2dcfc1a970fb5424d22e37a8828fb858c5291811e5beb066ad39eba393d.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Meterpreter\eda7de543b8702f222066978cc5c67a97aaeab52ccc0d85f79265f2326cc3b48.exe
+被以下規則掃描到:
+- 規則: rule_08_edadebfcccaaaeabcccdffccb_exe.yar
+  命令: yara64 "ALL yara rules\rule_08_edadebfcccaaaeabcccdffccb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Meterpreter\eda7de543b8702f222066978cc5c67a97aaeab52ccc0d85f79265f2326cc3b48.exe"
+
+
+總結:
+被掃描到的惡意程式: 7
+總共掃描的程式: 18

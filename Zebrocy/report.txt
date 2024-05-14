@@ -1,0 +1,14 @@
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Zebrocy\61c2e524dcc25a59d7f2fe7eff269865a3ed14d6b40e4fea33b3cd3f58c14f19.exe
+被以下規則掃描到:
+- 規則: rule_01_cedccadffeeffaeddbefeabcdfcf_exe.yar
+  命令: yara64 "ALL yara rules\rule_01_cedccadffeeffaeddbefeabcdfcf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Zebrocy\61c2e524dcc25a59d7f2fe7eff269865a3ed14d6b40e4fea33b3cd3f58c14f19.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Zebrocy\6449d0cb1396d6feba7fb9e25fb20e9a0a5ef3e8623332844458d73057cf04a1.exe
+被以下規則掃描到:
+- 規則: rule_02_dcbdfebafbefbeaaefedcfa_exe.yar
+  命令: yara64 "ALL yara rules\rule_02_dcbdfebafbefbeaaefedcfa_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Zebrocy\6449d0cb1396d6feba7fb9e25fb20e9a0a5ef3e8623332844458d73057cf04a1.exe"
+
+
+總結:
+被掃描到的惡意程式: 2
+總共掃描的程式: 6

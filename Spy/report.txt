@@ -1,0 +1,59 @@
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Spy\FinSpy\bb8c0e477512adab1db26eb77fe10dadbc5dcbf8e94569061c7199ca4626a420.exe
+被以下規則掃描到:
+- 規則: rule_01_bbceadabdbebfedadbcdcbfeccaa_exe.yar
+  命令: yara64 "ALL yara rules\rule_01_bbceadabdbebfedadbcdcbfeccaa_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Spy\FinSpy\bb8c0e477512adab1db26eb77fe10dadbc5dcbf8e94569061c7199ca4626a420.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Spy\FinSpy\f5c245bd4d7eb95f9a2afde8960ef9c9640ad426a8e438b52caca1541b928954.exe
+被以下規則掃描到:
+- 規則: rule_02_fcbddebfaafdeefcadaebcacab_exe.yar
+  命令: yara64 "ALL yara rules\rule_02_fcbddebfaafdeefcadaebcacab_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Spy\FinSpy\f5c245bd4d7eb95f9a2afde8960ef9c9640ad426a8e438b52caca1541b928954.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Spy\Kutaki\41c9d28653704e628d8dd20e5f65a298242072156a31bc5fe0e24a1f4c640af5.exe
+被以下規則掃描到:
+- 規則: rule_03_cdedddefaabcfeeafcaf_exe.yar
+  命令: yara64 "ALL yara rules\rule_03_cdedddefaabcfeeafcaf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Spy\Kutaki\41c9d28653704e628d8dd20e5f65a298242072156a31bc5fe0e24a1f4c640af5.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Spy\Mekotio\2aaad8177d08507b09dc3d419b4d31f65db6fe6bc6314ffce650b9fc57f0817c.dll
+被以下規則掃描到:
+- 規則: rule_05_aaaddbdcdbdfdbfebcffcebfcfc_dll.yar
+  命令: yara64 "ALL yara rules\rule_05_aaaddbdcdbdfdbfebcffcebfcfc_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Spy\Mekotio\2aaad8177d08507b09dc3d419b4d31f65db6fe6bc6314ffce650b9fc57f0817c.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Spy\Mekotio\686e60d6079a08eaafcdca5ab248cbc18cae7c6871b989c3bcbcb9a02fd5fad9.exe
+被以下規則掃描到:
+- 規則: rule_06_edaeaafcdcaabcbccaecbcbcbcbafdfad_exe.yar
+  命令: yara64 "ALL yara rules\rule_06_edaeaafcdcaabcbccaecbcbcbcbafdfad_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Spy\Mekotio\686e60d6079a08eaafcdca5ab248cbc18cae7c6871b989c3bcbcb9a02fd5fad9.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Spy\Mekotio\93488eab403fafb3d8e10d38c80f0af745e3fa4cf26228acff24d35a149f6269.dll
+被以下規則掃描到:
+- 規則: rule_07_eabfafbdedcfafefacfacffdaf_dll.yar
+  命令: yara64 "ALL yara rules\rule_07_eabfafbdedcfafefacfacffdaf_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Spy\Mekotio\93488eab403fafb3d8e10d38c80f0af745e3fa4cf26228acff24d35a149f6269.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Spy\Spyware\031ed94b13f6292ca38061ac20d5c784c6470d3f52b207a959bedf0ed12c0665.exe
+被以下規則掃描到:
+- 規則: rule_08_edbfcaacdccdfbabedfedc_exe.yar
+  命令: yara64 "ALL yara rules\rule_08_edbfcaacdccdfbabedfedc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Spy\Spyware\031ed94b13f6292ca38061ac20d5c784c6470d3f52b207a959bedf0ed12c0665.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Spy\Unknown\1c133b9bb476879df8145370ce1069ec92f28cade85a839e0159158a3e1b1afd.exe
+被以下規則掃描到:
+- 規則: rule_10_cbbbdfceecfcadeaeaebafd_exe.yar
+  命令: yara64 "ALL yara rules\rule_10_cbbbdfceecfcadeaeaebafd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Spy\Unknown\1c133b9bb476879df8145370ce1069ec92f28cade85a839e0159158a3e1b1afd.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Spy\Unknown\6b4dd13ea6241a6c8ad2c967d88f3336798dc1e30dd24cfa3377f9b363d70b2e.exe
+被以下規則掃描到:
+- 規則: rule_11_bddeaacadcdfdceddcfafbdbe_exe.yar
+  命令: yara64 "ALL yara rules\rule_11_bddeaacadcdfdceddcfafbdbe_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Spy\Unknown\6b4dd13ea6241a6c8ad2c967d88f3336798dc1e30dd24cfa3377f9b363d70b2e.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Spy\Vadokrist\183b4e8853977551d6bf68ce7d1ecb386af257e1b2d6f954505d10413f2fe39d.dll
+被以下規則掃描到:
+- 規則: rule_12_bedbfcedecbafebdfdffed_dll.yar
+  命令: yara64 "ALL yara rules\rule_12_bedbfcedecbafebdfdffed_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Spy\Vadokrist\183b4e8853977551d6bf68ce7d1ecb386af257e1b2d6f954505d10413f2fe39d.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Spy\Vadokrist\817c226e42f5c503325288fd8273bc03b326590f457e7a589eb34c2792d0a5db.dll
+被以下規則掃描到:
+- 規則: rule_13_cefcfdbcbfeaebcdadb_dll.yar
+  命令: yara64 "ALL yara rules\rule_13_cefcfdbcbfeaebcdadb_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Spy\Vadokrist\817c226e42f5c503325288fd8273bc03b326590f457e7a589eb34c2792d0a5db.dll"
+
+
+總結:
+被掃描到的惡意程式: 11
+總共掃描的程式: 51

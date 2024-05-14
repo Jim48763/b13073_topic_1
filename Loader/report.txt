@@ -1,0 +1,219 @@
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\BazaLoader\180585d93bd6580169a9620f10ecdc1db462a0554a1e194dfea646da10e9e177.exe
+被以下規則掃描到:
+- 規則: rule_01_dbdafecdcdbaaedfeadaee_exe.yar
+  命令: yara64 "ALL yara rules\rule_01_dbdafecdcdbaaedfeadaee_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\BazaLoader\180585d93bd6580169a9620f10ecdc1db462a0554a1e194dfea646da10e9e177.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\BazaLoader\32c4463c3c599af57b801ad02ddd884b730674147c90749f9b46e82c65141e22.exe
+被以下規則掃描到:
+- 規則: rule_02_cccafbaddddbcfbece_exe.yar
+  命令: yara64 "ALL yara rules\rule_02_cccafbaddddbcfbece_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\BazaLoader\32c4463c3c599af57b801ad02ddd884b730674147c90749f9b46e82c65141e22.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\BazaLoader\7a51872b8369ac8cc85e0f1a76e8706cf91de1a4b50758c939cdfd63605ed254.exe
+被以下規則掃描到:
+- 規則: rule_03_abacccefaecfdeabccdfded_exe.yar
+  命令: yara64 "ALL yara rules\rule_03_abacccefaecfdeabccdfded_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\BazaLoader\7a51872b8369ac8cc85e0f1a76e8706cf91de1a4b50758c939cdfd63605ed254.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\BazaLoader\bcea99b1ec6fa52fec60589878c451266f260a8b4e2d8c85d700b3d24e0dce4b.exe
+被以下規則掃描到:
+- 規則: rule_04_bceabecfafeccfabedcdbdedceb_exe.yar
+  命令: yara64 "ALL yara rules\rule_04_bceabecfafeccfabedcdbdedceb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\BazaLoader\bcea99b1ec6fa52fec60589878c451266f260a8b4e2d8c85d700b3d24e0dce4b.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\BazaLoader\bfebad606bb75f0b1f991599905ede1f732bc986e54573f0ec685b1c9163396f.exe
+被以下規則掃描到:
+- 規則: rule_05_bfebadbbfbfedefbcefecbcf_exe.yar
+  命令: yara64 "ALL yara rules\rule_05_bfebadbbfbfedefbcefecbcf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\BazaLoader\bfebad606bb75f0b1f991599905ede1f732bc986e54573f0ec685b1c9163396f.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\BazaLoader\d41c191058675d5e5280c63aaa04e8eee80401d6887205c47f26723e1de9decb.exe
+被以下規則掃描到:
+- 規則: rule_06_dcdecaaaeeeedcfededecb_exe.yar
+  命令: yara64 "ALL yara rules\rule_06_dcdecaaaeeeedcfededecb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\BazaLoader\d41c191058675d5e5280c63aaa04e8eee80401d6887205c47f26723e1de9decb.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\BazaLoader\f471cbd53a52d27053c33c4fd18fe2305f94f947d8cc2275c3506fe74c2f11f5.exe
+被以下規則掃描到:
+- 規則: rule_07_fcbdadccfdfeffdcccfecff_exe.yar
+  命令: yara64 "ALL yara rules\rule_07_fcbdadccfdfeffdcccfecff_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\BazaLoader\f471cbd53a52d27053c33c4fd18fe2305f94f947d8cc2275c3506fe74c2f11f5.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\BazaLoader\f54cec2b04daafb0a1d612ef84913a1d03ef61d7de8b4c144414378c4415ac09.exe
+被以下規則掃描到:
+- 規則: rule_08_fcecbdaafbadefadefddebccac_exe.yar
+  命令: yara64 "ALL yara rules\rule_08_fcecbdaafbadefadefddebccac_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\BazaLoader\f54cec2b04daafb0a1d612ef84913a1d03ef61d7de8b4c144414378c4415ac09.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\BazaLoader\fabbde554c34e111a975534b714cec911f558ca30f9a4057ebdc25314b3a270f.exe
+被以下規則掃描到:
+- 規則: rule_09_fabbdeceabcecfcafaebdcbaf_exe.yar
+  命令: yara64 "ALL yara rules\rule_09_fabbdeceabcecfcafaebdcbaf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\BazaLoader\fabbde554c34e111a975534b714cec911f558ca30f9a4057ebdc25314b3a270f.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\BuerLoader\1bac8144a7b4af7b5e887f98053361c29a08fea890fe734ac3502ba4cca0f169.exe
+被以下規則掃描到:
+- 規則: rule_10_bacabafbefcafeafeacbaccaf_exe.yar
+  命令: yara64 "ALL yara rules\rule_10_bacabafbefcafeafeacbaccaf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\BuerLoader\1bac8144a7b4af7b5e887f98053361c29a08fea890fe734ac3502ba4cca0f169.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\BuerLoader\32616f41a71fc7a4286736a6fc77da2a555dbc8301a8bd5fbdbab231955a42c5.exe
+被以下規則掃描到:
+- 規則: rule_11_fafcaafcdaadbcabdfbdbabac_exe.yar
+  命令: yara64 "ALL yara rules\rule_11_fafcaafcdaadbcabdfbdbabac_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\BuerLoader\32616f41a71fc7a4286736a6fc77da2a555dbc8301a8bd5fbdbab231955a42c5.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\BuerLoader\340cdccf8bccec7270e1fe2ca48cb329b8270872fbf1a84c7f55642962dc1acd.exe
+被以下規則掃描到:
+- 規則: rule_12_cdccfbccecefecacbbfbfacfdcacd_exe.yar
+  命令: yara64 "ALL yara rules\rule_12_cdccfbccecefecacbbfbfacfdcacd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\BuerLoader\340cdccf8bccec7270e1fe2ca48cb329b8270872fbf1a84c7f55642962dc1acd.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\BuerLoader\593cf2c6d3140a5bf6bb6378aeadbc15abfa17691250e6ef1804d40534fd8a2e.exe
+被以下規則掃描到:
+- 規則: rule_13_cfcdabfbbaeadbcabfaeefdfdae_exe.yar
+  命令: yara64 "ALL yara rules\rule_13_cfcdabfbbaeadbcabfaeefdfdae_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\BuerLoader\593cf2c6d3140a5bf6bb6378aeadbc15abfa17691250e6ef1804d40534fd8a2e.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\BuerLoader\6c7f43434e5db8703c0a47dedeeab976159d8704bfbe2e4ff65405f38d508e9d.exe
+被以下規則掃描到:
+- 規則: rule_14_cfedbcadedeeabdbfbeefffded_exe.yar
+  命令: yara64 "ALL yara rules\rule_14_cfedbcadedeeabdbfbeefffded_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\BuerLoader\6c7f43434e5db8703c0a47dedeeab976159d8704bfbe2e4ff65405f38d508e9d.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\BuerLoader\ccf063aa143480fcd1a5646eb4292ee5ca6ea5b998fd0eb6904e221d966325fe.exe
+被以下規則掃描到:
+- 規則: rule_15_ccfaafcdaebeecaeabfdebedfe_exe.yar
+  命令: yara64 "ALL yara rules\rule_15_ccfaafcdaebeecaeabfdebedfe_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\BuerLoader\ccf063aa143480fcd1a5646eb4292ee5ca6ea5b998fd0eb6904e221d966325fe.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\BuerLoader\de2388449b4dc4bbf7031700d409777ec1fdd7d91e57e9a29eb865b1c95312d0.exe
+被以下規則掃描到:
+- 規則: rule_16_debdcbbfdecfdddeeaebbcd_exe.yar
+  命令: yara64 "ALL yara rules\rule_16_debdcbbfdecfdddeeaebbcd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\BuerLoader\de2388449b4dc4bbf7031700d409777ec1fdd7d91e57e9a29eb865b1c95312d0.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\BuerLoader\f61c05d773f31637ba2d7dd4a7a30364c08205deb9620723f0f79cd94106ccfb.exe
+被以下規則掃描到:
+- 規則: rule_17_fcdfbadddaacdebffcdccfb_exe.yar
+  命令: yara64 "ALL yara rules\rule_17_fcdfbadddaacdebffcdccfb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\BuerLoader\f61c05d773f31637ba2d7dd4a7a30364c08205deb9620723f0f79cd94106ccfb.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\DBatLoader\22e4c6c1d3eb1e8a93d2b36b152ef39cff53bc933ff80153057788fadf6615db.exe
+被以下規則掃描到:
+- 規則: rule_18_eccdebeadbbefcffbcfffadfdb_exe.yar
+  命令: yara64 "ALL yara rules\rule_18_eccdebeadbbefcffbcfffadfdb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\DBatLoader\22e4c6c1d3eb1e8a93d2b36b152ef39cff53bc933ff80153057788fadf6615db.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\DBatLoader\352a416f0f48684c2694968f3752d11a98ba54b7e7739d2f91d1b49782954b07.exe
+被以下規則掃描到:
+- 規則: rule_19_affcfdababedfdbb_exe.yar
+  命令: yara64 "ALL yara rules\rule_19_affcfdababedfdbb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\DBatLoader\352a416f0f48684c2694968f3752d11a98ba54b7e7739d2f91d1b49782954b07.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\DBatLoader\58d1175c71df58cf8befef187f0cd6c931ec0a52d8a37df4d13ff867a609c4d0.exe
+被以下規則掃描到:
+- 規則: rule_20_dcdfcfbefeffcdcecadadfdffacd_exe.yar
+  命令: yara64 "ALL yara rules\rule_20_dcdfcfbefeffcdcecadadfdffacd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\DBatLoader\58d1175c71df58cf8befef187f0cd6c931ec0a52d8a37df4d13ff867a609c4d0.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\DBatLoader\c8d54eac34afd28839ae109f0813ed54f21ee9d17a8ae54e5b12a11ec9250999.exe
+被以下規則掃描到:
+- 規則: rule_21_cdeacafdaefedfeedaaeebaec_exe.yar
+  命令: yara64 "ALL yara rules\rule_21_cdeacafdaefedfeedaaeebaec_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\DBatLoader\c8d54eac34afd28839ae109f0813ed54f21ee9d17a8ae54e5b12a11ec9250999.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\DiceLoader\7747707df3951b0de6b9a18f7597fb2819009163f61186393798a6167897e2f8.exe
+被以下規則掃描到:
+- 規則: rule_22_dfbdebaffbfaef_exe.yar
+  命令: yara64 "ALL yara rules\rule_22_dfbdebaffbfaef_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\DiceLoader\7747707df3951b0de6b9a18f7597fb2819009163f61186393798a6167897e2f8.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\GootLoader\e7be36a1ead1a7ae9c052b4230de18b3a40993a555e7ea840c050bf32669921f.exe
+被以下規則掃描到:
+- 規則: rule_23_ebeaeadaaecbdebaaeeacbff_exe.yar
+  命令: yara64 "ALL yara rules\rule_23_ebeaeadaaecbdebaaeeacbff_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\GootLoader\e7be36a1ead1a7ae9c052b4230de18b3a40993a555e7ea840c050bf32669921f.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\GuLoader\26518576080145b7c37b414a3bc13dfcb80444748354ff81c29c1b185f626c00.exe
+被以下規則掃描到:
+- 規則: rule_24_bcbabcdfcbffccbfc_exe.yar
+  命令: yara64 "ALL yara rules\rule_24_bcbabcdfcbffccbfc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\GuLoader\26518576080145b7c37b414a3bc13dfcb80444748354ff81c29c1b185f626c00.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\GuLoader\275de12bf065d99796babc9844c4e3198645a82259c4999d13d8a14c18482358.exe
+被以下規則掃描到:
+- 規則: rule_25_debfdbabcceacddac_exe.yar
+  命令: yara64 "ALL yara rules\rule_25_debfdbabcceacddac_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\GuLoader\275de12bf065d99796babc9844c4e3198645a82259c4999d13d8a14c18482358.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\GuLoader\d2b7389c9dd63fb1b147537c52572bbc09bec5c080474000e113b31aa249388a.exe
+被以下規則掃描到:
+- 規則: rule_26_dbcddfbbcbbcbeccebaaa_exe.yar
+  命令: yara64 "ALL yara rules\rule_26_dbcddfbbcbbcbeccebaaa_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\GuLoader\d2b7389c9dd63fb1b147537c52572bbc09bec5c080474000e113b31aa249388a.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\GuLoader\e97a63a8f54270ace4969870597c7642bbdb31fc6d5d1972d412edaf4fccd80e.exe
+被以下規則掃描到:
+- 規則: rule_27_eaafacecbbdbfcdddedaffccde_exe.yar
+  命令: yara64 "ALL yara rules\rule_27_eaafacecbbdbfcdddedaffccde_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\GuLoader\e97a63a8f54270ace4969870597c7642bbdb31fc6d5d1972d412edaf4fccd80e.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\ModiLoader\10028099a0d2c2aaa8e940228b415688d958b7b9fa5649f9577b96cfd0b96c51.exe
+被以下規則掃描到:
+- 規則: rule_28_adcaaaebdbbfafbcfdbc_exe.yar
+  命令: yara64 "ALL yara rules\rule_28_adcaaaebdbbfafbcfdbc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\ModiLoader\10028099a0d2c2aaa8e940228b415688d958b7b9fa5649f9577b96cfd0b96c51.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\ModiLoader\2caacde56329c3cb26c041d2535a5121d02fc195193f4046aabec42d61655d68.exe
+被以下規則掃描到:
+- 規則: rule_29_caacdeccbcdadfcfaabecdd_exe.yar
+  命令: yara64 "ALL yara rules\rule_29_caacdeccbcdadfcfaabecdd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\ModiLoader\2caacde56329c3cb26c041d2535a5121d02fc195193f4046aabec42d61655d68.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\ModiLoader\30ea297b7d70c7eba87d58039046582f18e94e5c811405959f21df9813309f12.exe
+被以下規則掃描到:
+- 規則: rule_30_eabdcebadfeecfdff_exe.yar
+  命令: yara64 "ALL yara rules\rule_30_eabdcebadfeecfdff_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\ModiLoader\30ea297b7d70c7eba87d58039046582f18e94e5c811405959f21df9813309f12.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\ModiLoader\3b1dc7e0c9154fe384c695f8eec5622ab2ba88bf59d990def6b2c11d8519cecf.exe
+被以下規則掃描到:
+- 規則: rule_31_bdcecfecfeecabbabfddefbcdcecf_exe.yar
+  命令: yara64 "ALL yara rules\rule_31_bdcecfecfeecabbabfddefbcdcecf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\ModiLoader\3b1dc7e0c9154fe384c695f8eec5622ab2ba88bf59d990def6b2c11d8519cecf.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\ModiLoader\56007af3c6b00548660560601efe9e3ea1fbec553562dd7436fe85673ed7a0c8.exe
+被以下規則掃描到:
+- 規則: rule_32_afcbefeeeafbecddfeedac_exe.yar
+  命令: yara64 "ALL yara rules\rule_32_afcbefeeeafbecddfeedac_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\ModiLoader\56007af3c6b00548660560601efe9e3ea1fbec553562dd7436fe85673ed7a0c8.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\ModiLoader\5c3f5dec5271e020a29643f1e75b7a6b07bb52562ee8426b21e7d76e9a46661b.exe
+被以下規則掃描到:
+- 規則: rule_33_cfdeceafebabbbeebedeab_exe.yar
+  命令: yara64 "ALL yara rules\rule_33_cfdeceafebabbbeebedeab_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\ModiLoader\5c3f5dec5271e020a29643f1e75b7a6b07bb52562ee8426b21e7d76e9a46661b.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\ModiLoader\7a8eebf6eada42c5c69de9a87a982c5d5654f681cebd074d924856a5ea54517b.exe
+被以下規則掃描到:
+- 規則: rule_34_aeebfeadaccdeaacdfcebddaeab_exe.yar
+  命令: yara64 "ALL yara rules\rule_34_aeebfeadaccdeaacdfcebddaeab_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\ModiLoader\7a8eebf6eada42c5c69de9a87a982c5d5654f681cebd074d924856a5ea54517b.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\ModiLoader\823ac795c82f035c86b71f68c8e77eea1ef916c77502d78fc2081d3fd660cde0.exe
+被以下規則掃描到:
+- 規則: rule_35_accfcbfceeeaefcdfcdfdcde_exe.yar
+  命令: yara64 "ALL yara rules\rule_35_accfcbfceeeaefcdfcdfdcde_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\ModiLoader\823ac795c82f035c86b71f68c8e77eea1ef916c77502d78fc2081d3fd660cde0.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\SmokeLoader\8a67d3dcd96cdf276c427051077ade5969462150e9029bca4ed70f74961d51b5.exe
+被以下規則掃描到:
+- 規則: rule_36_addcdcdfcadeebcaedfdb_exe.yar
+  命令: yara64 "ALL yara rules\rule_36_addcdcdfcadeebcaedfdb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\SmokeLoader\8a67d3dcd96cdf276c427051077ade5969462150e9029bca4ed70f74961d51b5.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\SmokeLoader\c65ea9eee506b0a71170d4e3778d3ccadda12f67217e89e3b93db61890ab548d.exe
+被以下規則掃描到:
+- 規則: rule_37_ceaeeebadedccaddafeebdbabd_exe.yar
+  命令: yara64 "ALL yara rules\rule_37_ceaeeebadedccaddafeebdbabd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\SmokeLoader\c65ea9eee506b0a71170d4e3778d3ccadda12f67217e89e3b93db61890ab548d.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\TriumphLoader\ca7b1a456d38e80f5936dadc80c923561b01f256c2a188cf3c962d030734f10a.exe
+被以下規則掃描到:
+- 規則: rule_38_cabadefdadccbfcacfcdfa_exe.yar
+  命令: yara64 "ALL yara rules\rule_38_cabadefdadccbfcacfcdfa_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\TriumphLoader\ca7b1a456d38e80f5936dadc80c923561b01f256c2a188cf3c962d030734f10a.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\UnknownLoader\801999b206ea4a214192586a15819dceb9fbc73f9c05d4ab358747623ed46c01.exe
+被以下規則掃描到:
+- 規則: rule_40_beaaadcebfbcfcdabedc_exe.yar
+  命令: yara64 "ALL yara rules\rule_40_beaaadcebfbcfcdabedc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\UnknownLoader\801999b206ea4a214192586a15819dceb9fbc73f9c05d4ab358747623ed46c01.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\UnknownLoader\ea310cc4fd4e8669e014ff417286da5edf2d3bef20abfb0a4f4951afe260d33d.exe
+被以下規則掃描到:
+- 規則: rule_41_eaccfdeeffdaedfdbefabfbafafedd_exe.yar
+  命令: yara64 "ALL yara rules\rule_41_eaccfdeeffdaedfdbefabfbafafedd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\UnknownLoader\ea310cc4fd4e8669e014ff417286da5edf2d3bef20abfb0a4f4951afe260d33d.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\XLoader\b475b8978e80b7cfc97d95df7e5c7b51efd86ec23d5257ec0c5aa40df7abf30a.exe
+被以下規則掃描到:
+- 規則: rule_42_bbebcfcddfecbefdecdeccaadfabfa_exe.yar
+  命令: yara64 "ALL yara rules\rule_42_bbebcfcddfecbefdecdeccaadfabfa_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\XLoader\b475b8978e80b7cfc97d95df7e5c7b51efd86ec23d5257ec0c5aa40df7abf30a.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\ZLoader\a604d6eda9aecb425e4f30af9d5bc097e05080088bd2126f71bb9aaf53a8394e.dll
+被以下規則掃描到:
+- 規則: rule_43_adedaaecbefafdbcebdfbbaafae_dll.yar
+  命令: yara64 "ALL yara rules\rule_43_adedaaecbefafdbcebdfbbaafae_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\ZLoader\a604d6eda9aecb425e4f30af9d5bc097e05080088bd2126f71bb9aaf53a8394e.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\ZLoader\d56060acb8115119810ae3aca151e94cbe5e2459dd405c8f010ced5a25c8548a.dll
+被以下規則掃描到:
+- 規則: rule_44_dacbaeacaecbeeddcfcedaca_dll.yar
+  命令: yara64 "ALL yara rules\rule_44_dacbaeacaecbeeddcfcedaca_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Loader\ZLoader\d56060acb8115119810ae3aca151e94cbe5e2459dd405c8f010ced5a25c8548a.dll"
+
+
+總結:
+被掃描到的惡意程式: 43
+總共掃描的程式: 134

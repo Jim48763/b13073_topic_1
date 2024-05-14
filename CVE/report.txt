@@ -1,0 +1,184 @@
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2016-7255\fec01ecfbc95ba154b19c1e9bb93edaa4bbed6628380b6670afe130e4b05c58b.exe
+被以下規則掃描到:
+- 規則: rule_01_fececfbcbabcebbedaabbedbafeebcb_exe.yar
+  命令: yara64 "ALL yara rules\rule_01_fececfbcbabcebbedaabbedbafeebcb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2016-7255\fec01ecfbc95ba154b19c1e9bb93edaa4bbed6628380b6670afe130e4b05c58b.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2017-0213\0a4a0f0df5eea57f16a76bff6489dd95a7089afba8e9e5c8bcadc46870af33fb.exe
+被以下規則掃描到:
+- 規則: rule_02_aafdfeeafabffddaafbaeecbcadcaffb_exe.yar
+  命令: yara64 "ALL yara rules\rule_02_aafdfeeafabffddaafbaeecbcadcaffb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2017-0213\0a4a0f0df5eea57f16a76bff6489dd95a7089afba8e9e5c8bcadc46870af33fb.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2017-0213\aac0c5ad612fb9a0ac3b4bbfd71b8931fc762f8e11fdf3ffb33ef22076f9c4bc.exe
+被以下規則掃描到:
+- 規則: rule_03_aaccadfbaacbbbfdbfcfefdfffbeffcbc_exe.yar
+  命令: yara64 "ALL yara rules\rule_03_aaccadfbaacbbbfdbfcfefdfffbeffcbc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2017-0213\aac0c5ad612fb9a0ac3b4bbfd71b8931fc762f8e11fdf3ffb33ef22076f9c4bc.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2018-8120\efa3f807a090dd6ed839496213cee3dfc6cef4633b45abb0f3b3a68b59ab416c.exe
+被以下規則掃描到:
+- 規則: rule_04_efafaddedceedfccefbabbfbababc_exe.yar
+  命令: yara64 "ALL yara rules\rule_04_efafaddedceedfccefbabbfbababc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2018-8120\efa3f807a090dd6ed839496213cee3dfc6cef4633b45abb0f3b3a68b59ab416c.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-1647\611afc357385174b0cb055e227730ed00d1826765c1b552c05f973e2852cdcea.exe
+被以下規則掃描到:
+- 規則: rule_06_afcbcbeeddcbcfecdcea_exe.yar
+  命令: yara64 "ALL yara rules\rule_06_afcbcbeeddcbcfecdcea_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-1647\611afc357385174b0cb055e227730ed00d1826765c1b552c05f973e2852cdcea.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-1647\6e1e9fa0334d8f1f5d0e3a160ba65441f0656d1f1c99f8a9f1ae4b1b1bf7d788.exe
+被以下規則掃描到:
+- 規則: rule_07_eefadffdeabafdfcfafaebbbfd_exe.yar
+  命令: yara64 "ALL yara rules\rule_07_eefadffdeabafdfcfafaebbbfd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-1647\6e1e9fa0334d8f1f5d0e3a160ba65441f0656d1f1c99f8a9f1ae4b1b1bf7d788.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-1647\f1e7ced872b766d3a345710492b0b27c79e4673f7668acf2e8c8efdff2dbc171.exe
+被以下規則掃描到:
+- 規則: rule_08_fecedbdabbcefacfecefdffdbc_exe.yar
+  命令: yara64 "ALL yara rules\rule_08_fecedbdabbcefacfecefdffdbc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-1647\f1e7ced872b766d3a345710492b0b27c79e4673f7668acf2e8c8efdff2dbc171.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-1647\fcbdc053a2de28f0bf5299ca927eb132fd9689578a2387ff863947688265f89f.exe
+被以下規則掃描到:
+- 規則: rule_09_fcbdcadefbfcaebfdaffff_exe.yar
+  命令: yara64 "ALL yara rules\rule_09_fcbdcadefbfcaebfdaffff_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-1647\fcbdc053a2de28f0bf5299ca927eb132fd9689578a2387ff863947688265f89f.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-31956\40a71220b876aa90ac01ba9c62496a415f2e4a799e391fa9c0cfb11ea6edfea0.exe
+被以下規則掃描到:
+- 規則: rule_10_abaaacbacafeaefaccfbeaedfea_exe.yar
+  命令: yara64 "ALL yara rules\rule_10_abaaacbacafeaefaccfbeaedfea_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-31956\40a71220b876aa90ac01ba9c62496a415f2e4a799e391fa9c0cfb11ea6edfea0.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-31956\88522397129ffb1ec2536f0bbc03d50d2d0f2a6447fa345153e088b6f99ba676.exe
+被以下規則掃描到:
+- 規則: rule_11_ffbecfbbcdddfafaebfba_exe.yar
+  命令: yara64 "ALL yara rules\rule_11_ffbecfbbcdddfafaebfba_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-31956\88522397129ffb1ec2536f0bbc03d50d2d0f2a6447fa345153e088b6f99ba676.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-31956\f7a78eb46802acb909a5b1dd916c597891fe010733f61d0a60b18e86a69213a8.exe
+被以下規則掃描到:
+- 規則: rule_12_faebacbabddcfefdabeaa_exe.yar
+  命令: yara64 "ALL yara rules\rule_12_faebacbabddcfefdabeaa_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-31956\f7a78eb46802acb909a5b1dd916c597891fe010733f61d0a60b18e86a69213a8.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-40444\47966d46657412e76755ca9c0f5d044e166feec9baaff30938504ddca4df3d37.exe
+被以下規則掃描到:
+- 規則: rule_13_decacfdefeecbaaffddcadfd_exe.yar
+  命令: yara64 "ALL yara rules\rule_13_decacfdefeecbaaffddcadfd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-40444\47966d46657412e76755ca9c0f5d044e166feec9baaff30938504ddca4df3d37.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-40449\73f520223a2e01c036a4b620c7188e733c113a429e25c5c3de7fbbc1c3d16ccc.exe
+被以下規則掃描到:
+- 規則: rule_14_faecabcecaeccdefbbccdccc_exe.yar
+  命令: yara64 "ALL yara rules\rule_14_faecabcecaeccdefbbccdccc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-40449\73f520223a2e01c036a4b620c7188e733c113a429e25c5c3de7fbbc1c3d16ccc.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-40449\b7fb3623e31fb36fc3d3a4d99829e42910cad4da4fa7429a2d99a838e004366e.exe
+被以下規則掃描到:
+- 規則: rule_15_bfbefbfcdadecaddafaadaee_exe.yar
+  命令: yara64 "ALL yara rules\rule_15_bfbefbfcdadecaddafaadaee_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-40449\b7fb3623e31fb36fc3d3a4d99829e42910cad4da4fa7429a2d99a838e004366e.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-40449\e84be291efadd53a8bb965bfb589590ffe870da9187e6752cc7a9f028053ff5d.exe
+被以下規則掃描到:
+- 規則: rule_16_ebeefaddabbbfbffedaeccafffd_exe.yar
+  命令: yara64 "ALL yara rules\rule_16_ebeefaddabbbfbffedaeccafffd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-40449\e84be291efadd53a8bb965bfb589590ffe870da9187e6752cc7a9f028053ff5d.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\0185eb8294ca76dfe90a4c57444860f98156a10d86346647407194bbd2eff343.exe
+被以下規則掃描到:
+- 規則: rule_17_ebcadfeacfadbbdeff_exe.yar
+  命令: yara64 "ALL yara rules\rule_17_ebcadfeacfadbbdeff_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\0185eb8294ca76dfe90a4c57444860f98156a10d86346647407194bbd2eff343.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\0dcda614c0128813bf74802f0e98ffd5ec32a40f35ed42778a5ec5984b5adf47.exe
+被以下規則掃描到:
+- 規則: rule_18_dcdacbffeffdecafedaecbadf_exe.yar
+  命令: yara64 "ALL yara rules\rule_18_dcdacbffeffdecafedaecbadf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\0dcda614c0128813bf74802f0e98ffd5ec32a40f35ed42778a5ec5984b5adf47.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\0f3fc83f646f1a40b4c5083a23f2407e5c83e79d9096c9a42a25c5e59ba2e44e.exe
+被以下規則掃描到:
+- 規則: rule_19_ffcffabcafecedcaacebaee_exe.yar
+  命令: yara64 "ALL yara rules\rule_19_ffcffabcafecedcaacebaee_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\0f3fc83f646f1a40b4c5083a23f2407e5c83e79d9096c9a42a25c5e59ba2e44e.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\13fe508e7efb50378eb8e0225221283756bf482d51be7837f850ef2b7f3281f0.exe
+被以下規則掃描到:
+- 規則: rule_20_feeefbebebfdbefefbff_exe.yar
+  命令: yara64 "ALL yara rules\rule_20_feeefbebebfdbefefbff_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\13fe508e7efb50378eb8e0225221283756bf482d51be7837f850ef2b7f3281f0.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\1c2d927d62632e71b68e8073afc2154df1c00b6f51da06a06b202dc9e260bb0e.exe
+被以下規則掃描到:
+- 規則: rule_21_cddebeafcdfcbfdaabdcebbe_exe.yar
+  命令: yara64 "ALL yara rules\rule_21_cddebeafcdfcbfdaabdcebbe_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\1c2d927d62632e71b68e8073afc2154df1c00b6f51da06a06b202dc9e260bb0e.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\2c3f91fcb22930f3c489bf231d93843180d7292740b5fae48f105843ad4fdd71.exe
+被以下規則掃描到:
+- 規則: rule_22_cffcbfcbfddbfaefadfdd_exe.yar
+  命令: yara64 "ALL yara rules\rule_22_cffcbfcbfddbfaefadfdd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\2c3f91fcb22930f3c489bf231d93843180d7292740b5fae48f105843ad4fdd71.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\2d8471cf29e205c9df9d1235e3acfff3d99810bdc262667fdf7629eb92028ede.exe
+被以下規則掃描到:
+- 規則: rule_23_dcfecdfdeacfffdbdcfdfebede_exe.yar
+  命令: yara64 "ALL yara rules\rule_23_dcfecdfdeacfffdbdcfdfebede_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\2d8471cf29e205c9df9d1235e3acfff3d99810bdc262667fdf7629eb92028ede.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\3c78e07924e1503be1f8785c23d0dd813f04211992cbd6a4955cd0e25c745735.exe
+被以下規則掃描到:
+- 規則: rule_24_ceebefcdddfcbdacdec_exe.yar
+  命令: yara64 "ALL yara rules\rule_24_ceebefcdddfcbdacdec_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\3c78e07924e1503be1f8785c23d0dd813f04211992cbd6a4955cd0e25c745735.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\47ab5f95a364e2cab265552d7fcb9ce5b90fed599097f699e7d3d71c45afe332.exe
+被以下規則掃描到:
+- 規則: rule_25_abfaecabdfcbcebfedfeddcafe_exe.yar
+  命令: yara64 "ALL yara rules\rule_25_abfaecabdfcbcebfedfeddcafe_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\47ab5f95a364e2cab265552d7fcb9ce5b90fed599097f699e7d3d71c45afe332.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\4c6d9509bb36e3858dfde9913834eb755684f2c1e24e6a5b22f544105b58994a.exe
+被以下規則掃描到:
+- 規則: rule_26_cdbbedfdeebfceeabfba_exe.yar
+  命令: yara64 "ALL yara rules\rule_26_cdbbedfdeebfceeabfba_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\4c6d9509bb36e3858dfde9913834eb755684f2c1e24e6a5b22f544105b58994a.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\54a4801b3ace13a0605806887692740bfa759bb38a26f94cdb1188d93062b301.exe
+被以下規則掃描到:
+- 規則: rule_27_abaceabfabbafcdbdb_exe.yar
+  命令: yara64 "ALL yara rules\rule_27_abaceabfabbafcdbdb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\54a4801b3ace13a0605806887692740bfa759bb38a26f94cdb1188d93062b301.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\57ec6e15bcc9c79c118f97103815bd74226d4baae334142890a52fbbc5006f1b.exe
+被以下規則掃描到:
+- 規則: rule_28_ecebccccfbddbaaeafbbcfb_exe.yar
+  命令: yara64 "ALL yara rules\rule_28_ecebccccfbddbaaeafbbcfb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\57ec6e15bcc9c79c118f97103815bd74226d4baae334142890a52fbbc5006f1b.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\61a6fd4e720f9bf76b0c0541063f614050f24c298ec6e73649b0eeb92271f738.exe
+被以下規則掃描到:
+- 規則: rule_29_afdefbfbcffcecebeebf_exe.yar
+  命令: yara64 "ALL yara rules\rule_29_afdefbfbcffcecebeebf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\61a6fd4e720f9bf76b0c0541063f614050f24c298ec6e73649b0eeb92271f738.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\6bc06e9a12db2d8f21cb71f508c6d0cd58f0bfa26781a6e6a32ea2f6eb6878e6.exe
+被以下規則掃描到:
+- 規則: rule_30_bceadbdfcbfcdcdfbfaaeaeafebe_exe.yar
+  命令: yara64 "ALL yara rules\rule_30_bceadbdfcbfcdcdfbfaaeaeafebe_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\6bc06e9a12db2d8f21cb71f508c6d0cd58f0bfa26781a6e6a32ea2f6eb6878e6.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\76fe99189fa84e28dd346b1105da77c4dfd3f7f16478b05bfca4c13a75d9fd07.exe
+被以下規則掃描到:
+- 規則: rule_31_fefaeddbdacdfdffbbfcacadfd_exe.yar
+  命令: yara64 "ALL yara rules\rule_31_fefaeddbdacdfdffbbfcacadfd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\76fe99189fa84e28dd346b1105da77c4dfd3f7f16478b05bfca4c13a75d9fd07.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\7f8ee1840da79255ed4fbf305ea6f7a76cde88dc543dd5ccb7d9321da76b609d.exe
+被以下規則掃描到:
+- 規則: rule_32_feedaedfbfeafacdedcddccbddabd_exe.yar
+  命令: yara64 "ALL yara rules\rule_32_feedaedfbfeafacdedcddccbddabd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\7f8ee1840da79255ed4fbf305ea6f7a76cde88dc543dd5ccb7d9321da76b609d.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\9d24383e50e61257c565e47ec073cbb2cd751b6f650f0d542b0643dbe6691b3c.exe
+被以下規則掃描到:
+- 規則: rule_33_deeceeccbbcdbffdbdbebc_exe.yar
+  命令: yara64 "ALL yara rules\rule_33_deeceeccbbcdbffdbdbebc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\9d24383e50e61257c565e47ec073cbb2cd751b6f650f0d542b0643dbe6691b3c.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\9e4763ddb6ac4377217c382cf6e61221efca0b0254074a3746ee03d3d421dabd.exe
+被以下規則掃描到:
+- 規則: rule_34_eddbacccfeefcabaeedddabd_exe.yar
+  命令: yara64 "ALL yara rules\rule_34_eddbacccfeefcabaeedddabd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\9e4763ddb6ac4377217c382cf6e61221efca0b0254074a3746ee03d3d421dabd.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\cd51e07ecd3b6f0842a15dbf320ace1d5f048272079686cf89ad8585619d1760.exe
+被以下規則掃描到:
+- 規則: rule_35_cdeecdbfadbfacedfcfadd_exe.yar
+  命令: yara64 "ALL yara rules\rule_35_cdeecdbfadbfacedfcfadd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\cd51e07ecd3b6f0842a15dbf320ace1d5f048272079686cf89ad8585619d1760.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\e724ae8b0ec29fc3dc537d4c73be74952963dc9423bc0a47b4b652ed06859de5.exe
+被以下規則掃描到:
+- 規則: rule_36_eaebecfcdcdcbedcbcabbedde_exe.yar
+  命令: yara64 "ALL yara rules\rule_36_eaebecfcdcdcbedcbcabbedde_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\e724ae8b0ec29fc3dc537d4c73be74952963dc9423bc0a47b4b652ed06859de5.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\f285006661a7c47aab70034566a3f1daf6ea7d09d31ed85303d45f5f8d3c67fd.exe
+被以下規則掃描到:
+- 規則: rule_37_facaabafdafeaddeddffdcfd_exe.yar
+  命令: yara64 "ALL yara rules\rule_37_facaabafdafeaddeddffdcfd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CVE\CVE-2021-41379\f285006661a7c47aab70034566a3f1daf6ea7d09d31ed85303d45f5f8d3c67fd.exe"
+
+
+總結:
+被掃描到的惡意程式: 36
+總共掃描的程式: 114

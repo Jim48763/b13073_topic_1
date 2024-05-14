@@ -1,0 +1,364 @@
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Citadel\0e870ae38822a23ec2dbc955c7d749b44ffad06338feccf6b6427cc1d4ee228a.exe
+被以下規則掃描到:
+- 規則: rule_01_eaeaecdbccdbffadfeccfbccdeea_exe.yar
+  命令: yara64 "ALL yara rules\rule_01_eaeaecdbccdbffadfeccfbccdeea_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Citadel\0e870ae38822a23ec2dbc955c7d749b44ffad06338feccf6b6427cc1d4ee228a.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Citadel\274ab1cb9485e367b5f44a9dada91b109f6afb823277282c76d64270a496d844.exe
+被以下規則掃描到:
+- 規則: rule_02_abcbebfadadabfafbcdad_exe.yar
+  命令: yara64 "ALL yara rules\rule_02_abcbebfadadabfafbcdad_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Citadel\274ab1cb9485e367b5f44a9dada91b109f6afb823277282c76d64270a496d844.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Citadel\8684b4f1655705872c064118539af8cb24609fcec394fa91067dc2cd46a3b179.exe
+被以下規則掃描到:
+- 規則: rule_03_bfcafcbfcecfadccdab_exe.yar
+  命令: yara64 "ALL yara rules\rule_03_bfcafcbfcecfadccdab_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Citadel\8684b4f1655705872c064118539af8cb24609fcec394fa91067dc2cd46a3b179.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Citadel\bc6747c5fe0b77e925556b1adbf6230eee0cbf5db792066508d615f7bc8d1565.exe
+被以下規則掃描到:
+- 規則: rule_04_bccfebebadbfeeecbfdbdfbcd_exe.yar
+  命令: yara64 "ALL yara rules\rule_04_bccfebebadbfeeecbfdbdfbcd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Citadel\bc6747c5fe0b77e925556b1adbf6230eee0cbf5db792066508d615f7bc8d1565.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Citadel\bebdaba9f180c6a34000e35386d3c7a7d31e280089b797adf6df0ca5a770be8f.exe
+被以下規則掃描到:
+- 規則: rule_05_bebdabafcaedcadebadfdfcaabef_exe.yar
+  命令: yara64 "ALL yara rules\rule_05_bebdabafcaedcadebadfdfcaabef_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Citadel\bebdaba9f180c6a34000e35386d3c7a7d31e280089b797adf6df0ca5a770be8f.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Citadel\cf813a86d30ddd0c2ca59f73334fffd241bfd31eddfe30dc2e73d5b29ae752d1.exe
+被以下規則掃描到:
+- 規則: rule_06_cfaddddccaffffdbfdeddfedcedbaed_exe.yar
+  命令: yara64 "ALL yara rules\rule_06_cfaddddccaffffdbfdeddfedcedbaed_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Citadel\cf813a86d30ddd0c2ca59f73334fffd241bfd31eddfe30dc2e73d5b29ae752d1.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Citadel\f5a286e7a4f4fbdfa37f541dd0e7561038883a315139a4a7cf508f2490a81b76.exe
+被以下規則掃描到:
+- 規則: rule_07_faeaffbdfafddeaaacffab_exe.yar
+  命令: yara64 "ALL yara rules\rule_07_faeaffbdfafddeaaacffab_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Citadel\f5a286e7a4f4fbdfa37f541dd0e7561038883a315139a4a7cf508f2490a81b76.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\GameOver\07f21e8acc3843aa44347b928c180902577a40850a8c671065920cb81ea8beb3.exe
+被以下規則掃描到:
+- 規則: rule_08_feaccaabcaaccbeabeb_exe.yar
+  命令: yara64 "ALL yara rules\rule_08_feaccaabcaaccbeabeb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\GameOver\07f21e8acc3843aa44347b928c180902577a40850a8c671065920cb81ea8beb3.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\GameOver\85c484e63143a822a269e0a5225d4e55f71db303647427ce3fc89cefaad9261a.exe
+被以下規則掃描到:
+- 規則: rule_09_ceaaeadefdbcefccefaada_exe.yar
+  命令: yara64 "ALL yara rules\rule_09_ceaaeadefdbcefccefaada_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\GameOver\85c484e63143a822a269e0a5225d4e55f71db303647427ce3fc89cefaad9261a.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\GameOver\a9dc22ed99b7c1871feb8da431e67610223089936bbe1332b82120232850ec1c.exe
+被以下規則掃描到:
+- 規則: rule_10_adcedbcfebdaebbebecc_exe.yar
+  命令: yara64 "ALL yara rules\rule_10_adcedbcfebdaebbebecc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\GameOver\a9dc22ed99b7c1871feb8da431e67610223089936bbe1332b82120232850ec1c.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\GameOver\bea5c56d864e39deef5d23cb9143f8572030da6b1df49a23d7d7151361de34ab.exe
+被以下規則掃描到:
+- 規則: rule_11_beacdedeefdcbfdabdfadddeab_exe.yar
+  命令: yara64 "ALL yara rules\rule_11_beacdedeefdcbfdabdfadddeab_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\GameOver\bea5c56d864e39deef5d23cb9143f8572030da6b1df49a23d7d7151361de34ab.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\GameOver\c381ea5f5924e2b62d56e5c9ff223598649ff8884a0f88c4362409190bcc5f3e.exe
+被以下規則掃描到:
+- 規則: rule_12_ceafebdecffffafcbccfe_exe.yar
+  命令: yara64 "ALL yara rules\rule_12_ceafebdecffffafcbccfe_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\GameOver\c381ea5f5924e2b62d56e5c9ff223598649ff8884a0f88c4362409190bcc5f3e.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\GameOver\d6a8fb2eea4ebfd8d25afde9234335afca980c7c49d94ebda88db4a00c493c87.exe
+被以下規則掃描到:
+- 規則: rule_13_dafbeeaebfddafdeafcaccdebdadbacc_exe.yar
+  命令: yara64 "ALL yara rules\rule_13_dafbeeaebfddafdeafcaccdebdadbacc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\GameOver\d6a8fb2eea4ebfd8d25afde9234335afca980c7c49d94ebda88db4a00c493c87.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\GameOver\d7c1fc3ccb794a45e2d26267ee537ed174773f7d67114e23585e2b2c565257cb.exe
+被以下規則掃描到:
+- 規則: rule_14_dcfcccbaedeeedfdeebccb_exe.yar
+  命令: yara64 "ALL yara rules\rule_14_dcfcccbaedeeedfdeebccb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\GameOver\d7c1fc3ccb794a45e2d26267ee537ed174773f7d67114e23585e2b2c565257cb.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\GameOver\d935c6883744416102e2be4498623103a150fdbcb0a702240455f5d40f330bf4.exe
+被以下規則掃描到:
+- 規則: rule_15_dcebeafdbcbafdfbf_exe.yar
+  命令: yara64 "ALL yara rules\rule_15_dcebeafdbcbafdfbf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\GameOver\d935c6883744416102e2be4498623103a150fdbcb0a702240455f5d40f330bf4.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\IceIX\4bbbd985c466704a96ff939f0b3f42efd162adaefa1ae9025e43fbc2ce254101.exe
+被以下規則掃描到:
+- 規則: rule_16_bbbdcafffbfefdadaefaaeefbcce_exe.yar
+  命令: yara64 "ALL yara rules\rule_16_bbbdcafffbfefdadaefaaeefbcce_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\IceIX\4bbbd985c466704a96ff939f0b3f42efd162adaefa1ae9025e43fbc2ce254101.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\IceIX\4fdaee1072210091799af73f630e0eb993a1d2d42005dc096d1422d9924f1ad5.exe
+被以下規則掃描到:
+- 規則: rule_17_fdaeeaffeebadddcddfad_exe.yar
+  命令: yara64 "ALL yara rules\rule_17_fdaeeaffeebadddcddfad_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\IceIX\4fdaee1072210091799af73f630e0eb993a1d2d42005dc096d1422d9924f1ad5.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\IceIX\6e57b3151e696198fa799ccdc91d05ecee2462f5adc2ec5cd591b745165106e8.exe
+被以下規則掃描到:
+- 規則: rule_18_ebefaccdcdeceefadceccdbe_exe.yar
+  命令: yara64 "ALL yara rules\rule_18_ebefaccdcdeceefadceccdbe_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\IceIX\6e57b3151e696198fa799ccdc91d05ecee2462f5adc2ec5cd591b745165106e8.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\IceIX\70e1d2fba60a7d20e531b09ff328fef21b82bb7e87d78a48f964d82c7dd2680f.exe
+被以下規則掃描到:
+- 規則: rule_19_edfbaadebfffefbbbedafdcddf_exe.yar
+  命令: yara64 "ALL yara rules\rule_19_edfbaadebfffefbbbedafdcddf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\IceIX\70e1d2fba60a7d20e531b09ff328fef21b82bb7e87d78a48f964d82c7dd2680f.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\IceIX\9dfd9793dd172c0c6c730d2e2b3c9b5c9daa0c7e317ff4148b19c3aa95558471.exe
+被以下規則掃描到:
+- 規則: rule_20_dfdddcccdebcbcdaaceffbcaa_exe.yar
+  命令: yara64 "ALL yara rules\rule_20_dfdddcccdebcbcdaaceffbcaa_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\IceIX\9dfd9793dd172c0c6c730d2e2b3c9b5c9daa0c7e317ff4148b19c3aa95558471.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\IceIX\a3725e98e15a959f04ed86484d7f6ba845a6f194b855e742590b464adef0c780.exe
+被以下規則掃描到:
+- 規則: rule_21_aeeafeddfbaafbebadefc_exe.yar
+  命令: yara64 "ALL yara rules\rule_21_aeeafeddfbaafbebadefc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\IceIX\a3725e98e15a959f04ed86484d7f6ba845a6f194b855e742590b464adef0c780.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\0d28bf33f99d286092870f3504f54bc0cb81a0f733275d0b689d6bdb9aeb758a.exe
+被以下規則掃描到:
+- 規則: rule_22_dbffdffbccbafdbdbdbaeba_exe.yar
+  命令: yara64 "ALL yara rules\rule_22_dbffdffbccbafdbdbdbaeba_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\0d28bf33f99d286092870f3504f54bc0cb81a0f733275d0b689d6bdb9aeb758a.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\0d61cc62923f2df6a74fd877cc41c5a4df61355a3ded608bab7b9dde0fb98f41.exe
+被以下規則掃描到:
+- 規則: rule_23_dccfdfafdcccadfadedbabbddefbf_exe.yar
+  命令: yara64 "ALL yara rules\rule_23_dccfdfafdcccadfadedbabbddefbf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\0d61cc62923f2df6a74fd877cc41c5a4df61355a3ded608bab7b9dde0fb98f41.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\10b85536fedabb3c8ca3bed5822f368ed64a09bb06b4f595ac4dc18aeb565426.exe
+被以下規則掃描到:
+- 規則: rule_24_bfedabbccabedfedabbbfacdcaeb_exe.yar
+  命令: yara64 "ALL yara rules\rule_24_bfedabbccabedfedabbbfacdcaeb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\10b85536fedabb3c8ca3bed5822f368ed64a09bb06b4f595ac4dc18aeb565426.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\26e84519f3875d3c579c95ec1694eff8224f75eaec63ae8970bc85ff1479f392.exe
+被以下規則掃描到:
+- 規則: rule_25_efdccecefffeaecaebcfff_exe.yar
+  命令: yara64 "ALL yara rules\rule_25_efdccecefffeaecaebcfff_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\26e84519f3875d3c579c95ec1694eff8224f75eaec63ae8970bc85ff1479f392.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\2e6634f1f1abdd8cc2d651d060631598caf6374fee5bc3cd8b246e3090e4c4fa.exe
+被以下規則掃描到:
+- 規則: rule_26_effabddccddcaffeebccdbeecfa_exe.yar
+  命令: yara64 "ALL yara rules\rule_26_effabddccddcaffeebccdbeecfa_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\2e6634f1f1abdd8cc2d651d060631598caf6374fee5bc3cd8b246e3090e4c4fa.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\31ed064712da1c70c11c2e157e8469812befb3f051dcd7ffa4de44be49860381.exe
+被以下規則掃描到:
+- 規則: rule_27_eddaccceebefbfdcdffadebe_exe.yar
+  命令: yara64 "ALL yara rules\rule_27_eddaccceebefbfdcdffadebe_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\31ed064712da1c70c11c2e157e8469812befb3f051dcd7ffa4de44be49860381.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\335c0e4430a08956f796611b3ebf273117e784ee1d728d7b8fcb9997c98735cc.exe
+被以下規則掃描到:
+- 規則: rule_28_ceafbebfeeeddbfcbccc_exe.yar
+  命令: yara64 "ALL yara rules\rule_28_ceafbebfeeeddbfcbccc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\335c0e4430a08956f796611b3ebf273117e784ee1d728d7b8fcb9997c98735cc.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\3d95e6885d4a0a66dad5d37750fa84a4d4f1f9db2ccc741997d22d89af92cbfb.exe
+被以下規則掃描到:
+- 規則: rule_29_dedaadaddfaadffdbcccddafcbfb_exe.yar
+  命令: yara64 "ALL yara rules\rule_29_dedaadaddfaadffdbcccddafcbfb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\3d95e6885d4a0a66dad5d37750fa84a4d4f1f9db2ccc741997d22d89af92cbfb.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\3de467124b098019e59fbdbcd3815db8001f6479e17da506d0c10c0f83dcde7f.exe
+被以下規則掃描到:
+- 規則: rule_30_debefbdbcddbfedadccfdcdef_exe.yar
+  命令: yara64 "ALL yara rules\rule_30_debefbdbcddbfedadccfdcdef_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\3de467124b098019e59fbdbcd3815db8001f6479e17da506d0c10c0f83dcde7f.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\41ac9dd172ebc186c77cab9f12401ab18805e77c34eacdf9dfdbd570d8bd9c62.exe
+被以下規則掃描到:
+- 規則: rule_31_acddebcccabfabeceacdfdfdbddbdc_exe.yar
+  命令: yara64 "ALL yara rules\rule_31_acddebcccabfabeceacdfdfdbddbdc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\41ac9dd172ebc186c77cab9f12401ab18805e77c34eacdf9dfdbd570d8bd9c62.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\4352a4309cb454aa6ba59932456f32dbfee4b0b5d998d954518dcff43ff8281b.exe
+被以下規則掃描到:
+- 規則: rule_32_acbaabafdbfeebbdddcffffb_exe.yar
+  命令: yara64 "ALL yara rules\rule_32_acbaabafdbfeebbdddcffffb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\4352a4309cb454aa6ba59932456f32dbfee4b0b5d998d954518dcff43ff8281b.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\5090d89adf0523559aba758adb1bf3c1f1afe20e354242a96020c41816652cbf.exe
+被以下規則掃描到:
+- 規則: rule_33_dadfabaadbbfcfafeeaccbf_exe.yar
+  命令: yara64 "ALL yara rules\rule_33_dadfabaadbbfcfafeeaccbf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\5090d89adf0523559aba758adb1bf3c1f1afe20e354242a96020c41816652cbf.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\5782c7ade207fd4415c35bd1e98bad7c3fcaef206fa60f142b8d1062e7103670.exe
+被以下規則掃描到:
+- 規則: rule_34_cadefdcbdebadcfcaeffafbde_exe.yar
+  命令: yara64 "ALL yara rules\rule_34_cadefdcbdebadcfcaeffafbde_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\5782c7ade207fd4415c35bd1e98bad7c3fcaef206fa60f142b8d1062e7103670.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\57ad651687d7bad1d5be010376dcd1c62a467ddfae3e96bc6429e7d53cb23e0d.exe
+被以下規則掃描到:
+- 規則: rule_35_addbaddbedcdcaddfaeebcedcbed_exe.yar
+  命令: yara64 "ALL yara rules\rule_35_addbaddbedcdcaddfaeebcedcbed_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\57ad651687d7bad1d5be010376dcd1c62a467ddfae3e96bc6429e7d53cb23e0d.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\59e2125782c015d9cad7ae6035eaed1cfab4889ee90ed74888582c784d08fb3b.exe
+被以下規則掃描到:
+- 規則: rule_36_ecdcadaeeaedcfabeeedcdfbb_exe.yar
+  命令: yara64 "ALL yara rules\rule_36_ecdcadaeeaedcfabeeedcdfbb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\59e2125782c015d9cad7ae6035eaed1cfab4889ee90ed74888582c784d08fb3b.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\6278fbd54efddf8382ab45329e58e655cb7f82dc86f60028935b96eba9ce16bc.exe
+被以下規則掃描到:
+- 規則: rule_37_fbdefddfabeecbfdcfbebacebc_exe.yar
+  命令: yara64 "ALL yara rules\rule_37_fbdefddfabeecbfdcfbebacebc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\6278fbd54efddf8382ab45329e58e655cb7f82dc86f60028935b96eba9ce16bc.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\634aea27e31c58f7e07510965e6d7350a8cf7e18c5cd5099edcf0586f1990ab9.exe
+被以下規則掃描到:
+- 規則: rule_38_aeaecfeedacfeccdedcffab_exe.yar
+  命令: yara64 "ALL yara rules\rule_38_aeaecfeedacfeccdedcffab_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\634aea27e31c58f7e07510965e6d7350a8cf7e18c5cd5099edcf0586f1990ab9.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\68264c44774c650ce96e87807781ed0dcf25a1d50cc90e08731fde466b25c791.exe
+被以下規則掃描到:
+- 規則: rule_39_ccceeeddcfadccefdebc_exe.yar
+  命令: yara64 "ALL yara rules\rule_39_ccceeeddcfadccefdebc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\68264c44774c650ce96e87807781ed0dcf25a1d50cc90e08731fde466b25c791.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\7eb56d98f341b98164b70f34d5f4008a07f3fe9d02943ddc7edeacb05f6dd5ef.exe
+被以下規則掃描到:
+- 規則: rule_40_ebdfbbfdfaffedddcedeacbfddef_exe.yar
+  命令: yara64 "ALL yara rules\rule_40_ebdfbbfdfaffedddcedeacbfddef_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\7eb56d98f341b98164b70f34d5f4008a07f3fe9d02943ddc7edeacb05f6dd5ef.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\7fed42ce016ec6ac5ea6ee1468b1f96afa55955f955471b89bb57c903f0e8fdb.exe
+被以下規則掃描到:
+- 規則: rule_41_fedceecaceaeebfafafbbbcfefdb_exe.yar
+  命令: yara64 "ALL yara rules\rule_41_fedceecaceaeebfafafbbbcfefdb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\7fed42ce016ec6ac5ea6ee1468b1f96afa55955f955471b89bb57c903f0e8fdb.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\8337b387ec3cafdaa01347f123383682a8bb1e6965a922258fd656a36ebe919d.exe
+被以下規則掃描到:
+- 規則: rule_42_beccafdaafabbeafdaebed_exe.yar
+  命令: yara64 "ALL yara rules\rule_42_beccafdaafabbeafdaebed_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\8337b387ec3cafdaa01347f123383682a8bb1e6965a922258fd656a36ebe919d.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\89c7c8a795578ef239fef68fe949c29f50f7f40833f6eb87eabf66cae290eab6.exe
+被以下規則掃描到:
+- 規則: rule_43_ccaeffeffecffffebeabfcaeeab_exe.yar
+  命令: yara64 "ALL yara rules\rule_43_ccaeffeffecffffebeabfcaeeab_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\89c7c8a795578ef239fef68fe949c29f50f7f40833f6eb87eabf66cae290eab6.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\8b698af43c10c0509d15d39d688674f9885295a4679a4f6afffcf1714322c7a7.exe
+被以下規則掃描到:
+- 規則: rule_44_bafccdddfaafafffcfca_exe.yar
+  命令: yara64 "ALL yara rules\rule_44_bafccdddfaafafffcfca_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\8b698af43c10c0509d15d39d688674f9885295a4679a4f6afffcf1714322c7a7.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\94c1b963cc2b06ec91490e557ded99ecfc04d336eea26fdb2f4253a0cfa3ed81.exe
+被以下規則掃描到:
+- 規則: rule_45_cbccbecededecfcdeeafdbfacfaed_exe.yar
+  命令: yara64 "ALL yara rules\rule_45_cbccbecededecfcdeeafdbfacfaed_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\94c1b963cc2b06ec91490e557ded99ecfc04d336eea26fdb2f4253a0cfa3ed81.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\b66eace0a610e947b3aa9964f0ff8e94978c19f290ca377b1e5e558feca44879.exe
+被以下規則掃描到:
+- 規則: rule_46_beaceaebaafffecfcabeefeca_exe.yar
+  命令: yara64 "ALL yara rules\rule_46_beaceaebaafffecfcabeefeca_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\b66eace0a610e947b3aa9964f0ff8e94978c19f290ca377b1e5e558feca44879.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\bab0018688dca84b2f433575f005a9eb9ccf7f18c5c952889ed11d335e1675d3.exe
+被以下規則掃描到:
+- 規則: rule_47_babdcabffaebccffccedded_exe.yar
+  命令: yara64 "ALL yara rules\rule_47_babdcabffaebccffccedded_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\bab0018688dca84b2f433575f005a9eb9ccf7f18c5c952889ed11d335e1675d3.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\c3be55a58b2afa08ba8520d981c50ab773113da36b139985ad16e5fab39ac145.exe
+被以下規則掃描到:
+- 規則: rule_48_cbeabafabadcabdabadefabac_exe.yar
+  命令: yara64 "ALL yara rules\rule_48_cbeabafabadcabdabadefabac_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\c3be55a58b2afa08ba8520d981c50ab773113da36b139985ad16e5fab39ac145.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\db09e6f69ea651370d796ee2fd4a78d9a11cd82faea3f8d5ef007c04065b1e25.exe
+被以下規則掃描到:
+- 規則: rule_49_dbefeadeefdadacdfaeafdefcbe_exe.yar
+  命令: yara64 "ALL yara rules\rule_49_dbefeadeefdadacdfaeafdefcbe_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\db09e6f69ea651370d796ee2fd4a78d9a11cd82faea3f8d5ef007c04065b1e25.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\e8012d5c00deb0a3684d7767de19e4dea2ff536060fe5671393252152b0b1d8f.exe
+被以下規則掃描到:
+- 規則: rule_50_edcdebaddeedeafffebbdf_exe.yar
+  命令: yara64 "ALL yara rules\rule_50_edcdebaddeedeafffebbdf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\e8012d5c00deb0a3684d7767de19e4dea2ff536060fe5671393252152b0b1d8f.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\f7bcc93d67f3de8a08b9b263f62e5107baa6eb746cfbb41cff2b76646e186829.exe
+被以下規則掃描到:
+- 規則: rule_51_fbccdfdeabbfebaaebcfbbcffbe_exe.yar
+  命令: yara64 "ALL yara rules\rule_51_fbccdfdeabbfebaaebcfbbcffbe_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\PandaZeuS\f7bcc93d67f3de8a08b9b263f62e5107baa6eb746cfbb41cff2b76646e186829.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Zbot\3cfac63b3fe9bfb358097541453facb33be788e142f10f7ee04f30f68e2a2c61.exe
+被以下規則掃描到:
+- 規則: rule_52_cfacbfebfbfacbbeeffeeffeac_exe.yar
+  命令: yara64 "ALL yara rules\rule_52_cfacbfebfbfacbbeeffeeffeac_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Zbot\3cfac63b3fe9bfb358097541453facb33be788e142f10f7ee04f30f68e2a2c61.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Zbot\61b0aa94dc56585b7255398cd755e9db6fedd5b06ebca386b2dc5fddc8cf5478.exe
+被以下規則掃描到:
+- 規則: rule_53_baadcbcdedbfeddbebcabdcfddccf_exe.yar
+  命令: yara64 "ALL yara rules\rule_53_baadcbcdedbfeddbebcabdcfddccf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Zbot\61b0aa94dc56585b7255398cd755e9db6fedd5b06ebca386b2dc5fddc8cf5478.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Zbot\fb7e3d141ff3851b74b24c265fd94db17a9571bb6686fe2f47bd12d053d88309.exe
+被以下規則掃描到:
+- 規則: rule_54_fbedffbbcfddbabbfefbddd_exe.yar
+  命令: yara64 "ALL yara rules\rule_54_fbedffbbcfddbabbfefbddd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Zbot\fb7e3d141ff3851b74b24c265fd94db17a9571bb6686fe2f47bd12d053d88309.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Zeusaes\1294e6cce4285225612898a4fbc75a640e69dc0f246af698e2c91d48ad2d61b8.exe
+被以下規則掃描到:
+- 規則: rule_55_ecceafbcaedcfafecdaddb_exe.yar
+  命令: yara64 "ALL yara rules\rule_55_ecceafbcaedcfafecdaddb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Zeusaes\1294e6cce4285225612898a4fbc75a640e69dc0f246af698e2c91d48ad2d61b8.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Zeusaes\143bef370f492f0928f56505099c902d6e959e2877e804283df35bd98edddd32.exe
+被以下規則掃描到:
+- 規則: rule_56_beffffcdeeedfbdedddd_exe.yar
+  命令: yara64 "ALL yara rules\rule_56_beffffcdeeedfbdedddd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Zeusaes\143bef370f492f0928f56505099c902d6e959e2877e804283df35bd98edddd32.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Zeusaes\1f3cb432fec1301eac03a16b40f08df0c29efd9e29b06f600581482a286d12f4.exe
+被以下規則掃描到:
+- 規則: rule_57_fcbfeceacabfdfcefdebfadf_exe.yar
+  命令: yara64 "ALL yara rules\rule_57_fcbfeceacabfdfcefdebfadf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Zeusaes\1f3cb432fec1301eac03a16b40f08df0c29efd9e29b06f600581482a286d12f4.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Zeusaes\49f09c9a7999aecd099827b16b6e746ec9941ec59c63b2534947fe24d0998cd0.exe
+被以下規則掃描到:
+- 規則: rule_58_fcaaecdbbeececcbfedcd_exe.yar
+  命令: yara64 "ALL yara rules\rule_58_fcaaecdbbeececcbfedcd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Zeusaes\49f09c9a7999aecd099827b16b6e746ec9941ec59c63b2534947fe24d0998cd0.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Zeusaes\4e49f5147939257640ba4990f520c9dbe355c83b73d9deadfc8505c4a09f931d.exe
+被以下規則掃描到:
+- 規則: rule_59_efbafcdbecbddeadfccafd_exe.yar
+  命令: yara64 "ALL yara rules\rule_59_efbafcdbecbddeadfccafd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Zeusaes\4e49f5147939257640ba4990f520c9dbe355c83b73d9deadfc8505c4a09f931d.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Zeusaes\667795f9640513adce74413e89dfe6b668060bc5ccfda64f825d329cc450e183.exe
+被以下規則掃描到:
+- 規則: rule_60_fadceedfebbcccfdafdcce_exe.yar
+  命令: yara64 "ALL yara rules\rule_60_fadceedfebbcccfdafdcce_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Zeusaes\667795f9640513adce74413e89dfe6b668060bc5ccfda64f825d329cc450e183.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Zeusaes\7023401afba5b814cf592d063996f83c00903667bcf4aaf905fefcd79354fc2e.exe
+被以下規則掃描到:
+- 規則: rule_61_afbabcfdfcbcfaaffefcdfce_exe.yar
+  命令: yara64 "ALL yara rules\rule_61_afbabcfdfcbcfaaffefcdfce_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Zeusaes\7023401afba5b814cf592d063996f83c00903667bcf4aaf905fefcd79354fc2e.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Zeusaes\750294a4eabebe210666c496cfb546a49e67959c18fc8e72a69e02921bfc7998.exe
+被以下規則掃描到:
+- 規則: rule_62_aeabebeccfbaecfceaebfc_exe.yar
+  命令: yara64 "ALL yara rules\rule_62_aeabebeccfbaecfceaebfc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Zeusaes\750294a4eabebe210666c496cfb546a49e67959c18fc8e72a69e02921bfc7998.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Zeusaes\87c779ed21a3c5abb368edd0472968f7f4f3c839fa8ac6ed058bfbee6c6c056a.exe
+被以下規則掃描到:
+- 規則: rule_63_cedacabbeddfffcfaacedbfbeecca_exe.yar
+  命令: yara64 "ALL yara rules\rule_63_cedacabbeddfffcfaacedbfbeecca_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Zeusaes\87c779ed21a3c5abb368edd0472968f7f4f3c839fa8ac6ed058bfbee6c6c056a.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Zeusaes\8de342cc27413e9d133bb93ff62d7b19724abeb98dd608a2ed2741294a4ba602.exe
+被以下規則掃描到:
+- 規則: rule_64_deccedbbffdbabebddaedaba_exe.yar
+  命令: yara64 "ALL yara rules\rule_64_deccedbbffdbabebddaedaba_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Zeusaes\8de342cc27413e9d133bb93ff62d7b19724abeb98dd608a2ed2741294a4ba602.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Zeusaes\afe57674c53de398de18be61175e7cf55447e9c57cd3b4c82b035a9d65ec86f3.exe
+被以下規則掃描到:
+- 規則: rule_65_afecdedebeecfeccdbcbadecf_exe.yar
+  命令: yara64 "ALL yara rules\rule_65_afecdedebeecfeccdbcbadecf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Zeusaes\afe57674c53de398de18be61175e7cf55447e9c57cd3b4c82b035a9d65ec86f3.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Zeusaes\bd8b83f7dd16986237807033ff8ce00cda8d173d44a9e9f95e7a8e77877825b1.exe
+被以下規則掃描到:
+- 規則: rule_66_bdbfddffcecdaddaefeaeb_exe.yar
+  命令: yara64 "ALL yara rules\rule_66_bdbfddffcecdaddaefeaeb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Zeusaes\bd8b83f7dd16986237807033ff8ce00cda8d173d44a9e9f95e7a8e77877825b1.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Zeusaes\d00caf2b9c674f6655223fc6bd924baef259087122d9af40d62b2e4066aa6224.exe
+被以下規則掃描到:
+- 規則: rule_67_dcafbcffcbdbaefdafdbeaa_exe.yar
+  命令: yara64 "ALL yara rules\rule_67_dcafbcffcbdbaefdafdbeaa_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Zeusaes\d00caf2b9c674f6655223fc6bd924baef259087122d9af40d62b2e4066aa6224.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Zeusaes\e17b14b22bfe46a8b9f2c5be411f86c4bee23cf9e7c89755dfc4fefe1620f722.exe
+被以下規則掃描到:
+- 規則: rule_68_ebbbfeabfcbefcbeecfecdfcfefef_exe.yar
+  命令: yara64 "ALL yara rules\rule_68_ebbbfeabfcbefcbeecfecdfcfefef_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\Zeusaes\e17b14b22bfe46a8b9f2c5be411f86c4bee23cf9e7c89755dfc4fefe1620f722.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\ZeusSphinx\18f150bc5cab780a4eaf35e198bb343497528b4095613ab48a8585c5caa937b5.exe
+被以下規則掃描到:
+- 規則: rule_69_fbccabaeafebbbabaccaab_exe.yar
+  命令: yara64 "ALL yara rules\rule_69_fbccabaeafebbbabaccaab_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\ZeusSphinx\18f150bc5cab780a4eaf35e198bb343497528b4095613ab48a8585c5caa937b5.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\ZeusSphinx\99429e0d24148741ba7b04a8acceb7177ee27a1c3ff6c2dd7f324a937094e270.exe
+被以下規則掃描到:
+- 規則: rule_70_edbabaaccebeeacffcddfae_exe.yar
+  命令: yara64 "ALL yara rules\rule_70_edbabaaccebeeacffcddfae_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\ZeusSphinx\99429e0d24148741ba7b04a8acceb7177ee27a1c3ff6c2dd7f324a937094e270.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\ZeusSphinx\b7969b30d717867cea9427b87a822d59edd94600312599cf407d0d6ec35988ed.exe
+被以下規則掃描到:
+- 規則: rule_71_bbdceabadeddcfddeced_exe.yar
+  命令: yara64 "ALL yara rules\rule_71_bbdceabadeddcfddeced_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\ZeusSphinx\b7969b30d717867cea9427b87a822d59edd94600312599cf407d0d6ec35988ed.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\ZeusSphinx\c0dfbb822dea47692a8ed0d266c518495f1a3efd3a4208fb5251bcdf08f18d42.exe
+被以下規則掃描到:
+- 規則: rule_72_cdfbbdeaaeddcfaefdafbbcdffd_exe.yar
+  命令: yara64 "ALL yara rules\rule_72_cdfbbdeaaeddcfaefdafbbcdffd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/ZeuS\ZeusSphinx\c0dfbb822dea47692a8ed0d266c518495f1a3efd3a4208fb5251bcdf08f18d42.exe"
+
+
+總結:
+被掃描到的惡意程式: 72
+總共掃描的程式: 145

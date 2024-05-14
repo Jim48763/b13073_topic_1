@@ -1,0 +1,24 @@
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CryptBot\021fb6384caf7f0b9afadbe363849424073d001c162eaa30ec1c4e18359734ba.exe
+被以下規則掃描到:
+- 規則: rule_01_fbcaffbafadbedceaaecceba_exe.yar
+  命令: yara64 "ALL yara rules\rule_01_fbcaffbafadbedceaaecceba_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CryptBot\021fb6384caf7f0b9afadbe363849424073d001c162eaa30ec1c4e18359734ba.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CryptBot\131d6fb9204ceda508075afce9b9b65e429952674e914d224268deb319a0aab1.exe
+被以下規則掃描到:
+- 規則: rule_02_dfbcedaafcebbeeddebaaab_exe.yar
+  命令: yara64 "ALL yara rules\rule_02_dfbcedaafcebbeeddebaaab_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CryptBot\131d6fb9204ceda508075afce9b9b65e429952674e914d224268deb319a0aab1.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CryptBot\6dbc5053ef73f361771e017473f9d53b9df951cc9e0f1d31e1218033160f2b5a.exe
+被以下規則掃描到:
+- 規則: rule_03_dbceffefdbdfccefdefba_exe.yar
+  命令: yara64 "ALL yara rules\rule_03_dbceffefdbdfccefdefba_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CryptBot\6dbc5053ef73f361771e017473f9d53b9df951cc9e0f1d31e1218033160f2b5a.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CryptBot\bbb7e921c02c44367f13533453ae6d3ab8390dc1e7a4ef27ecc655b76b3248df.exe
+被以下規則掃描到:
+- 規則: rule_04_bbbeccfaedabdceaefeccbbdf_exe.yar
+  命令: yara64 "ALL yara rules\rule_04_bbbeccfaedabdceaefeccbbdf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/CryptBot\bbb7e921c02c44367f13533453ae6d3ab8390dc1e7a4ef27ecc655b76b3248df.exe"
+
+
+總結:
+被掃描到的惡意程式: 4
+總共掃描的程式: 8

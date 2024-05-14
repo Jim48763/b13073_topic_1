@@ -1,0 +1,29 @@
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Python\4a70b909dbe668d0d2c5241dc582acb90c8820acb436a1ecbb620019e93fbda8.exe
+被以下規則掃描到:
+- 規則: rule_01_abdbeddcdcacbcacbaecbbefbda_exe.yar
+  命令: yara64 "ALL yara rules\rule_01_abdbeddcdcacbcacbaecbbefbda_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Python\4a70b909dbe668d0d2c5241dc582acb90c8820acb436a1ecbb620019e93fbda8.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Python\4b76ad80e9ce4c503bde0e476a88447426fc38315d440d22926627295e1b0ec6.exe
+被以下規則掃描到:
+- 規則: rule_02_badececbdeeafcddebec_exe.yar
+  命令: yara64 "ALL yara rules\rule_02_badececbdeeafcddebec_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Python\4b76ad80e9ce4c503bde0e476a88447426fc38315d440d22926627295e1b0ec6.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Python\6f22b803d64f96feb954539f6b9701202a6b780a1c5f3d04f3ee7be932cc6e8d.exe
+被以下規則掃描到:
+- 規則: rule_03_fbdffebfbabacfdfeebecced_exe.yar
+  命令: yara64 "ALL yara rules\rule_03_fbdffebfbabacfdfeebecced_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Python\6f22b803d64f96feb954539f6b9701202a6b780a1c5f3d04f3ee7be932cc6e8d.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Python\9353cf6347377bf1194349bff4001485fac99a5cd3ee03781e81c157452dae68.exe
+被以下規則掃描到:
+- 規則: rule_04_cfbfbfffacacdeeecdae_exe.yar
+  命令: yara64 "ALL yara rules\rule_04_cfbfbfffacacdeeecdae_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Python\9353cf6347377bf1194349bff4001485fac99a5cd3ee03781e81c157452dae68.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Python\95e35f1614df92a318a749a8f62a35b9c03f2f34f08ad5606b45c9d817ff1d93.exe
+被以下規則掃描到:
+- 規則: rule_05_efdfaaafabcfffadbcdffd_exe.yar
+  命令: yara64 "ALL yara rules\rule_05_efdfaaafabcfffadbcdffd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Python\95e35f1614df92a318a749a8f62a35b9c03f2f34f08ad5606b45c9d817ff1d93.exe"
+
+
+總結:
+被掃描到的惡意程式: 5
+總共掃描的程式: 25

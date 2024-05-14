@@ -1,0 +1,1024 @@
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\AceRAT\c66e973686ee6d1761be2781a9f27f0f8d81fad4db088d836bebf6055cba193f.exe
+被以下規則掃描到:
+- 規則: rule_01_ceeedbeafffdfaddbdbebfcbaf_exe.yar
+  命令: yara64 "ALL yara rules\rule_01_ceeedbeafffdfaddbdbebfcbaf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\AceRAT\c66e973686ee6d1761be2781a9f27f0f8d81fad4db088d836bebf6055cba193f.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\AnsycRAT\0874e6f65ae7582713415b4927d82db34e75fae59578411b8d35358dac1b1740.exe
+被以下規則掃描到:
+- 規則: rule_02_efaebddbefaebddacb_exe.yar
+  命令: yara64 "ALL yara rules\rule_02_efaebddbefaebddacb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\AnsycRAT\0874e6f65ae7582713415b4927d82db34e75fae59578411b8d35358dac1b1740.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\AnsycRAT\0f5d4567231422d24ee3627fd1210c5a9e339c59236106a92a99664beab4d400.exe
+被以下規則掃描到:
+- 規則: rule_03_fddeefdcaecaabeabd_exe.yar
+  命令: yara64 "ALL yara rules\rule_03_fddeefdcaecaabeabd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\AnsycRAT\0f5d4567231422d24ee3627fd1210c5a9e339c59236106a92a99664beab4d400.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\AnsycRAT\1d0d8c5370adf00c6dfcebcd398685e53871c2848d6241854cf338149c2bd7c3.exe
+被以下規則掃描到:
+- 規則: rule_04_ddcadfcdfcebcdecdcfcbdc_exe.yar
+  命令: yara64 "ALL yara rules\rule_04_ddcadfcdfcebcdecdcfcbdc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\AnsycRAT\1d0d8c5370adf00c6dfcebcd398685e53871c2848d6241854cf338149c2bd7c3.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\AnsycRAT\6536526fa3203e5eb97977b6b5448f8b44053d7739147a672ebf8a249c9260ea.exe
+被以下規則掃描到:
+- 規則: rule_05_faeebbbfbdaebfacea_exe.yar
+  命令: yara64 "ALL yara rules\rule_05_faeebbbfbdaebfacea_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\AnsycRAT\6536526fa3203e5eb97977b6b5448f8b44053d7739147a672ebf8a249c9260ea.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\AnsycRAT\8dca56d46b266fc3ad5c1b44c7a965a768371df1380a64e4b36ead475c5bafb8.exe
+被以下規則掃描到:
+- 規則: rule_06_dcadbfcadcbcaadfaebeadcbafb_exe.yar
+  命令: yara64 "ALL yara rules\rule_06_dcadbfcadcbcaadfaebeadcbafb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\AnsycRAT\8dca56d46b266fc3ad5c1b44c7a965a768371df1380a64e4b36ead475c5bafb8.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\AnsycRAT\8e2f79bba0279db48c4dee8c6a464eff4765c44be651b0368cc4fb5d3cca9766.exe
+被以下規則掃描到:
+- 規則: rule_07_efbbadbcdeecaeffcbebccfbdcca_exe.yar
+  命令: yara64 "ALL yara rules\rule_07_efbbadbcdeecaeffcbebccfbdcca_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\AnsycRAT\8e2f79bba0279db48c4dee8c6a464eff4765c44be651b0368cc4fb5d3cca9766.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\AnsycRAT\f81c2ea77c43b31074d99454fc11481222b7cd1e7f8ae40136533a007fc2f8d2.exe
+被以下規則掃描到:
+- 規則: rule_08_fceacbdfcbcdefaeafcfd_exe.yar
+  命令: yara64 "ALL yara rules\rule_08_fceacbdfcbcdefaeafcfd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\AnsycRAT\f81c2ea77c43b31074d99454fc11481222b7cd1e7f8ae40136533a007fc2f8d2.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ArrowRAT\2fb8100d4fb1ee22837aec10889c4b0303434e50944b96a390164e449eb62dee.exe
+被以下規則掃描到:
+- 規則: rule_09_fbdfbeeaeccbebaeebdee_exe.yar
+  命令: yara64 "ALL yara rules\rule_09_fbdfbeeaeccbebaeebdee_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ArrowRAT\2fb8100d4fb1ee22837aec10889c4b0303434e50944b96a390164e449eb62dee.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ArrowRAT\3dbd1065734c9b3e603bc2a81dbadb77beeb54c6a918a6a4ae0687659ac3c0fb.exe
+被以下規則掃描到:
+- 規則: rule_10_dbdcbebcadbadbbeebcaaaaeaccfb_exe.yar
+  命令: yara64 "ALL yara rules\rule_10_dbdcbebcadbadbbeebcaaaaeaccfb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ArrowRAT\3dbd1065734c9b3e603bc2a81dbadb77beeb54c6a918a6a4ae0687659ac3c0fb.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ArrowRAT\4c4d844ace41156600bf0c2ab9df287538002abf30d0ba3f50836b2e49f5e0a5.exe
+被以下規則掃描到:
+- 規則: rule_11_cdacebfcabdfabfdbafbefea_exe.yar
+  命令: yara64 "ALL yara rules\rule_11_cdacebfcabdfabfdbafbefea_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ArrowRAT\4c4d844ace41156600bf0c2ab9df287538002abf30d0ba3f50836b2e49f5e0a5.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ArrowRAT\8a3d555c8d1019b6d42721a2eea770d2101458fd70b208f6767db2eeb1cd44bc.exe
+被以下規則掃描到:
+- 規則: rule_12_adcdbdaeeadfdbfdbeebcdbc_exe.yar
+  命令: yara64 "ALL yara rules\rule_12_adcdbdaeeadfdbfdbeebcdbc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ArrowRAT\8a3d555c8d1019b6d42721a2eea770d2101458fd70b208f6767db2eeb1cd44bc.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\AveMariaRAT\06f505db091e082da4434e360a226a0bbb3c1a74685d84588b202aa87fce7e12.exe
+被以下規則掃描到:
+- 規則: rule_13_fdbedaeaabbbcadbaafcee_exe.yar
+  命令: yara64 "ALL yara rules\rule_13_fdbedaeaabbbcadbaafcee_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\AveMariaRAT\06f505db091e082da4434e360a226a0bbb3c1a74685d84588b202aa87fce7e12.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\AveMariaRAT\3aff3bee3f6de25b165bef6914783b97029cf74fd5ca3694810316412a1483b4.exe
+被以下規則掃描到:
+- 規則: rule_14_affbeefdebbefbcffdcaab_exe.yar
+  命令: yara64 "ALL yara rules\rule_14_affbeefdebbefbcffdcaab_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\AveMariaRAT\3aff3bee3f6de25b165bef6914783b97029cf74fd5ca3694810316412a1483b4.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\AveMariaRAT\48fa514aefde6f61a5fbf181dbcc255f9a5027beeb53f683cc2615889365904c.exe
+被以下規則掃描到:
+- 規則: rule_15_faaefdefafbfdbccfabeebfccc_exe.yar
+  命令: yara64 "ALL yara rules\rule_15_faaefdefafbfdbccfabeebfccc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\AveMariaRAT\48fa514aefde6f61a5fbf181dbcc255f9a5027beeb53f683cc2615889365904c.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\AveMariaRAT\56b95c3399a705e1bcdc312f3c82749308279f744f1199a59e9bcb3818c194c9.exe
+被以下規則掃描到:
+- 規則: rule_16_bcaebcdcfcffaebcbcc_exe.yar
+  命令: yara64 "ALL yara rules\rule_16_bcaebcdcfcffaebcbcc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\AveMariaRAT\56b95c3399a705e1bcdc312f3c82749308279f744f1199a59e9bcb3818c194c9.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\AveMariaRAT\8c4195e119336f936e293818013ed375d640da5c15956efde284b301bd6d9a0a.exe
+被以下規則掃描到:
+- 規則: rule_17_cefeedddacefdebbddaa_exe.yar
+  命令: yara64 "ALL yara rules\rule_17_cefeedddacefdebbddaa_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\AveMariaRAT\8c4195e119336f936e293818013ed375d640da5c15956efde284b301bd6d9a0a.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\AveMariaRAT\9c63d0166ebe40cb15a0754ed2902a9f076c81a0f5c7deafe74d9916d3d7a28a.exe
+被以下規則掃描到:
+- 規則: rule_18_cdebecbaedafcafcdeafedddaa_exe.yar
+  命令: yara64 "ALL yara rules\rule_18_cdebecbaedafcafcdeafedddaa_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\AveMariaRAT\9c63d0166ebe40cb15a0754ed2902a9f076c81a0f5c7deafe74d9916d3d7a28a.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BabylonRAT\0139fb0031645adc0f0fb1afcacd8c598423ae12a783927322049eb365e68d3a.exe
+被以下規則掃描到:
+- 規則: rule_19_fbadcffbafcacdcaeaebeda_exe.yar
+  命令: yara64 "ALL yara rules\rule_19_fbadcffbafcacdcaeaebeda_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BabylonRAT\0139fb0031645adc0f0fb1afcacd8c598423ae12a783927322049eb365e68d3a.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BazarBackdoor\18fe9ceab0a17ddc71f7b7a206c1c127d62a0a86c62573b8c018ab562da1fd6e.exe
+被以下規則掃描到:
+- 規則: rule_20_feceabaddcfbaccdaacbcabdafde_exe.yar
+  命令: yara64 "ALL yara rules\rule_20_feceabaddcfbaccdaacbcabdafde_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BazarBackdoor\18fe9ceab0a17ddc71f7b7a206c1c127d62a0a86c62573b8c018ab562da1fd6e.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BazarBackdoor\1f136522cc2cdea93e2086aa67ab07102bcef7e31b201489b43707986824b3f8.exe
+被以下規則掃描到:
+- 規則: rule_21_fcccdeaeaaabbcefebbbf_exe.yar
+  命令: yara64 "ALL yara rules\rule_21_fcccdeaeaaabbcefebbbf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BazarBackdoor\1f136522cc2cdea93e2086aa67ab07102bcef7e31b201489b43707986824b3f8.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BazarBackdoor\2e456fe88ac97e84fe1ef0bdd54d1b982d2251f6ccf2f8d15ded025ca030adbc.exe
+被以下規則掃描到:
+- 規則: rule_22_efeacefeefbdddbdfccffddedcaadbc_exe.yar
+  命令: yara64 "ALL yara rules\rule_22_efeacefeefbdddbdfccffddedcaadbc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BazarBackdoor\2e456fe88ac97e84fe1ef0bdd54d1b982d2251f6ccf2f8d15ded025ca030adbc.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BazarBackdoor\9c3cfeccfffba1fe5b1b69a5784e3d2832a35aebd0998efb48877ae766708691.exe
+被以下規則掃描到:
+- 規則: rule_23_ccfeccfffbafebbaedaaebdefbae_exe.yar
+  命令: yara64 "ALL yara rules\rule_23_ccfeccfffbafebbaedaaebdefbae_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BazarBackdoor\9c3cfeccfffba1fe5b1b69a5784e3d2832a35aebd0998efb48877ae766708691.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BazarBackdoor\a314401b8e12130bea249a3734022a8ebd46b8e65b18535db60944a00e84e6f6.exe
+被以下規則掃描到:
+- 規則: rule_24_abebeaaaebdbebdbaeef_exe.yar
+  命令: yara64 "ALL yara rules\rule_24_abebeaaaebdbebdbaeef_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BazarBackdoor\a314401b8e12130bea249a3734022a8ebd46b8e65b18535db60944a00e84e6f6.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BazarBackdoor\cd18e2bebc72f731a5dbe0588ab3633b0421f45fa205cbb674f231d56f4a4e5a.exe
+被以下規則掃描到:
+- 規則: rule_25_cdebebcfadbeabbffacbbfdfaea_exe.yar
+  命令: yara64 "ALL yara rules\rule_25_cdebebcfadbeabbffacbbfdfaea_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BazarBackdoor\cd18e2bebc72f731a5dbe0588ab3633b0421f45fa205cbb674f231d56f4a4e5a.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BitRAT\1ce688c18aeac8e14b9e022c644193549af78239b11d22d843c57b5aae6e3b8c.exe
+被以下規則掃描到:
+- 規則: rule_26_cecaeacebecafbddcbaaeebc_exe.yar
+  命令: yara64 "ALL yara rules\rule_26_cecaeacebecafbddcbaaeebc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BitRAT\1ce688c18aeac8e14b9e022c644193549af78239b11d22d843c57b5aae6e3b8c.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BitRAT\3e483d19170652c8c74d9a42ef17804b4739e6290f08e54c68f8311e390b0c1f.exe
+被以下規則掃描到:
+- 規則: rule_27_edccdaefbefecfebcf_exe.yar
+  命令: yara64 "ALL yara rules\rule_27_edccdaefbefecfebcf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BitRAT\3e483d19170652c8c74d9a42ef17804b4739e6290f08e54c68f8311e390b0c1f.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BitRAT\481bf324192405f2b1c59092c3c207f12d16ac0ab47e7eef304fcf401a2ed2cf.exe
+被以下規則掃描到:
+- 規則: rule_28_bffbcccfdacabeeeffcfaedcf_exe.yar
+  命令: yara64 "ALL yara rules\rule_28_bffbcccfdacabeeeffcfaedcf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BitRAT\481bf324192405f2b1c59092c3c207f12d16ac0ab47e7eef304fcf401a2ed2cf.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BitRAT\a724bc0aa0fe8122c3ff1d2d8c90e717c506f3aaea8060f89559250d4fe89ed1.exe
+被以下規則掃描到:
+- 規則: rule_29_abcaafecffddcecfaaeafdfeed_exe.yar
+  命令: yara64 "ALL yara rules\rule_29_abcaafecffddcecfaaeafdfeed_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BitRAT\a724bc0aa0fe8122c3ff1d2d8c90e717c506f3aaea8060f89559250d4fe89ed1.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BitRAT\f3475e4fc7c4307bc41e68f95ed31b88f5b24fb37efb3078d6732341761d96df.exe
+被以下規則掃描到:
+- 規則: rule_30_fefccbcefedbfbfbefbdddf_exe.yar
+  命令: yara64 "ALL yara rules\rule_30_fefccbcefedbfbfbefbdddf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BitRAT\f3475e4fc7c4307bc41e68f95ed31b88f5b24fb37efb3078d6732341761d96df.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BlackNETRAT\02d84ab808655cbe2cb4737e9c01544345b2f91bdfc03b29c0e061bee2e883cf.exe
+被以下規則掃描到:
+- 規則: rule_31_dabcbecbecbfbdfcbcebeeecf_exe.yar
+  命令: yara64 "ALL yara rules\rule_31_dabcbecbecbfbdfcbcebeeecf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BlackNETRAT\02d84ab808655cbe2cb4737e9c01544345b2f91bdfc03b29c0e061bee2e883cf.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BlackNETRAT\146dd15ab549f6a0691c3a728602ce283825b361aa825521252c94e4a8bd94b4.exe
+被以下規則掃描到:
+- 規則: rule_32_ddabfacacebaaceabdb_exe.yar
+  命令: yara64 "ALL yara rules\rule_32_ddabfacacebaaceabdb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BlackNETRAT\146dd15ab549f6a0691c3a728602ce283825b361aa825521252c94e4a8bd94b4.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BlackNETRAT\244334e5785b37a3968287bf88eb6ac6ab2715126af65c4797aeb4cb5e11906e.exe
+被以下規則掃描到:
+- 規則: rule_33_ebabfebacabafcaebcbee_exe.yar
+  命令: yara64 "ALL yara rules\rule_33_ebabfebacabafcaebcbee_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BlackNETRAT\244334e5785b37a3968287bf88eb6ac6ab2715126af65c4797aeb4cb5e11906e.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BlackNETRAT\4fcda5517e6673b3233c58d4738b079c6f944ce746dfc3b1dbf87f475f8ff364.exe
+被以下規則掃描到:
+- 規則: rule_34_fcdaebcdbcfcedfcbdbfffff_exe.yar
+  命令: yara64 "ALL yara rules\rule_34_fcdaebcdbcfcedfcbdbfffff_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BlackNETRAT\4fcda5517e6673b3233c58d4738b079c6f944ce746dfc3b1dbf87f475f8ff364.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BlackNETRAT\90071cffdfe6465b764829a706fe27f1abbb58d719bfcb428b210ae8c939a320.exe
+被以下規則掃描到:
+- 規則: rule_35_cffdfebafefabbbdbfcbbaeca_exe.yar
+  命令: yara64 "ALL yara rules\rule_35_cffdfebafefabbbdbfcbbaeca_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BlackNETRAT\90071cffdfe6465b764829a706fe27f1abbb58d719bfcb428b210ae8c939a320.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BlackNETRAT\af4586015e689d670854702df4aa5748eb90da472dc6c479f065bfb49e624d0c.exe
+被以下規則掃描到:
+- 規則: rule_36_afeddfaaebdadccfbfbedc_exe.yar
+  命令: yara64 "ALL yara rules\rule_36_afeddfaaebdadccfbfbedc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BlackNETRAT\af4586015e689d670854702df4aa5748eb90da472dc6c479f065bfb49e624d0c.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BlackNETRAT\b9f183918ce6878943fa07f7522c0ca894ea454d5616fa387374e414dc935ee7.exe
+被以下規則掃描到:
+- 規則: rule_37_bfcefafccaeadfaedcee_exe.yar
+  命令: yara64 "ALL yara rules\rule_37_bfcefafccaeadfaedcee_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BlackNETRAT\b9f183918ce6878943fa07f7522c0ca894ea454d5616fa387374e414dc935ee7.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BlackNETRAT\c214b31584d7f10aac62a292961052fecb27885fede2efe65c7f4cc40ae6dce0.exe
+被以下規則掃描到:
+- 規則: rule_38_cbdfaacafecbfedeefecfccaedce_exe.yar
+  命令: yara64 "ALL yara rules\rule_38_cbdfaacafecbfedeefecfccaedce_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BlackNETRAT\c214b31584d7f10aac62a292961052fecb27885fede2efe65c7f4cc40ae6dce0.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BlackNETRAT\d76ec16d5684b8193aed6680a5d2b77f813e4267624dd79008544a44c405b4af.exe
+被以下規則掃描到:
+- 規則: rule_39_decdbaedadbfeddacbaf_exe.yar
+  命令: yara64 "ALL yara rules\rule_39_decdbaedadbfeddacbaf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BlackNETRAT\d76ec16d5684b8193aed6680a5d2b77f813e4267624dd79008544a44c405b4af.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BlackNETRAT\f00cc32a15455bec6b4ebcd74e3e74c698a5308dbc21a342f10d5ec6a7dd83bb.exe
+被以下規則掃描到:
+- 規則: rule_40_fccabecbebcdeecadbcafdecaddbb_exe.yar
+  命令: yara64 "ALL yara rules\rule_40_fccabecbebcdeecadbcafdecaddbb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\BlackNETRAT\f00cc32a15455bec6b4ebcd74e3e74c698a5308dbc21a342f10d5ec6a7dd83bb.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\CrimsonRAT\4c8e0459524380a9f00ffc58913f461c3e1d8737dd18252881f09e2d416e4f73.exe
+被以下規則掃描到:
+- 規則: rule_41_ceafffcfcedddfedef_exe.yar
+  命令: yara64 "ALL yara rules\rule_41_ceafffcfcedddfedef_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\CrimsonRAT\4c8e0459524380a9f00ffc58913f461c3e1d8737dd18252881f09e2d416e4f73.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\CrimsonRAT\bff6270b7c6240c394515dc2505bb9f55d7b9df700be1777a8469143f78d0eb6.exe
+被以下規則掃描到:
+- 規則: rule_42_bffbccdcbbfdbdfbeafdeb_exe.yar
+  命令: yara64 "ALL yara rules\rule_42_bffbccdcbbfdbdfbeafdeb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\CrimsonRAT\bff6270b7c6240c394515dc2505bb9f55d7b9df700be1777a8469143f78d0eb6.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\CrimsonRAT\ee0bdedcc1c0395fb52a3de9d7173ea0a662dd41bf8e41daf049d588041f8077.exe
+被以下規則掃描到:
+- 規則: rule_43_eebdedcccfbadedeaaddbfedafdf_exe.yar
+  命令: yara64 "ALL yara rules\rule_43_eebdedcccfbadedeaaddbfedafdf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\CrimsonRAT\ee0bdedcc1c0395fb52a3de9d7173ea0a662dd41bf8e41daf049d588041f8077.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\DarkCometRAT\208145a22fa6e10399360af479848df54672ea2eb542444e2f88c4299961971d.exe
+被以下規則掃描到:
+- 規則: rule_44_afaeafdfeaebefcd_exe.yar
+  命令: yara64 "ALL yara rules\rule_44_afaeafdfeaebefcd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\DarkCometRAT\208145a22fa6e10399360af479848df54672ea2eb542444e2f88c4299961971d.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\DarkCometRAT\3dd7fd114be1aeadcb539d4b993b043332e570faa28f5faf8bb13dc9a7f219bf.exe
+被以下規則掃描到:
+- 規則: rule_45_ddfdbeaeadcbdbbefaaffafbbdcafbf_exe.yar
+  命令: yara64 "ALL yara rules\rule_45_ddfdbeaeadcbdbbefaaffafbbdcafbf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\DarkCometRAT\3dd7fd114be1aeadcb539d4b993b043332e570faa28f5faf8bb13dc9a7f219bf.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\DarkCometRAT\967db64d16674b438203bc9303f8e7ad4f424ada45eb28330dd61295ee86786d.exe
+被以下規則掃描到:
+- 規則: rule_46_dbdbbcfeadfadaebddeed_exe.yar
+  命令: yara64 "ALL yara rules\rule_46_dbdbbcfeadfadaebddeed_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\DarkCometRAT\967db64d16674b438203bc9303f8e7ad4f424ada45eb28330dd61295ee86786d.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\DarkCometRAT\bbc8f1873aefb2518b9675fdda8446a2ba7dc159bab9bfd08b40e19b654ea8bb.exe
+被以下規則掃描到:
+- 規則: rule_47_bbcfaefbbfddaabadcbabbfdbebeabb_exe.yar
+  命令: yara64 "ALL yara rules\rule_47_bbcfaefbbfddaabadcbabbfdbebeabb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\DarkCometRAT\bbc8f1873aefb2518b9675fdda8446a2ba7dc159bab9bfd08b40e19b654ea8bb.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\DarkCometRAT\c960f47eb155a0066c0e4e279c296d0516edf66cf032b44188fe3d7f3a16aef6.exe
+被以下規則掃描到:
+- 規則: rule_48_cfebaceecdedfcfbfedfaaef_exe.yar
+  命令: yara64 "ALL yara rules\rule_48_cfebaceecdedfcfbfedfaaef_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\DarkCometRAT\c960f47eb155a0066c0e4e279c296d0516edf66cf032b44188fe3d7f3a16aef6.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\DcRAT\5fd5abeb26cdc364310d6e88bb4326d6801eba7dfebca2601fb0ad11797acdd6.exe
+被以下規則掃描到:
+- 規則: rule_49_fdabebcdcdebbdebadfebcafbadacdd_exe.yar
+  命令: yara64 "ALL yara rules\rule_49_fdabebcdcdebbdebadfebcafbadacdd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\DcRAT\5fd5abeb26cdc364310d6e88bb4326d6801eba7dfebca2601fb0ad11797acdd6.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\DcRAT\bc742c33c446a25e6482c4209436088415d5c89a7f8ab66f37f16006d62344ac.exe
+被以下規則掃描到:
+- 規則: rule_50_bcccaecdcafabffdac_exe.yar
+  命令: yara64 "ALL yara rules\rule_50_bcccaecdcafabffdac_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\DcRAT\bc742c33c446a25e6482c4209436088415d5c89a7f8ab66f37f16006d62344ac.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ElectroRAT\cf77727aa2cfcd3d6dd85cb492ddee28ff9191def60a9e00ea08ccddf817d143.exe
+被以下規則掃描到:
+- 規則: rule_51_cfaacfcddddcbddeeffdefaeeaccddfd_exe.yar
+  命令: yara64 "ALL yara rules\rule_51_cfaacfcddddcbddeeffdefaeeaccddfd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ElectroRAT\cf77727aa2cfcd3d6dd85cb492ddee28ff9191def60a9e00ea08ccddf817d143.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\FirebirdRAT\0caa8e9a2efdf5f65903378e0b07f7ac7f2d39227f5cf97f3a07870b7ab0778f.exe
+被以下規則掃描到:
+- 規則: rule_52_caaeaefdffebfacfdfcffababf_exe.yar
+  命令: yara64 "ALL yara rules\rule_52_caaeaefdffebfacfdfcffababf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\FirebirdRAT\0caa8e9a2efdf5f65903378e0b07f7ac7f2d39227f5cf97f3a07870b7ab0778f.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\FirebirdRAT\2a254dcb87e159b1cbc69f3b57521cbd423b016d0ec5310b4b81ba254cb9d7dc.exe
+被以下規則掃描到:
+- 規則: rule_53_adcbebcbcfbcbdbdecbbbacbddc_exe.yar
+  命令: yara64 "ALL yara rules\rule_53_adcbebcbcfbcbdbdecbbbacbddc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\FirebirdRAT\2a254dcb87e159b1cbc69f3b57521cbd423b016d0ec5310b4b81ba254cb9d7dc.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\FirebirdRAT\f59e7ab2069c641ee4b94baf0a593296692bd917f8c3b6330295fd1f00dffe82.exe
+被以下規則掃描到:
+- 規則: rule_54_feabceebbafabdfcbfdfdffe_exe.yar
+  命令: yara64 "ALL yara rules\rule_54_feabceebbafabdfcbfdfdffe_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\FirebirdRAT\f59e7ab2069c641ee4b94baf0a593296692bd917f8c3b6330295fd1f00dffe82.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Gh0stRAT\02e9b3ef447e4ac8c95640b35105ab021f37a23262dc4b6b0ebbe334564e02e0.exe
+被以下規則掃描到:
+- 規則: rule_55_ebefeaccbabfadcbbebbeee_exe.yar
+  命令: yara64 "ALL yara rules\rule_55_ebefeaccbabfadcbbebbeee_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Gh0stRAT\02e9b3ef447e4ac8c95640b35105ab021f37a23262dc4b6b0ebbe334564e02e0.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Gh0stRAT\2d29648e8ef3eb8e7dcb9632359d315ecabee7c32a0c3f3f622b124fd7c07da1.exe
+被以下規則掃描到:
+- 規則: rule_56_deefebedcbdecabeecacffbfdcda_exe.yar
+  命令: yara64 "ALL yara rules\rule_56_deefebedcbdecabeecacffbfdcda_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Gh0stRAT\2d29648e8ef3eb8e7dcb9632359d315ecabee7c32a0c3f3f622b124fd7c07da1.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Gh0stRAT\c9ef2a3ae38154b1dacc2724d2b0e097e893c7617602969fcf3f56abe5d96d72.exe
+被以下規則掃描到:
+- 規則: rule_57_cefaaebdaccdbeecfcffabedd_exe.yar
+  命令: yara64 "ALL yara rules\rule_57_cefaaebdaccdbeecfcffabedd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Gh0stRAT\c9ef2a3ae38154b1dacc2724d2b0e097e893c7617602969fcf3f56abe5d96d72.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Gh0stRAT\e046697b4102be8e3ad4b6e04524e7248d86b58f6d9f4884357fd33768878fbd.exe
+被以下規則掃描到:
+- 規則: rule_58_ebbeeadbeedbfdffdfbd_exe.yar
+  命令: yara64 "ALL yara rules\rule_58_ebbeeadbeedbfdffdfbd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Gh0stRAT\e046697b4102be8e3ad4b6e04524e7248d86b58f6d9f4884357fd33768878fbd.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\HiveRAT\3dd49a4c4138beb588bd295bdf95af66f5d4779cb1d70731a3702dd08c794d66.exe
+被以下規則掃描到:
+- 規則: rule_59_ddacbebbdbdfaffdcbdaddcd_exe.yar
+  命令: yara64 "ALL yara rules\rule_59_ddacbebbdbdfaffdcbdaddcd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\HiveRAT\3dd49a4c4138beb588bd295bdf95af66f5d4779cb1d70731a3702dd08c794d66.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\HiveRAT\9f1a69b3f5266d7e9c70d1751029528fcb8cacec2a5a5713177c2493d61825cb.exe
+被以下規則掃描到:
+- 規則: rule_60_fabfdecdfcbcacecaacdcb_exe.yar
+  命令: yara64 "ALL yara rules\rule_60_fabfdecdfcbcacecaacdcb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\HiveRAT\9f1a69b3f5266d7e9c70d1751029528fcb8cacec2a5a5713177c2493d61825cb.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\HiveRAT\f0331d96574776e1254747cac935785308803f1234cb833064f0aae4e9aa7964.exe
+被以下規則掃描到:
+- 規則: rule_61_fdecacfcbfaaeeaa_exe.yar
+  命令: yara64 "ALL yara rules\rule_61_fdecacfcbfaaeeaa_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\HiveRAT\f0331d96574776e1254747cac935785308803f1234cb833064f0aae4e9aa7964.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ImminentRAT\03b3a862ce340a8351d7dfe88cb8e864ba8d0db6c7d0e8089c7c4453b78f75f6.exe
+被以下規則掃描到:
+- 規則: rule_62_baceaddfecbebaddbcdeccbff_exe.yar
+  命令: yara64 "ALL yara rules\rule_62_baceaddfecbebaddbcdeccbff_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ImminentRAT\03b3a862ce340a8351d7dfe88cb8e864ba8d0db6c7d0e8089c7c4453b78f75f6.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ImminentRAT\31736a54c77e7f44f952f55536eb4ac6d5863c9ed970a087c0d1cc801a558728.exe
+被以下規則掃描到:
+- 規則: rule_63_acefffebacdcedacdcca_exe.yar
+  命令: yara64 "ALL yara rules\rule_63_acefffebacdcedacdcca_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ImminentRAT\31736a54c77e7f44f952f55536eb4ac6d5863c9ed970a087c0d1cc801a558728.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ImminentRAT\32810abdc19d8ac2707052b00c823f3062f7ae4d2c5b984eadf2d18d615f695c.exe
+被以下規則掃描到:
+- 規則: rule_64_abdcdacbcffaedcbeadfddfc_exe.yar
+  命令: yara64 "ALL yara rules\rule_64_abdcdacbcffaedcbeadfddfc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ImminentRAT\32810abdc19d8ac2707052b00c823f3062f7ae4d2c5b984eadf2d18d615f695c.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ImminentRAT\37c79fbb9d531c60e6aba6f5bafd9ebbc6cbaff419c777c9a3b284355086e6a2.exe
+被以下規則掃描到:
+- 規則: rule_65_cfbbdceabafbafdebbccbaffccabea_exe.yar
+  命令: yara64 "ALL yara rules\rule_65_cfbbdceabafbafdebbccbaffccabea_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ImminentRAT\37c79fbb9d531c60e6aba6f5bafd9ebbc6cbaff419c777c9a3b284355086e6a2.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ImminentRAT\72bff15d43e54772c639f876fbd6b132310081c87a9d997c4b0b3c08d09caf9f.exe
+被以下規則掃描到:
+- 規則: rule_66_bffdecffbdbcadcbbcdcaff_exe.yar
+  命令: yara64 "ALL yara rules\rule_66_bffdecffbdbcadcbbcdcaff_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ImminentRAT\72bff15d43e54772c639f876fbd6b132310081c87a9d997c4b0b3c08d09caf9f.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ImminentRAT\d73cae4d04a7d22c85fa0468a498753564a13fbc193955a1c00f12af8d4aec6d.exe
+被以下規則掃描到:
+- 規則: rule_67_dcaedadcfaaafbcacfafdaecd_exe.yar
+  命令: yara64 "ALL yara rules\rule_67_dcaedadcfaaafbcacfafdaecd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ImminentRAT\d73cae4d04a7d22c85fa0468a498753564a13fbc193955a1c00f12af8d4aec6d.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ImminentRAT\e513eb020887dd56e85e55803b1afccb24ae116380947993da2e88a71e97be14.exe
+被以下規則掃描到:
+- 規則: rule_68_eebddeebafccbaedaeaebe_exe.yar
+  命令: yara64 "ALL yara rules\rule_68_eebddeebafccbaedaeaebe_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ImminentRAT\e513eb020887dd56e85e55803b1afccb24ae116380947993da2e88a71e97be14.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\KlingonRAT\44237e2de44a533751c0baace09cf83293572ae7c51cb4575e7267be289c6611.exe
+被以下規則掃描到:
+- 規則: rule_69_edeacbaacecfaeccbebec_exe.yar
+  命令: yara64 "ALL yara rules\rule_69_edeacbaacecfaeccbebec_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\KlingonRAT\44237e2de44a533751c0baace09cf83293572ae7c51cb4575e7267be289c6611.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\KlingonRAT\c9a2a966086a37276cc200c0f22f735d49df4e87f591fe806ca8d8597b9f60b7.exe
+被以下規則掃描到:
+- 規則: rule_70_caaacccffddfeffecadbfb_exe.yar
+  命令: yara64 "ALL yara rules\rule_70_caaacccffddfeffecadbfb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\KlingonRAT\c9a2a966086a37276cc200c0f22f735d49df4e87f591fe806ca8d8597b9f60b7.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\KlingonRAT\e8eea442e148c81f116de31b4fc3d0aa725c5dbbbd840b446a3fb9793d0b9f26.exe
+被以下規則掃描到:
+- 規則: rule_71_eeeaecfdebfcdaacdbbbdbafbdbf_exe.yar
+  命令: yara64 "ALL yara rules\rule_71_eeeaecfdebfcdaacdbbbdbafbdbf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\KlingonRAT\e8eea442e148c81f116de31b4fc3d0aa725c5dbbbd840b446a3fb9793d0b9f26.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\KorPlug\68d196a504b09a32dbe07f4c85608650019a549e08ce3881862f6aa71d223e8c.exe
+被以下規則掃描到:
+- 規則: rule_72_dabadbefcaecefaadec_exe.yar
+  命令: yara64 "ALL yara rules\rule_72_dabadbefcaecefaadec_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\KorPlug\68d196a504b09a32dbe07f4c85608650019a549e08ce3881862f6aa71d223e8c.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\KorPlug\6e6bfcbc22644d060670718dea2c5a7d860edc55cf8bd6100e277e53a8b0fc92.exe
+被以下規則掃描到:
+- 規則: rule_73_ebfcbcddeacadedccfbdeeabfc_exe.yar
+  命令: yara64 "ALL yara rules\rule_73_ebfcbcddeacadedccfbdeeabfc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\KorPlug\6e6bfcbc22644d060670718dea2c5a7d860edc55cf8bd6100e277e53a8b0fc92.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\KorPlug\a49133ed68bebb66412d3eb5d2b84ee71c393627906f574a29247d8699f1f38e.dll
+被以下規則掃描到:
+- 規則: rule_74_aedbebbdebdbeecfadffe_dll.yar
+  命令: yara64 "ALL yara rules\rule_74_aedbebbdebdbeecfadffe_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\KorPlug\a49133ed68bebb66412d3eb5d2b84ee71c393627906f574a29247d8699f1f38e.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\KorPlug\ff72ad387dfc07eaf411e6d343b74f87b14758c6bd433858cfde8b7bcb4f1ade.exe
+被以下規則掃描到:
+- 規則: rule_75_ffaddfceafedbfbcbdcfdebbcbfade_exe.yar
+  命令: yara64 "ALL yara rules\rule_75_ffaddfceafedbfbcbdcfdebbcbfade_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\KorPlug\ff72ad387dfc07eaf411e6d343b74f87b14758c6bd433858cfde8b7bcb4f1ade.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\LimeRAT\4b6226b41a638ea48776cb12ed1ae05b312c7a0d7d8546c13c80c4c2e039cc29.exe
+被以下規則掃描到:
+- 規則: rule_76_bbaeacbedaebcaddccccecc_exe.yar
+  命令: yara64 "ALL yara rules\rule_76_bbaeacbedaebcaddccccecc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\LimeRAT\4b6226b41a638ea48776cb12ed1ae05b312c7a0d7d8546c13c80c4c2e039cc29.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\LimeRAT\78aa904a6d06db0ae3190ffdecda755b20e7c4dff3c8dd2061a7d35e7171d5ca.exe
+被以下規則掃描到:
+- 規則: rule_77_aaaddbaeffdecdabecdffcddadedca_exe.yar
+  命令: yara64 "ALL yara rules\rule_77_aaaddbaeffdecdabecdffcddadedca_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\LimeRAT\78aa904a6d06db0ae3190ffdecda755b20e7c4dff3c8dd2061a7d35e7171d5ca.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\LimeRAT\7952bdc31aff90112f8b774602374bec264496134716b132cfbc832107fd15fe.exe
+被以下規則掃描到:
+- 規則: rule_78_bdcafffbbecbcfbcfdfe_exe.yar
+  命令: yara64 "ALL yara rules\rule_78_bdcafffbbecbcfbcfdfe_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\LimeRAT\7952bdc31aff90112f8b774602374bec264496134716b132cfbc832107fd15fe.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\LimeRAT\bfe0370dad2b63b1ac752bbc05d524435e1747224daa68a584cb899e46d863ed.exe
+被以下規則掃描到:
+- 規則: rule_79_bfedadbbacbbcdedaaacbeded_exe.yar
+  命令: yara64 "ALL yara rules\rule_79_bfedadbbacbbcdedaaacbeded_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\LimeRAT\bfe0370dad2b63b1ac752bbc05d524435e1747224daa68a584cb899e46d863ed.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\LimeRAT\f814ed84163562b37e125034de6ecf0f81b1d637579467358581e87ac40c5b4b.exe
+被以下規則掃描到:
+- 規則: rule_80_fedbedeecffbdeaccbb_exe.yar
+  命令: yara64 "ALL yara rules\rule_80_fedbedeecffbdeaccbb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\LimeRAT\f814ed84163562b37e125034de6ecf0f81b1d637579467358581e87ac40c5b4b.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\LimeRAT\f87678ca15f8ba7e74de529502715094f818e4e2e03f99179d7e67b0c6ee6651.exe
+被以下規則掃描到:
+- 規則: rule_81_fcafbaedefeeefdebcee_exe.yar
+  命令: yara64 "ALL yara rules\rule_81_fcafbaedefeeefdebcee_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\LimeRAT\f87678ca15f8ba7e74de529502715094f818e4e2e03f99179d7e67b0c6ee6651.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\MassLoggerRAT\c5e4e3626c2df21cb71de5713203c3155481ac3a4e33642466b5c7fc8176bab2.exe
+被以下規則掃描到:
+- 規則: rule_82_ceecdfcbdecacaebcfcbab_exe.yar
+  命令: yara64 "ALL yara rules\rule_82_ceecdfcbdecacaebcfcbab_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\MassLoggerRAT\c5e4e3626c2df21cb71de5713203c3155481ac3a4e33642466b5c7fc8176bab2.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\MassLoggerRAT\f4c976f3587362c6138a4dd309aabf2ec5c31f0ebe98b4618a2f52f145ce4a77.exe
+被以下規則掃描到:
+- 規則: rule_83_fcfcaddaabfeccfebebaffcea_exe.yar
+  命令: yara64 "ALL yara rules\rule_83_fcfcaddaabfeccfebebaffcea_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\MassLoggerRAT\f4c976f3587362c6138a4dd309aabf2ec5c31f0ebe98b4618a2f52f145ce4a77.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\NanoCoreRAT\41e2acc866e32ad6a24232bf8d4f2737c592a5c8840c797a496b13b2e0b3744e.exe
+被以下規則掃描到:
+- 規則: rule_84_eacceadabfdfcaccabbebe_exe.yar
+  命令: yara64 "ALL yara rules\rule_84_eacceadabfdfcaccabbebe_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\NanoCoreRAT\41e2acc866e32ad6a24232bf8d4f2737c592a5c8840c797a496b13b2e0b3744e.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\NanoCoreRAT\5295f63f8452d5ac0fc3577cb720949db21efe807059e0a74cadd4d9bbbc941f.exe
+被以下規則掃描到:
+- 規則: rule_85_ffdacfccbdbefeeacadddbbbcf_exe.yar
+  命令: yara64 "ALL yara rules\rule_85_ffdacfccbdbefeeacadddbbbcf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\NanoCoreRAT\5295f63f8452d5ac0fc3577cb720949db21efe807059e0a74cadd4d9bbbc941f.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\NanoCoreRAT\611c893208d8bf06031da708a44ec749b89b069ad1e84c14625b02bccb4998a0.exe
+被以下規則掃描到:
+- 規則: rule_86_cdbfdaaecbbadecbbccba_exe.yar
+  命令: yara64 "ALL yara rules\rule_86_cdbfdaaecbbadecbbccba_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\NanoCoreRAT\611c893208d8bf06031da708a44ec749b89b069ad1e84c14625b02bccb4998a0.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\NanoCoreRAT\7534a4ffb8ef83103485bcce9d51b2af93730a9d578e2b8b5f7ff473c0f8092d.exe
+被以下規則掃描到:
+- 規則: rule_87_affbefbccedbafadebbfffcfd_exe.yar
+  命令: yara64 "ALL yara rules\rule_87_affbefbccedbafadebbfffcfd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\NanoCoreRAT\7534a4ffb8ef83103485bcce9d51b2af93730a9d578e2b8b5f7ff473c0f8092d.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\NanoCoreRAT\9f76f4b990ce938d48b11501ad00d99795b172b44b1f94ea7ca3a26ceb64c1d5.exe
+被以下規則掃描到:
+- 規則: rule_88_ffbcedbaddbbbfeacaacebcd_exe.yar
+  命令: yara64 "ALL yara rules\rule_88_ffbcedbaddbbbfeacaacebcd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\NanoCoreRAT\9f76f4b990ce938d48b11501ad00d99795b172b44b1f94ea7ca3a26ceb64c1d5.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\NanoCoreRAT\babf0fe64b0415f9eaabfa1aa91f1fbed20bc21ba93f3514f18fdc298d6cb54f.exe
+被以下規則掃描到:
+- 規則: rule_89_babffebfeaabfaaaffbedbcbafffdcdcbf_exe.yar
+  命令: yara64 "ALL yara rules\rule_89_babffebfeaabfaaaffbedbcbafffdcdcbf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\NanoCoreRAT\babf0fe64b0415f9eaabfa1aa91f1fbed20bc21ba93f3514f18fdc298d6cb54f.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\NanoCoreRAT\dc28343bbcca872eb265b9b1dc2a5b4b1f9814b09eb4d5214805426165aa6287.exe
+被以下規則掃描到:
+- 規則: rule_90_dcbbccaebbbdcabbfbebdaa_exe.yar
+  命令: yara64 "ALL yara rules\rule_90_dcbbccaebbbdcabbfbebdaa_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\NanoCoreRAT\dc28343bbcca872eb265b9b1dc2a5b4b1f9814b09eb4d5214805426165aa6287.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\NanoCoreRAT\fc7a4ad26af13010c1384a649199dd88c1350f062e127d939805ef2bfa8b2eb5.exe
+被以下規則掃描到:
+- 規則: rule_91_fcaadafcaddcfedefbfabeb_exe.yar
+  命令: yara64 "ALL yara rules\rule_91_fcaadafcaddcfedefbfabeb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\NanoCoreRAT\fc7a4ad26af13010c1384a649199dd88c1350f062e127d939805ef2bfa8b2eb5.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\NetWireRAT\5b4962b939b67929dcb5b0c5a90b75e617f9af630271d710a21ccbe0d7738e05.exe
+被以下規則掃描到:
+- 規則: rule_92_bbbdcbbcabefafdaccbede_exe.yar
+  命令: yara64 "ALL yara rules\rule_92_bbbdcbbcabefafdaccbede_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\NetWireRAT\5b4962b939b67929dcb5b0c5a90b75e617f9af630271d710a21ccbe0d7738e05.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\NetWireRAT\7e12867c3e8353fc4175b559bbf654ccce1b253204fd7c5c0e2a72b56026ca32.exe
+被以下規則掃描到:
+- 規則: rule_93_ecefcbbbfcccebfdcceabca_exe.yar
+  命令: yara64 "ALL yara rules\rule_93_ecefcbbbfcccebfdcceabca_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\NetWireRAT\7e12867c3e8353fc4175b559bbf654ccce1b253204fd7c5c0e2a72b56026ca32.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\NetWireRAT\9add495b9373ca17ea4f158da84a200f3d5a52ce81bc535a575a5eac31bd76bb.exe
+被以下規則掃描到:
+- 規則: rule_94_addbcaeafdaafdacebcaaeacbdbb_exe.yar
+  命令: yara64 "ALL yara rules\rule_94_addbcaeafdaafdacebcaaeacbdbb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\NetWireRAT\9add495b9373ca17ea4f158da84a200f3d5a52ce81bc535a575a5eac31bd76bb.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\NetWireRAT\ee70cb2fc82abe10d225555baf80864b1c8f779fce79dcb2b76943d145a8130e.exe
+被以下規則掃描到:
+- 規則: rule_95_eecbfcabedbafbcffcedcbbdae_exe.yar
+  命令: yara64 "ALL yara rules\rule_95_eecbfcabedbafbcffcedcbbdae_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\NetWireRAT\ee70cb2fc82abe10d225555baf80864b1c8f779fce79dcb2b76943d145a8130e.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\NjRAT\20b9ec5a56219d5254b07c32c45c34eac8017ed9cb8335eb2c6f5312b9ea44ff.exe
+被以下規則掃描到:
+- 規則: rule_96_becadbccceacedcbebcfbeaff_exe.yar
+  命令: yara64 "ALL yara rules\rule_96_becadbccceacedcbebcfbeaff_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\NjRAT\20b9ec5a56219d5254b07c32c45c34eac8017ed9cb8335eb2c6f5312b9ea44ff.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\NjRAT\64762e87fc9c42a35758e080c9cfcad78143c9f19f4952239c068cfaf861016d.exe
+被以下規則掃描到:
+- 規則: rule_97_efccaeccfcadcffccfafd_exe.yar
+  命令: yara64 "ALL yara rules\rule_97_efccaeccfcadcffccfafd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\NjRAT\64762e87fc9c42a35758e080c9cfcad78143c9f19f4952239c068cfaf861016d.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\NjRAT\908a77e82b013f4545b6ff1f9c6d0c44930b8fde655d8a8d427797db463d9db7.exe
+被以下規則掃描到:
+- 規則: rule_98_aebfbfffcdcbfdedaddbddb_exe.yar
+  命令: yara64 "ALL yara rules\rule_98_aebfbfffcdcbfdedaddbddb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\NjRAT\908a77e82b013f4545b6ff1f9c6d0c44930b8fde655d8a8d427797db463d9db7.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\NjRAT\b146930d2db2385c7fd608126d12ef01b8e57989e37e7456b190d69bf8323b5e.exe
+被以下規則掃描到:
+- 規則: rule_99_bddbcfddefbeeebdbfbe_exe.yar
+  命令: yara64 "ALL yara rules\rule_99_bddbcfddefbeeebdbfbe_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\NjRAT\b146930d2db2385c7fd608126d12ef01b8e57989e37e7456b190d69bf8323b5e.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\NjRAT\c83105fad381e9a79fdd2aa33cbe742a8b5438341071edc68bcf5ddfe615c086.exe
+被以下規則掃描到:
+- 規則: rule_100_cfadeafddaacbeabedcbcfddfec_exe.yar
+  命令: yara64 "ALL yara rules\rule_100_cfadeafddaacbeabedcbcfddfec_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\NjRAT\c83105fad381e9a79fdd2aa33cbe742a8b5438341071edc68bcf5ddfe615c086.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\OrcusRAT\4e963b9768467dcf18787fe4b197a1b9efe76a2108cdf0f73c6f81407c6dca95.exe
+被以下規則掃描到:
+- 規則: rule_102_ebdcffebabefeacdffcfcdca_exe.yar
+  命令: yara64 "ALL yara rules\rule_102_ebdcffebabefeacdffcfcdca_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\OrcusRAT\4e963b9768467dcf18787fe4b197a1b9efe76a2108cdf0f73c6f81407c6dca95.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\OrcusRAT\5df2b43ac1ee6d8dbcb39ac6cca9a1306369b4db509b2b7a912d3fa44b32021f.exe
+被以下規則掃描到:
+- 規則: rule_103_dfbaceeddbcbacccaabdbbbadfabf_exe.yar
+  命令: yara64 "ALL yara rules\rule_103_dfbaceeddbcbacccaabdbbbadfabf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\OrcusRAT\5df2b43ac1ee6d8dbcb39ac6cca9a1306369b4db509b2b7a912d3fa44b32021f.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\OrcusRAT\dbcd18a62465dfb5c1dc720860fc419a719abd1bdddc554299c6a0bbd4e0c97a.exe
+被以下規則掃描到:
+- 規則: rule_104_dbcdadfbcdcfcaabdbdddccabbdeca_exe.yar
+  命令: yara64 "ALL yara rules\rule_104_dbcdadfbcdcfcaabdbdddccabbdeca_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\OrcusRAT\dbcd18a62465dfb5c1dc720860fc419a719abd1bdddc554299c6a0bbd4e0c97a.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\OzoneRAT\2fd4e8077355537ab184f5e9f8969620224cf8df85aa14119d7f7f97d5f95ccf.exe
+被以下規則掃描到:
+- 規則: rule_105_fdeabfefcfdfaadffdfccf_exe.yar
+  命令: yara64 "ALL yara rules\rule_105_fdeabfefcfdfaadffdfccf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\OzoneRAT\2fd4e8077355537ab184f5e9f8969620224cf8df85aa14119d7f7f97d5f95ccf.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\OzoneRAT\defe5a24ac909cc14b06b49ea8574ee1bc964569bf1d18d56d3dd4398daffcde.exe
+被以下規則掃描到:
+- 規則: rule_106_defeaacccbbeaeebcbfddddddaffcde_exe.yar
+  命令: yara64 "ALL yara rules\rule_106_defeaacccbbeaeebcbfddddddaffcde_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\OzoneRAT\defe5a24ac909cc14b06b49ea8574ee1bc964569bf1d18d56d3dd4398daffcde.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\OzoneRAT\f1a58944929b74a4b66d98c5ffb19a830cea082c7a3058bb2e8e8adeac2c83e9.exe
+被以下規則掃描到:
+- 規則: rule_107_fababdcffbaceacabbeeadeacce_exe.yar
+  命令: yara64 "ALL yara rules\rule_107_fababdcffbaceacabbeeadeacce_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\OzoneRAT\f1a58944929b74a4b66d98c5ffb19a830cea082c7a3058bb2e8e8adeac2c83e9.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ParallaxRAT\002b81b464fe41cfe17a2a59fdcea647ea5af9e8bfcbfc78ae4fc4c076765629.exe
+被以下規則掃描到:
+- 規則: rule_108_bbfecfeaafdceaeaafebfcbfcaefcc_exe.yar
+  命令: yara64 "ALL yara rules\rule_108_bbfecfeaafdceaeaafebfcbfcaefcc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ParallaxRAT\002b81b464fe41cfe17a2a59fdcea647ea5af9e8bfcbfc78ae4fc4c076765629.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ParallaxRAT\03097e2591496756b735b464c936a05829b9d4b4e484829cae974beed56c6257.exe
+被以下規則掃描到:
+- 規則: rule_109_ebbcabdbecaebeedc_exe.yar
+  命令: yara64 "ALL yara rules\rule_109_ebbcabdbecaebeedc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ParallaxRAT\03097e2591496756b735b464c936a05829b9d4b4e484829cae974beed56c6257.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ParallaxRAT\3b8f68530c2409bd7ada35c501a9dc23e718d7c4d6c361d21aec652d38e84bd4.exe
+被以下規則掃描到:
+- 規則: rule_110_bfcbdadacadcedcdcdaecdebd_exe.yar
+  命令: yara64 "ALL yara rules\rule_110_bfcbdadacadcedcdcdaecdebd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ParallaxRAT\3b8f68530c2409bd7ada35c501a9dc23e718d7c4d6c361d21aec652d38e84bd4.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ParallaxRAT\4da8564def807d49cf9d45fcad3e9201344732a49aea4261ab05b8b43cb3adae.exe
+被以下規則掃描到:
+- 規則: rule_112_dadefdcfdfcadeaaeaabbbcbadae_exe.yar
+  命令: yara64 "ALL yara rules\rule_112_dadefdcfdfcadeaaeaabbbcbadae_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ParallaxRAT\4da8564def807d49cf9d45fcad3e9201344732a49aea4261ab05b8b43cb3adae.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ParallaxRAT\6d3faa29c6dda35a4df9826de7c7fffe9c76be2ed37856442c01eb4a6a8ffae2.exe
+被以下規則掃描到:
+- 規則: rule_113_dfaacddaadfdecfffecbeedcebaaffae_exe.yar
+  命令: yara64 "ALL yara rules\rule_113_dfaacddaadfdecfffecbeedcebaaffae_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ParallaxRAT\6d3faa29c6dda35a4df9826de7c7fffe9c76be2ed37856442c01eb4a6a8ffae2.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ParallaxRAT\821f5310b1730641b6578ac9ce0173802db407192afdb30039f941df1ff8f1c2.exe
+被以下規則掃描到:
+- 規則: rule_114_fbbaccedbafdbfdffffc_exe.yar
+  命令: yara64 "ALL yara rules\rule_114_fbbaccedbafdbfdffffc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ParallaxRAT\821f5310b1730641b6578ac9ce0173802db407192afdb30039f941df1ff8f1c2.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ParallaxRAT\83ce49568eda2b4a7f66888463e3bbc0f6dcc1123718fb5f1a9be8e13a3c11ce.exe
+被以下規則掃描到:
+- 規則: rule_115_ceedabafebbcfdccfbfabeeacce_exe.yar
+  命令: yara64 "ALL yara rules\rule_115_ceedabafebbcfdccfbfabeeacce_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ParallaxRAT\83ce49568eda2b4a7f66888463e3bbc0f6dcc1123718fb5f1a9be8e13a3c11ce.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ParallaxRAT\a0ed7d0e67e9e7ccddf7e41cd11a81effd829ff27421471d7d303ac0776d6571.exe
+被以下規則掃描到:
+- 規則: rule_116_aeddeeeccddfecdaeffdffddacd_exe.yar
+  命令: yara64 "ALL yara rules\rule_116_aeddeeeccddfecdaeffdffddacd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ParallaxRAT\a0ed7d0e67e9e7ccddf7e41cd11a81effd829ff27421471d7d303ac0776d6571.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ParallaxRAT\b2f7094f521419809d946a68870b02bdd3a928c5a4d57ccdaea3b8f49bb96151.exe
+被以下規則掃描到:
+- 規則: rule_117_bffdabbddacadccdaeabfbb_exe.yar
+  命令: yara64 "ALL yara rules\rule_117_bffdabbddacadccdaeabfbb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ParallaxRAT\b2f7094f521419809d946a68870b02bdd3a928c5a4d57ccdaea3b8f49bb96151.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ParallaxRAT\ceb7af06283244c5fe9cba4e1c71013289d253229e15d68d6110fe9d19f3fa0d.exe
+被以下規則掃描到:
+- 規則: rule_118_cebafcfecbaecdeddfedffad_exe.yar
+  命令: yara64 "ALL yara rules\rule_118_cebafcfecbaecdeddfedffad_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ParallaxRAT\ceb7af06283244c5fe9cba4e1c71013289d253229e15d68d6110fe9d19f3fa0d.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ParallaxRAT\eb7eed8c7501eb5cc824c4ecfa140b577faff4af728ab272ecff573a2ca06d2c.exe
+被以下規則掃描到:
+- 規則: rule_119_ebeedcebcccecfabfaffafabecffacadc_exe.yar
+  命令: yara64 "ALL yara rules\rule_119_ebeedcebcccecfabfaffafabecffacadc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ParallaxRAT\eb7eed8c7501eb5cc824c4ecfa140b577faff4af728ab272ecff573a2ca06d2c.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ParallaxRAT\f9f9b147e1f262190e4409693cdc0e472b92ef6d47af97058f27e77a0b74a1a4.exe
+被以下規則掃描到:
+- 規則: rule_120_ffbefecdcebefdaffeabaa_exe.yar
+  命令: yara64 "ALL yara rules\rule_120_ffbefecdcebefdaffeabaa_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\ParallaxRAT\f9f9b147e1f262190e4409693cdc0e472b92ef6d47af97058f27e77a0b74a1a4.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\QuasarRAT\216f98bd682366b6cf41775b8e0659041b532b5a9c0e21e911b9db031aeb9735.exe
+被以下規則掃描到:
+- 規則: rule_121_fbdbcfbebbaceebdbaeb_exe.yar
+  命令: yara64 "ALL yara rules\rule_121_fbdbcfbebbaceebdbaeb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\QuasarRAT\216f98bd682366b6cf41775b8e0659041b532b5a9c0e21e911b9db031aeb9735.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\QuasarRAT\23ed6ef7aec39fbc37b613e5ad3611a84ba1facc92489ed818dcc72bee129022.exe
+被以下規則掃描到:
+- 規則: rule_122_edefaecfbcbeadabafacceddccbee_exe.yar
+  命令: yara64 "ALL yara rules\rule_122_edefaecfbcbeadabafacceddccbee_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\QuasarRAT\23ed6ef7aec39fbc37b613e5ad3611a84ba1facc92489ed818dcc72bee129022.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\QuasarRAT\707bb653348d222860771a6117aa869ab2a032f6cdfe0d29a251374462e59058.exe
+被以下規則掃描到:
+- 規則: rule_123_bbdaaaabafcdfedae_exe.yar
+  命令: yara64 "ALL yara rules\rule_123_bbdaaaabafcdfedae_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\QuasarRAT\707bb653348d222860771a6117aa869ab2a032f6cdfe0d29a251374462e59058.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\QuasarRAT\72059ace4818aab4e44f27c08b16914c773f9b91a5db14c889f6a8a893e016be.exe
+被以下規則掃描到:
+- 規則: rule_124_aceaabefcbcfbadbcfaaebe_exe.yar
+  命令: yara64 "ALL yara rules\rule_124_aceaabefcbcfbadbcfaaebe_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\QuasarRAT\72059ace4818aab4e44f27c08b16914c773f9b91a5db14c889f6a8a893e016be.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\QuasarRAT\b31fb3832c2f366796fcc9165c60c58da5c866973377ab0d43f71586c461b8fb.exe
+被以下規則掃描到:
+- 規則: rule_125_bfbcffccccdacabdfcbfb_exe.yar
+  命令: yara64 "ALL yara rules\rule_125_bfbcffccccdacabdfcbfb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\QuasarRAT\b31fb3832c2f366796fcc9165c60c58da5c866973377ab0d43f71586c461b8fb.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\QuasarRAT\c8f09665c4c94041dd63191d0ea1b0f5092dc636eea7191242a7d7da9d7fa8b6.exe
+被以下規則掃描到:
+- 規則: rule_126_cfccdddeabfdceeaaddadfab_exe.yar
+  命令: yara64 "ALL yara rules\rule_126_cfccdddeabfdceeaaddadfab_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\QuasarRAT\c8f09665c4c94041dd63191d0ea1b0f5092dc636eea7191242a7d7da9d7fa8b6.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\QuasarRAT\ec3f7b07d452f657ac2e6a88635ce5029b7aa1bdb8a0068450fd1d89de95535d.exe
+被以下規則掃描到:
+- 規則: rule_127_ecfbdfaceacebaabdbafddded_exe.yar
+  命令: yara64 "ALL yara rules\rule_127_ecfbdfaceacebaabdbafddded_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\QuasarRAT\ec3f7b07d452f657ac2e6a88635ce5029b7aa1bdb8a0068450fd1d89de95535d.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\QuasarRAT\f0e8b7f7e23ca59f8913b7507c420abe3f81bbfd48a0b78531ff28ecb78a916f.exe
+被以下規則掃描到:
+- 規則: rule_128_febfecafbcabefbbfdabffecbaf_exe.yar
+  命令: yara64 "ALL yara rules\rule_128_febfecafbcabefbbfdabffecbaf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\QuasarRAT\f0e8b7f7e23ca59f8913b7507c420abe3f81bbfd48a0b78531ff28ecb78a916f.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RemcosRAT\3af4627e60085aed7808f21a7d2b2f0e8388ca5f346060fed4393233f2af85c6.exe
+被以下規則掃描到:
+- 規則: rule_129_afeaedfadbfecaffedfafc_exe.yar
+  命令: yara64 "ALL yara rules\rule_129_afeaedfadbfecaffedfafc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RemcosRAT\3af4627e60085aed7808f21a7d2b2f0e8388ca5f346060fed4393233f2af85c6.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RemcosRAT\7a07823583910711c39c6fe187e7abb90f9bc3bc6807bfd62a99e37dbe43c070.exe
+被以下規則掃描到:
+- 規則: rule_130_accfeeabbfbcbcbfdaedbec_exe.yar
+  命令: yara64 "ALL yara rules\rule_130_accfeeabbfbcbcbfdaedbec_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RemcosRAT\7a07823583910711c39c6fe187e7abb90f9bc3bc6807bfd62a99e37dbe43c070.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RemcosRAT\83f54b46a10ce36ac80d885c29cbf1c88c65250163961193916123c282d36784.exe
+被以下規則掃描到:
+- 規則: rule_131_fbaceacdccbfcccd_exe.yar
+  命令: yara64 "ALL yara rules\rule_131_fbaceacdccbfcccd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RemcosRAT\83f54b46a10ce36ac80d885c29cbf1c88c65250163961193916123c282d36784.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RemcosRAT\8a76f76aa6af2cb9a5a30d6bf09722e2fcdb1555c253a15f798529f5ccb5de1d.exe
+被以下規則掃描到:
+- 規則: rule_132_afaaafcbaadbfefcdbcaffccbded_exe.yar
+  命令: yara64 "ALL yara rules\rule_132_afaaafcbaadbfefcdbcaffccbded_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RemcosRAT\8a76f76aa6af2cb9a5a30d6bf09722e2fcdb1555c253a15f798529f5ccb5de1d.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RemcosRAT\8ce18c13ef4b598bba697a559c451fdfd1708e2039ec0e7c3303033b2c787fb6.exe
+被以下規則掃描到:
+- 規則: rule_133_cecefbbbaacfdfdeececbcfb_exe.yar
+  命令: yara64 "ALL yara rules\rule_133_cecefbbbaacfdfdeececbcfb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RemcosRAT\8ce18c13ef4b598bba697a559c451fdfd1708e2039ec0e7c3303033b2c787fb6.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RemcosRAT\965d84cabf414da83736bbcd3e2286a0dc907325ebe17bb0d4da2659edd02052.exe
+被以下規則掃描到:
+- 規則: rule_134_dcabfdabbcdeadcebebbddaedd_exe.yar
+  命令: yara64 "ALL yara rules\rule_134_dcabfdabbcdeadcebebbddaedd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RemcosRAT\965d84cabf414da83736bbcd3e2286a0dc907325ebe17bb0d4da2659edd02052.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RemcosRAT\98d8bbdf43367821e74fd0c26f5bdda07fe9a750476cce1bb0df88c5aa18b745.exe
+被以下規則掃描到:
+- 規則: rule_135_dbbdfefdcfbddafeaccebbdfcaab_exe.yar
+  命令: yara64 "ALL yara rules\rule_135_dbbdfefdcfbddafeaccebbdfcaab_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RemcosRAT\98d8bbdf43367821e74fd0c26f5bdda07fe9a750476cce1bb0df88c5aa18b745.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RemcosRAT\ba07e07a2c279246901b613a26ed95dc37bce9e0aa1ba17d5e812a8e84bda164.exe
+被以下規則掃描到:
+- 規則: rule_136_baeacbaeddcbceeaabadeaebda_exe.yar
+  命令: yara64 "ALL yara rules\rule_136_baeacbaeddcbceeaabadeaebda_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RemcosRAT\ba07e07a2c279246901b613a26ed95dc37bce9e0aa1ba17d5e812a8e84bda164.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RemcosRAT\be83ef519ed5e3e444b10b4dd8a77515cda4993c6ce69f565405c9c2bd0901bc.exe
+被以下規則掃描到:
+- 規則: rule_137_beefedeebbddacdaccefccbdbc_exe.yar
+  命令: yara64 "ALL yara rules\rule_137_beefedeebbddacdaccefccbdbc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RemcosRAT\be83ef519ed5e3e444b10b4dd8a77515cda4993c6ce69f565405c9c2bd0901bc.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RemcosRAT\bf618789e2d59d7bb417670150e59434cbf04c0300847740718f03f89591af58.exe
+被以下規則掃描到:
+- 規則: rule_138_bfeddbbecbfcffaf_exe.yar
+  命令: yara64 "ALL yara rules\rule_138_bfeddbbecbfcffaf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RemcosRAT\bf618789e2d59d7bb417670150e59434cbf04c0300847740718f03f89591af58.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RemcosRAT\d4acc0dd3b974dde3fce2ec192c8013e8ec975a71cd6ea9d805cc1992a5930ec.exe
+被以下規則掃描到:
+- 規則: rule_139_daccddbddefceecceecacdeadccaec_exe.yar
+  命令: yara64 "ALL yara rules\rule_139_daccddbddefceecceecacdeadccaec_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RemcosRAT\d4acc0dd3b974dde3fce2ec192c8013e8ec975a71cd6ea9d805cc1992a5930ec.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RemcosRAT\ecb91c22cca673fa08164d701549383c056b438d65e1f036d4fc98cd53abeb0b.exe
+被以下規則掃描到:
+- 規則: rule_140_ecbcccafadcbdefdfccdabebb_exe.yar
+  命令: yara64 "ALL yara rules\rule_140_ecbcccafadcbdefdfccdabebb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RemcosRAT\ecb91c22cca673fa08164d701549383c056b438d65e1f036d4fc98cd53abeb0b.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RemcosRAT\f55cfbe0aee44bd68443ae34409da2a4932bf290e0e8b4d8af75f7989fcb33b3.exe
+被以下規則掃描到:
+- 規則: rule_141_fcfbeaeebdaedaabfeebdafffcbb_exe.yar
+  命令: yara64 "ALL yara rules\rule_141_fcfbeaeebdaedaabfeebdafffcbb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RemcosRAT\f55cfbe0aee44bd68443ae34409da2a4932bf290e0e8b4d8af75f7989fcb33b3.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RevCodeRAT\25321bc3e274b62ff03c184cd1a058645d41f842ce0b368019912ada6b3f34df.exe
+被以下規則掃描到:
+- 規則: rule_143_bcebffccdadfcebadabfdf_exe.yar
+  命令: yara64 "ALL yara rules\rule_143_bcebffccdadfcebadabfdf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RevCodeRAT\25321bc3e274b62ff03c184cd1a058645d41f842ce0b368019912ada6b3f34df.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RevCodeRAT\42bce47fdbd23c02eebf406de09e04f029347d4b8c05a7d728e8b8149533fb4b.exe
+被以下規則掃描到:
+- 規則: rule_144_bcefdbdceebfdeefdbcadebfbb_exe.yar
+  命令: yara64 "ALL yara rules\rule_144_bcefdbdceebfdeefdbcadebfbb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RevCodeRAT\42bce47fdbd23c02eebf406de09e04f029347d4b8c05a7d728e8b8149533fb4b.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RevCodeRAT\cbaceedb3347abf0710f8da0875d574beb7c820f27ed85fd30e5046b5f341472.exe
+被以下規則掃描到:
+- 規則: rule_145_cbaceedbabffdadbebcfedfdebf_exe.yar
+  命令: yara64 "ALL yara rules\rule_145_cbaceedbabffdadbebcfedfdebf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RevCodeRAT\cbaceedb3347abf0710f8da0875d574beb7c820f27ed85fd30e5046b5f341472.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RevCodeRAT\e2f7e2ca58c527be8332bcea02a3e593eda09429bb30ce5ced6ef26724388f01.exe
+被以下規則掃描到:
+- 規則: rule_146_efecacbebceaaeedabbcecedeff_exe.yar
+  命令: yara64 "ALL yara rules\rule_146_efecacbebceaaeedabbcecedeff_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RevCodeRAT\e2f7e2ca58c527be8332bcea02a3e593eda09429bb30ce5ced6ef26724388f01.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RevengeRAT\44296790d08517f51ccb621684b8783a150ba35cfe43431919c440ceed689963.exe
+被以下規則掃描到:
+- 規則: rule_147_dfccbbabacfecceed_exe.yar
+  命令: yara64 "ALL yara rules\rule_147_dfccbbabacfecceed_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RevengeRAT\44296790d08517f51ccb621684b8783a150ba35cfe43431919c440ceed689963.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RevengeRAT\64b96122bcbee72263892d261846aec8a02430921856e976e7aaa6faa59cebc0.exe
+被以下規則掃描到:
+- 規則: rule_148_bbcbeedaecaeeaaafaacebc_exe.yar
+  命令: yara64 "ALL yara rules\rule_148_bbcbeedaecaeeaaafaacebc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RevengeRAT\64b96122bcbee72263892d261846aec8a02430921856e976e7aaa6faa59cebc0.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RevengeRAT\cac726f6b0bcb60af61033a9a59ae886ee7466f65e20185cd44be43c80386e7d.exe
+被以下規則掃描到:
+- 規則: rule_149_cacfbbcbafaaaeeefecdbeced_exe.yar
+  命令: yara64 "ALL yara rules\rule_149_cacfbbcbafaaaeeefecdbeced_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RevengeRAT\cac726f6b0bcb60af61033a9a59ae886ee7466f65e20185cd44be43c80386e7d.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RokRAT\99c1b4887d96cb94f32b280c1039b3a7e39ad996859ffa6dd011cf3cca4f1ba5.exe
+被以下規則掃描到:
+- 規則: rule_151_cbdcbfbcbaeadffaddcfccafba_exe.yar
+  命令: yara64 "ALL yara rules\rule_151_cbdcbfbcbaeadffaddcfccafba_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RokRAT\99c1b4887d96cb94f32b280c1039b3a7e39ad996859ffa6dd011cf3cca4f1ba5.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RokRAT\9b383ebc1c592d5556fec9d513223d4f99a5061591671db560faf742dd68493f.exe
+被以下規則掃描到:
+- 規則: rule_152_bebccdfecddfadbfafddf_exe.yar
+  命令: yara64 "ALL yara rules\rule_152_bebccdfecddfadbfafddf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RokRAT\9b383ebc1c592d5556fec9d513223d4f99a5061591671db560faf742dd68493f.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RokRAT\a29b07a6fe5d7ce3147dd7ef1d7d18df16e347f37282c43139d53cce25ae7037.exe
+被以下規則掃描到:
+- 規則: rule_153_abafedceddefdddfefcdcceae_exe.yar
+  命令: yara64 "ALL yara rules\rule_153_abafedceddefdddfefcdcceae_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RokRAT\a29b07a6fe5d7ce3147dd7ef1d7d18df16e347f37282c43139d53cce25ae7037.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RokRAT\b3de3f9309b2f320738772353eb724a0782a1fc2c912483c036c303389307e2e.exe
+被以下規則掃描到:
+- 規則: rule_154_bdefbfebaafccccee_exe.yar
+  命令: yara64 "ALL yara rules\rule_154_bdefbfebaafccccee_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RokRAT\b3de3f9309b2f320738772353eb724a0782a1fc2c912483c036c303389307e2e.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RokRAT\eb6d25e08b2b32a736b57f8df22db6d03dc82f16da554f4e8bb67120eacb1d14.exe
+被以下規則掃描到:
+- 規則: rule_155_ebdebbabfdfdbddcfdafebbeacbd_exe.yar
+  命令: yara64 "ALL yara rules\rule_155_ebdebbabfdfdbddcfdafebbeacbd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RokRAT\eb6d25e08b2b32a736b57f8df22db6d03dc82f16da554f4e8bb67120eacb1d14.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RunningRAT\435a836a250603d3014f794b7123a5ed21d5481a4a86c10d669e8b1f71e9f113.exe
+被以下規則掃描到:
+- 規則: rule_156_aadfbaeddaacdebfef_exe.yar
+  命令: yara64 "ALL yara rules\rule_156_aadfbaeddaacdebfef_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RunningRAT\435a836a250603d3014f794b7123a5ed21d5481a4a86c10d669e8b1f71e9f113.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RunningRAT\9b1367b0da26125af6946a108e9e657c373ad4e25be8e9a9eaa3a29adf6c95d9.exe
+被以下規則掃描到:
+- 規則: rule_157_bbdaafaeecadebeeaeaaaadfcd_exe.yar
+  命令: yara64 "ALL yara rules\rule_157_bbdaafaeecadebeeaeaaaadfcd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RunningRAT\9b1367b0da26125af6946a108e9e657c373ad4e25be8e9a9eaa3a29adf6c95d9.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RunningRAT\ef03a58568ec094636fe33261e1fafbb6aa77125be68c3615da4823abba198d8.exe
+被以下規則掃描到:
+- 規則: rule_158_efaecfeefafbbaabecdaabbad_exe.yar
+  命令: yara64 "ALL yara rules\rule_158_efaecfeefafbbaabecdaabbad_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\RunningRAT\ef03a58568ec094636fe33261e1fafbb6aa77125be68c3615da4823abba198d8.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\SakulaRAT\30ced2a8276b3bc0e75491f928b766e7bbb065b7e2a6639d4098c99328b170a6.exe
+被以下規則掃描到:
+- 規則: rule_159_cedabbcefbebbbbeadcba_exe.yar
+  命令: yara64 "ALL yara rules\rule_159_cedabbcefbebbbbeadcba_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\SakulaRAT\30ced2a8276b3bc0e75491f928b766e7bbb065b7e2a6639d4098c99328b170a6.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\SakulaRAT\34210eafb10d0d1d8fe62a2b1ef5568dc05f6dba4ae557ef3cfdd01e5eb8c6b3.exe
+被以下規則掃描到:
+- 規則: rule_160_eafbdddfeabefdcfdbaaeefcfddeebcb_exe.yar
+  命令: yara64 "ALL yara rules\rule_160_eafbdddfeabefdcfdbaaeefcfddeebcb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\SakulaRAT\34210eafb10d0d1d8fe62a2b1ef5568dc05f6dba4ae557ef3cfdd01e5eb8c6b3.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\SakulaRAT\d8f141360ec8292ecd0df235fdd6907219aa596e63242a07122456980e0cb01f.exe
+被以下規則掃描到:
+- 規則: rule_161_dfececddffddaaeaecbf_exe.yar
+  命令: yara64 "ALL yara rules\rule_161_dfececddffddaaeaecbf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\SakulaRAT\d8f141360ec8292ecd0df235fdd6907219aa596e63242a07122456980e0cb01f.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Sality\11df6b403ee5a2e308eff2382fe7ec896a087d14bbee47ed8a02c0a4d940bccf.exe
+被以下規則掃描到:
+- 規則: rule_162_dfbeeaeefffeecadbbeeedacadbccf_exe.yar
+  命令: yara64 "ALL yara rules\rule_162_dfbeeaeefffeecadbbeeedacadbccf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Sality\11df6b403ee5a2e308eff2382fe7ec896a087d14bbee47ed8a02c0a4d940bccf.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Sality\2f06361e4a81ff059d074de638106e1b9aeba6885819b15391ef25997f537bf1.exe
+被以下規則掃描到:
+- 規則: rule_163_feaffddeebaebabeffbf_exe.yar
+  命令: yara64 "ALL yara rules\rule_163_feaffddeebaebabeffbf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Sality\2f06361e4a81ff059d074de638106e1b9aeba6885819b15391ef25997f537bf1.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Sality\8ef9996674f3da03c06cf82c719b86a68b4025bbcb358a4c040b5e65a47c78d0.exe
+被以下規則掃描到:
+- 規則: rule_164_effdaccfcbabbbcbacbeacd_exe.yar
+  命令: yara64 "ALL yara rules\rule_164_effdaccfcbabbbcbacbeacd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Sality\8ef9996674f3da03c06cf82c719b86a68b4025bbcb358a4c040b5e65a47c78d0.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Sality\c67d559821f7c3cca0adf73727e00cf193c8c9ed7c82876235335afb4768656f.dll
+被以下規則掃描到:
+- 規則: rule_165_cdfcccaadfecfccedcafbf_dll.yar
+  命令: yara64 "ALL yara rules\rule_165_cdfcccaadfecfccedcafbf_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Sality\c67d559821f7c3cca0adf73727e00cf193c8c9ed7c82876235335afb4768656f.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Sality\ce50540f9019ead33e6ff235baf3953ff58b8783c69fc8e45c1e95c1aa5d3685.exe
+被以下規則掃描到:
+- 規則: rule_166_cefeadeffbafffbcfcececaad_exe.yar
+  命令: yara64 "ALL yara rules\rule_166_cefeadeffbafffbcfcececaad_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Sality\ce50540f9019ead33e6ff235baf3953ff58b8783c69fc8e45c1e95c1aa5d3685.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\SectopRAT\1ae3d6c2d476f44e6d2f6aca3c90684ac6debd7113863612abfc4220693b1d5a.exe
+被以下規則掃描到:
+- 規則: rule_167_aedcdfedfacacacdebdabfcbda_exe.yar
+  命令: yara64 "ALL yara rules\rule_167_aedcdfedfacacacdebdabfcbda_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\SectopRAT\1ae3d6c2d476f44e6d2f6aca3c90684ac6debd7113863612abfc4220693b1d5a.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\SectopRAT\4409d2170aa9989c6a8dd32b617c51a7c3e328b3c86410813c016691b2bd7774.exe
+被以下規則掃描到:
+- 規則: rule_168_daacaddbcacebccbbd_exe.yar
+  命令: yara64 "ALL yara rules\rule_168_daacaddbcacebccbbd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\SectopRAT\4409d2170aa9989c6a8dd32b617c51a7c3e328b3c86410813c016691b2bd7774.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\SectopRAT\ae98f2063823340917b2d28987b221b83e7b16d2e9c86c35bdff71e84eca5e93.exe
+被以下規則掃描到:
+- 規則: rule_169_aefbdbbebdeccbdffeecae_exe.yar
+  命令: yara64 "ALL yara rules\rule_169_aefbdbbebdeccbdffeecae_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\SectopRAT\ae98f2063823340917b2d28987b221b83e7b16d2e9c86c35bdff71e84eca5e93.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\SectopRAT\d643c966d86b0477c6832cc47844d5f0ca5748fb5254f276409352d26c474735.exe
+被以下規則掃描到:
+- 規則: rule_170_dcdbcccdfcafbfdc_exe.yar
+  命令: yara64 "ALL yara rules\rule_170_dcdbcccdfcafbfdc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\SectopRAT\d643c966d86b0477c6832cc47844d5f0ca5748fb5254f276409352d26c474735.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\SpectreRAT\530e60117af681ba636ba03254c06041e865afa3f9cf1596ced6d59d58bdb1b8.exe
+被以下規則掃描到:
+- 規則: rule_171_eafbabaceafafcfcedddbdbb_exe.yar
+  命令: yara64 "ALL yara rules\rule_171_eafbabaceafafcfcedddbdbb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\SpectreRAT\530e60117af681ba636ba03254c06041e865afa3f9cf1596ced6d59d58bdb1b8.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\SpectreRAT\584c144d09b76173e49dcdf517526d26ef26959e447734612343d03d25145f5e.exe
+被以下規則掃描到:
+- 規則: rule_172_cdbedcdfdefeddfe_exe.yar
+  命令: yara64 "ALL yara rules\rule_172_cdbedcdfdefeddfe_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\SpectreRAT\584c144d09b76173e49dcdf517526d26ef26959e447734612343d03d25145f5e.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\SpectreRAT\8737889b676e5b9fc9511cb9f2bb692032e944739d8d77e4cece07395014f16c.exe
+被以下規則掃描到:
+- 規則: rule_173_bebfccbfbbeddececefc_exe.yar
+  命令: yara64 "ALL yara rules\rule_173_bebfccbfbbeddececefc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\SpectreRAT\8737889b676e5b9fc9511cb9f2bb692032e944739d8d77e4cece07395014f16c.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\SpectreRAT\beb9059e40b486f2ef402a33437703b3ed820748bc2e7ad9638734b75d8f30fc.exe
+被以下規則掃描到:
+- 規則: rule_174_bebebfefabedbceadbdffc_exe.yar
+  命令: yara64 "ALL yara rules\rule_174_bebebfefabedbceadbdffc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\SpectreRAT\beb9059e40b486f2ef402a33437703b3ed820748bc2e7ad9638734b75d8f30fc.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Tofsee\1a233cd70753a0c450148f0df3dc5881ef7b5bc7449a2da7da4bffa7f3d959b4.exe
+被以下規則掃描到:
+- 規則: rule_175_acdacfdfdcefbbcadadabffafdb_exe.yar
+  命令: yara64 "ALL yara rules\rule_175_acdacfdfdcefbbcadadabffafdb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Tofsee\1a233cd70753a0c450148f0df3dc5881ef7b5bc7449a2da7da4bffa7f3d959b4.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Tofsee\37b4ecc82510180fafd3190e86be4d714caa2522f3475fd8e8debbacb6fc3e38.exe
+被以下規則掃描到:
+- 規則: rule_176_beccfafdebedcaaffdedebbacbfce_exe.yar
+  命令: yara64 "ALL yara rules\rule_176_beccfafdebedcaaffdedebbacbfce_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Tofsee\37b4ecc82510180fafd3190e86be4d714caa2522f3475fd8e8debbacb6fc3e38.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Tofsee\80595d56327a6ffb7dca8f6e07f3ba6889733165ab17ed3ea092f9a5d64e66a2.exe
+被以下規則掃描到:
+- 規則: rule_177_daffbdcafefbaabedeafadea_exe.yar
+  命令: yara64 "ALL yara rules\rule_177_daffbdcafefbaabedeafadea_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Tofsee\80595d56327a6ffb7dca8f6e07f3ba6889733165ab17ed3ea092f9a5d64e66a2.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Tofsee\c3885fb6e521c358f6058bf09ab7835fc7f0aa71502da2cc7e44701224bfec3a.exe
+被以下規則掃描到:
+- 規則: rule_178_cfbecfbfabfcfaadaccebfeca_exe.yar
+  命令: yara64 "ALL yara rules\rule_178_cfbecfbfabfcfaadaccebfeca_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Tofsee\c3885fb6e521c358f6058bf09ab7835fc7f0aa71502da2cc7e44701224bfec3a.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\TVRAT\1b9acf27fcb665eb4bff247f81cedbe36f34955b91a56bb6e96291f14012edbf.exe
+被以下規則掃描到:
+- 規則: rule_179_bacffcbebbfffcedbefbabbefedbf_exe.yar
+  命令: yara64 "ALL yara rules\rule_179_bacffcbebbfffcedbefbabbefedbf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\TVRAT\1b9acf27fcb665eb4bff247f81cedbe36f34955b91a56bb6e96291f14012edbf.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\TVRAT\55ded456339aef89e7d891f0c7f494c11d8983233106d64069bc767ab06ceb71.exe
+被以下規則掃描到:
+- 規則: rule_180_dedaefedfcfcddbcabceb_exe.yar
+  命令: yara64 "ALL yara rules\rule_180_dedaefedfcfcddbcabceb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\TVRAT\55ded456339aef89e7d891f0c7f494c11d8983233106d64069bc767ab06ceb71.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\TVRAT\6aad0a6b01ada93c5561a2d131eba960760dacbd8e998070adc9abbfafe7bace.exe
+被以下規則掃描到:
+- 規則: rule_181_aadabadacadebadacbdeadcabbfafebace_exe.yar
+  命令: yara64 "ALL yara rules\rule_181_aadabadacadebadacbdeadcabbfafebace_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\TVRAT\6aad0a6b01ada93c5561a2d131eba960760dacbd8e998070adc9abbfafe7bace.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\TVRAT\7a4c304b810703f0eb30ae166efb16ff9c1cfb0ebc9db5948e959614a3e49d5d.exe
+被以下規則掃描到:
+- 規則: rule_182_acbfebaeefbffccfbebcdbeaedd_exe.yar
+  命令: yara64 "ALL yara rules\rule_182_acbfebaeefbffccfbebcdbeaedd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\TVRAT\7a4c304b810703f0eb30ae166efb16ff9c1cfb0ebc9db5948e959614a3e49d5d.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\TVRAT\818879e025de0edf6dc27fc9df7b763bec9ebac29952e6dda015f05307349520.exe
+被以下規則掃描到:
+- 規則: rule_183_edeedfdcfcdfbbecebaceddaf_exe.yar
+  命令: yara64 "ALL yara rules\rule_183_edeedfdcfcdfbbecebaceddaf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\TVRAT\818879e025de0edf6dc27fc9df7b763bec9ebac29952e6dda015f05307349520.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\TVRAT\93877dcdb895b743ec00d142e9c5b3fc9918e8b25c49083046a3189d9768c7c2.exe
+被以下規則掃描到:
+- 規則: rule_184_dcdbbecdecbfcebcadcc_exe.yar
+  命令: yara64 "ALL yara rules\rule_184_dcdbbecdecbfcebcadcc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\TVRAT\93877dcdb895b743ec00d142e9c5b3fc9918e8b25c49083046a3189d9768c7c2.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\TVRAT\d73498e0aabb97375783af491aded66aa6710ba848247de3337f404fa02a35c0.exe
+被以下規則掃描到:
+- 規則: rule_185_deaabbafadedaabadeffaac_exe.yar
+  命令: yara64 "ALL yara rules\rule_185_deaabbafadedaabadeffaac_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\TVRAT\d73498e0aabb97375783af491aded66aa6710ba848247de3337f404fa02a35c0.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\VenomRAT\5b5e82e79c52452b2d03a4fa83b95bbeec8a4b1afd97edd9999a77d26f5488b4.exe
+被以下規則掃描到:
+- 規則: rule_186_beecbdafabbbeecabafdeddadfb_exe.yar
+  命令: yara64 "ALL yara rules\rule_186_beecbdafabbbeecabafdeddadfb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\VenomRAT\5b5e82e79c52452b2d03a4fa83b95bbeec8a4b1afd97edd9999a77d26f5488b4.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\VenomRAT\c25d7f5497f9a12e564244665d9e83740bbcb88fa384fba9d3bc704f4da7d442.exe
+被以下規則掃描到:
+- 規則: rule_187_cdffaedebbcbfafbadbcfdad_exe.yar
+  命令: yara64 "ALL yara rules\rule_187_cdffaedebbcbfafbadbcfdad_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\VenomRAT\c25d7f5497f9a12e564244665d9e83740bbcb88fa384fba9d3bc704f4da7d442.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\wshRAT\d6f702323ebaa42f20a21a6080e21f638eb53f9b5c38c7ae70e0cee90f894fb2.exe
+被以下規則掃描到:
+- 規則: rule_189_dfebaafaaefebfbccaeeceeffb_exe.yar
+  命令: yara64 "ALL yara rules\rule_189_dfebaafaaefebfbccaeeceeffb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\wshRAT\d6f702323ebaa42f20a21a6080e21f638eb53f9b5c38c7ae70e0cee90f894fb2.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\wshRAT\ddc089db76d5e0419e1f7d3777d2227df3a5cc4b55ea33f9616863cccad3c89f.exe
+被以下規則掃描到:
+- 規則: rule_190_ddcdbdeefdddfaccbeafcccadcf_exe.yar
+  命令: yara64 "ALL yara rules\rule_190_ddcdbdeefdddfaccbeafcccadcf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\wshRAT\ddc089db76d5e0419e1f7d3777d2227df3a5cc4b55ea33f9616863cccad3c89f.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\XpertRAT\08927d7955b1be7fd05d81a73057242117540094dda7cca1c162f3aea18c2854.exe
+被以下規則掃描到:
+- 規則: rule_191_dbbefddaddaccacfaeac_exe.yar
+  命令: yara64 "ALL yara rules\rule_191_dbbefddaddaccacfaeac_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\XpertRAT\08927d7955b1be7fd05d81a73057242117540094dda7cca1c162f3aea18c2854.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\XpertRAT\28b2e9be250b41e1f4ec167dff3620f09597b7292ad23f0c48a8d6cdcc388959.exe
+被以下規則掃描到:
+- 規則: rule_192_bebebefecdfffbadfcadcdcc_exe.yar
+  命令: yara64 "ALL yara rules\rule_192_bebebefecdfffbadfcadcdcc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\XpertRAT\28b2e9be250b41e1f4ec167dff3620f09597b7292ad23f0c48a8d6cdcc388959.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\XpertRAT\e3c5d29533223d5a1cb39c9531bffce0bfbdae3b7335a8b203c034b581dda787.exe
+被以下規則掃描到:
+- 規則: rule_193_ecddacbcbffcebfbdaebabcbdda_exe.yar
+  命令: yara64 "ALL yara rules\rule_193_ecddacbcbffcebfbdaebabcbdda_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\XpertRAT\e3c5d29533223d5a1cb39c9531bffce0bfbdae3b7335a8b203c034b581dda787.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\XTRAT\06208e61333652d3aec0ea22dfe9e0f0bb798152e29b8992fc7f82d96a5e1e7d.exe
+被以下規則掃描到:
+- 規則: rule_194_edaeceadfeefbbebfcfdaeed_exe.yar
+  命令: yara64 "ALL yara rules\rule_194_edaeceadfeefbbebfcfdaeed_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\XTRAT\06208e61333652d3aec0ea22dfe9e0f0bb798152e29b8992fc7f82d96a5e1e7d.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\XTRAT\1f2b9ed45696d387c21a1a5ac0c414949cd5357d182fa3e670d9d335abeca5e4.exe
+被以下規則掃描到:
+- 規則: rule_195_fbeddcaaacccddfaeddabecae_exe.yar
+  命令: yara64 "ALL yara rules\rule_195_fbeddcaaacccddfaeddabecae_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\XTRAT\1f2b9ed45696d387c21a1a5ac0c414949cd5357d182fa3e670d9d335abeca5e4.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\XTRAT\4cfeefd1ca5a4a0b91c90534adab69fc60649cd052c42ed8b258117754bfb361.exe
+被以下規則掃描到:
+- 規則: rule_196_cfeefdcaaabcadabfccdcedbbfb_exe.yar
+  命令: yara64 "ALL yara rules\rule_196_cfeefdcaaabcadabfccdcedbbfb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\XTRAT\4cfeefd1ca5a4a0b91c90534adab69fc60649cd052c42ed8b258117754bfb361.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\XTRAT\c121b14316a1f7976c4337f37c29acd3a1efeff592617736b1ae1e6d3bf04b09.exe
+被以下規則掃描到:
+- 規則: rule_197_cbafcfcacdaefeffbaeedbfb_exe.yar
+  命令: yara64 "ALL yara rules\rule_197_cbafcfcacdaefeffbaeedbfb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\XTRAT\c121b14316a1f7976c4337f37c29acd3a1efeff592617736b1ae1e6d3bf04b09.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\XTRAT\d607e4cf6254db79c5a50a6e59c25f9387951f545da0b1475719209d8d357f64.exe
+被以下規則掃描到:
+- 規則: rule_198_decfdbcaaecffdabddf_exe.yar
+  命令: yara64 "ALL yara rules\rule_198_decfdbcaaecffdabddf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\XTRAT\d607e4cf6254db79c5a50a6e59c25f9387951f545da0b1475719209d8d357f64.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\XTRAT\e45e552e8692a88b2baaf541836e9a9cd3aeac0538858ece7f16d5d05f82bcef.dll
+被以下規則掃描到:
+- 規則: rule_199_eeeabbaafeacdaeacecefddfbcef_dll.yar
+  命令: yara64 "ALL yara rules\rule_199_eeeabbaafeacdaeacecefddfbcef_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\XTRAT\e45e552e8692a88b2baaf541836e9a9cd3aeac0538858ece7f16d5d05f82bcef.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Zegost\3c536c1558eba42c1967d9732bf9afd25c9c3c28bfbdc0028b945e88f1141d90.exe
+被以下規則掃描到:
+- 規則: rule_200_ccebacdbfafdcccbfbdcbefd_exe.yar
+  命令: yara64 "ALL yara rules\rule_200_ccebacdbfafdcccbfbdcbefd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Zegost\3c536c1558eba42c1967d9732bf9afd25c9c3c28bfbdc0028b945e88f1141d90.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Zegost\b00b88fa988e6d57bbdf9f40e2340143d5bde38bf24b9d7a50e0f909c3939807.exe
+被以下規則掃描到:
+- 規則: rule_201_bbfaedbbdffedbdebfbdaefc_exe.yar
+  命令: yara64 "ALL yara rules\rule_201_bbfaedbbdffedbdebfbdaefc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Zegost\b00b88fa988e6d57bbdf9f40e2340143d5bde38bf24b9d7a50e0f909c3939807.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Zegost\bea67778fa9a788b8137fb623d045d2b90011f806ddc38212d9f4d877ab8d49a.exe
+被以下規則掃描到:
+- 規則: rule_202_beafaabfbddbfddcdfdabda_exe.yar
+  命令: yara64 "ALL yara rules\rule_202_beafaabfbddbfddcdfdabda_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Zegost\bea67778fa9a788b8137fb623d045d2b90011f806ddc38212d9f4d877ab8d49a.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Zegost\d2f5f91c516b4bc9454e2e9e253ab08ac8a72840f6000633016d445a5ec4e99c.dll
+被以下規則掃描到:
+- 規則: rule_203_dffcbbceeeabacafdaecec_dll.yar
+  命令: yara64 "ALL yara rules\rule_203_dffcbbceeeabacafdaecec_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Zegost\d2f5f91c516b4bc9454e2e9e253ab08ac8a72840f6000633016d445a5ec4e99c.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Zegost\e63ae6b6a21682cc06993ce09d717f3713b04a84b5567653bd8ccfdba1f89f06.exe
+被以下規則掃描到:
+- 規則: rule_204_eaebacccedfbabbdccfdbaff_exe.yar
+  命令: yara64 "ALL yara rules\rule_204_eaebacccedfbabbdccfdbaff_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Zegost\e63ae6b6a21682cc06993ce09d717f3713b04a84b5567653bd8ccfdba1f89f06.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Zegost\ee21f9e81c00a9c0706fc4db0b1a1e76ddbb70e0b866f78e7911583b76925d3b.exe
+被以下規則掃描到:
+- 規則: rule_205_eefecacfcdbbaeddbbebfebdb_exe.yar
+  命令: yara64 "ALL yara rules\rule_205_eefecacfcdbbaeddbbebfebdb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\Zegost\ee21f9e81c00a9c0706fc4db0b1a1e76ddbb70e0b866f78e7911583b76925d3b.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\zgRAT\207769e3839b969247c2262b218dcfe34bf87d8ece461bf78fe42ab0c55f728c.dll
+被以下規則掃描到:
+- 規則: rule_206_ebcbdcfebfdecebffeabcfc_dll.yar
+  命令: yara64 "ALL yara rules\rule_206_ebcbdcfebfdecebffeabcfc_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\zgRAT\207769e3839b969247c2262b218dcfe34bf87d8ece461bf78fe42ab0c55f728c.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\zgRAT\5d8cff06f1b044d037c27e8f3fbdf0b638dbe4049252e3484eadfbd97e96db4e.exe
+被以下規則掃描到:
+- 規則: rule_207_dcfffbdceffbdfbdbeeeadfbdedbe_exe.yar
+  命令: yara64 "ALL yara rules\rule_207_dcfffbdceffbdfbdbeeeadfbdedbe_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\zgRAT\5d8cff06f1b044d037c27e8f3fbdf0b638dbe4049252e3484eadfbd97e96db4e.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\zgRAT\8b17a16441971065f15718343556c4a4945dbe0393c268c751e80d0406759f0f.exe
+被以下規則掃描到:
+- 規則: rule_208_bafcadbeccedff_exe.yar
+  命令: yara64 "ALL yara rules\rule_208_bafcadbeccedff_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\zgRAT\8b17a16441971065f15718343556c4a4945dbe0393c268c751e80d0406759f0f.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\zgRAT\8bb1900d8672de0a07e3e44d7ccafc7864e7da6a07cd973055087e9a97fcfd52.exe
+被以下規則掃描到:
+- 規則: rule_209_bbddeaeedccafcedaacdeafcfd_exe.yar
+  命令: yara64 "ALL yara rules\rule_209_bbddeaeedccafcedaacdeafcfd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Backdoor\zgRAT\8bb1900d8672de0a07e3e44d7ccafc7864e7da6a07cd973055087e9a97fcfd52.exe"
+
+
+總結:
+被掃描到的惡意程式: 204
+總共掃描的程式: 521

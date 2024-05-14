@@ -1,0 +1,24 @@
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Locker\2d352506507956106e0c09ed2a563b94e2e1b5fcbe074fcb511bb4d32bb6821d.exe
+被以下規則掃描到:
+- 規則: rule_01_decedabeebfcbefcbbbdbbd_exe.yar
+  命令: yara64 "ALL yara rules\rule_01_decedabeebfcbefcbbbdbbd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Locker\2d352506507956106e0c09ed2a563b94e2e1b5fcbe074fcb511bb4d32bb6821d.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Locker\33d1f22f2f1d0b0a3eff07075c20499e0736e22f5207e40fa3a516a7504871b6.exe
+被以下規則掃描到:
+- 規則: rule_02_dfffdbaeffceefefaaab_exe.yar
+  命令: yara64 "ALL yara rules\rule_02_dfffdbaeffceefefaaab_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Locker\33d1f22f2f1d0b0a3eff07075c20499e0736e22f5207e40fa3a516a7504871b6.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Locker\503808343d8137ca14d207e14ce5928de72ca6a4ab0862df9178c4c015f3d263.exe
+被以下規則掃描到:
+- 規則: rule_03_dcadecedecaaabdfccfd_exe.yar
+  命令: yara64 "ALL yara rules\rule_03_dcadecedecaaabdfccfd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Locker\503808343d8137ca14d207e14ce5928de72ca6a4ab0862df9178c4c015f3d263.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Locker\d3f47cd85c525a0c3ed855949bf27023c27b24c51d388166d72d4fa8cae4c2f5.exe
+被以下規則掃描到:
+- 規則: rule_04_dfcdcacedbfcbcdddfacaecf_exe.yar
+  命令: yara64 "ALL yara rules\rule_04_dfcdcacedbfcbcdddfacaecf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Locker\d3f47cd85c525a0c3ed855949bf27023c27b24c51d388166d72d4fa8cae4c2f5.exe"
+
+
+總結:
+被掃描到的惡意程式: 4
+總共掃描的程式: 8

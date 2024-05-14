@@ -1,0 +1,29 @@
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/TrickBoot\2828fabf3937d88b85183664c9019c4639776ba7c2322f48e4957108ef07ed65.exe
+被以下規則掃描到:
+- 規則: rule_01_fabfdbccbacfeefed_exe.yar
+  命令: yara64 "ALL yara rules\rule_01_fabfdbccbacfeefed_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/TrickBoot\2828fabf3937d88b85183664c9019c4639776ba7c2322f48e4957108ef07ed65.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/TrickBoot\b7e327f63639270c1c5d56b51a5cef6e2541687ff310f5bc79cf5d80d822194f.dll
+被以下規則掃描到:
+- 規則: rule_02_befccdbacefefffbccfddf_dll.yar
+  命令: yara64 "ALL yara rules\rule_02_befccdbacefefffbccfddf_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/TrickBoot\b7e327f63639270c1c5d56b51a5cef6e2541687ff310f5bc79cf5d80d822194f.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/TrickBoot\c1f1bc58456cff7413d7234e348d47a8acfdc9d019ae7a4aba1afc1b3ed55ffa.dll
+被以下規則掃描到:
+- 規則: rule_03_cfbccffdedaacfdcdaeaabaafcbedffa_dll.yar
+  命令: yara64 "ALL yara rules\rule_03_cfbccffdedaacfdcdaeaabaafcbedffa_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/TrickBoot\c1f1bc58456cff7413d7234e348d47a8acfdc9d019ae7a4aba1afc1b3ed55ffa.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/TrickBoot\e4569dcd012ebfd64f7a33b77f385edab89d21ea44b96488e4fd63b3893d7b4c.exe
+被以下規則掃描到:
+- 規則: rule_04_edcdebfdfabfedabdeabefdbdbc_exe.yar
+  命令: yara64 "ALL yara rules\rule_04_edcdebfdfabfedabdeabefdbdbc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/TrickBoot\e4569dcd012ebfd64f7a33b77f385edab89d21ea44b96488e4fd63b3893d7b4c.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/TrickBoot\e98170984c87aa1b92df230ef020557cad5afa4cf6815f7cbd764a70a1323b66.exe
+被以下規則掃描到:
+- 規則: rule_05_ecaabdfefcadafacffcbdaab_exe.yar
+  命令: yara64 "ALL yara rules\rule_05_ecaabdfefcadafacffcbdaab_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/TrickBoot\e98170984c87aa1b92df230ef020557cad5afa4cf6815f7cbd764a70a1323b66.exe"
+
+
+總結:
+被掃描到的惡意程式: 5
+總共掃描的程式: 10

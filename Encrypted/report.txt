@@ -1,0 +1,9 @@
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Encrypted\d90f026b93b6c51ba23dccf89331db0eedadb3da06492a6fa4bb220d8ca9a1b3.exe
+被以下規則掃描到:
+- 規則: rule_01_dfbbcbadccfdbeedadbdaafabbdcaab_exe.yar
+  命令: yara64 "ALL yara rules\rule_01_dfbbcbadccfdbeedadbdaafabbdcaab_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Encrypted\d90f026b93b6c51ba23dccf89331db0eedadb3da06492a6fa4bb220d8ca9a1b3.exe"
+
+
+總結:
+被掃描到的惡意程式: 1
+總共掃描的程式: 20

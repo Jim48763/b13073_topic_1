@@ -1,0 +1,369 @@
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\DanaBotnet\107457df68604ea8accd379b9813bcbc9dd309d5db70858ceb4437537847007a.dll
+被以下規則掃描到:
+- 規則: rule_01_dfeaaccdbbcbcddddbceba_dll.yar
+  命令: yara64 "ALL yara rules\rule_01_dfeaaccdbbcbcddddbceba_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\DanaBotnet\107457df68604ea8accd379b9813bcbc9dd309d5db70858ceb4437537847007a.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\DanaBotnet\24989d884f480964f0cfd5d5ed0cf785b6b97843779051ab12c6c17beabb15b7.exe
+被以下規則掃描到:
+- 規則: rule_02_dffcfddedcfbbabccbeabbb_exe.yar
+  命令: yara64 "ALL yara rules\rule_02_dffcfddedcfbbabccbeabbb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\DanaBotnet\24989d884f480964f0cfd5d5ed0cf785b6b97843779051ab12c6c17beabb15b7.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\DanaBotnet\3272c204acb6ad6545d7d3a7d115c5fe10c5d663d1f9715bc43f383154185433.dll
+被以下規則掃描到:
+- 規則: rule_03_cacbadddadcfecddfbcf_dll.yar
+  命令: yara64 "ALL yara rules\rule_03_cacbadddadcfecddfbcf_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\DanaBotnet\3272c204acb6ad6545d7d3a7d115c5fe10c5d663d1f9715bc43f383154185433.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\DanaBotnet\6f4ac0da343abb9dd25d7a27c302a6ab29ed9e7c49123b3c8200138abd3eaea5.exe
+被以下規則掃描到:
+- 規則: rule_05_facdaabbdddacaabedecbcabdeaea_exe.yar
+  命令: yara64 "ALL yara rules\rule_05_facdaabbdddacaabedecbcabdeaea_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\DanaBotnet\6f4ac0da343abb9dd25d7a27c302a6ab29ed9e7c49123b3c8200138abd3eaea5.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\DanaBotnet\99db2e72873b64451cbfb76b8402964eea1b84cf0fe9e326507673d5a534c04e.exe
+被以下規則掃描到:
+- 規則: rule_06_dbebcbfbbeeabcffeedace_exe.yar
+  命令: yara64 "ALL yara rules\rule_06_dbebcbfbbeeabcffeedace_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\DanaBotnet\99db2e72873b64451cbfb76b8402964eea1b84cf0fe9e326507673d5a534c04e.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\DanaBotnet\a3960e88c72a663734c17d85f5015571b340789d3a9646aa71a8d7ded643a7c6.exe
+被以下規則掃描到:
+- 規則: rule_07_aecacdfbdaaaaddedac_exe.yar
+  命令: yara64 "ALL yara rules\rule_07_aecacdfbdaaaaddedac_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\DanaBotnet\a3960e88c72a663734c17d85f5015571b340789d3a9646aa71a8d7ded643a7c6.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\DanaBotnet\b6cb8daec9e3e27dbb39e33d3dc55e7100673869754e8c8a158a0e655e1cbcce.dll
+被以下規則掃描到:
+- 規則: rule_08_bcbdaeceedbbeddceecaaeecbcce_dll.yar
+  命令: yara64 "ALL yara rules\rule_08_bcbdaeceedbbeddceecaaeecbcce_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\DanaBotnet\b6cb8daec9e3e27dbb39e33d3dc55e7100673869754e8c8a158a0e655e1cbcce.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\DanaBotnet\b9c037384eaa82706baf7c3cd5e1550fe9ad24083edeb00e55d9da8198ea6ee3.exe
+被以下規則掃描到:
+- 規則: rule_09_bceaabafccdefeadedebeddaeaee_exe.yar
+  命令: yara64 "ALL yara rules\rule_09_bceaabafccdefeadedebeddaeaee_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\DanaBotnet\b9c037384eaa82706baf7c3cd5e1550fe9ad24083edeb00e55d9da8198ea6ee3.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\DanaBotnet\bb8ccdcf17761f1e86d8ebbc1a12b123929c48c5eea4739b7619bd53728d412b.dll
+被以下規則掃描到:
+- 規則: rule_10_bbccdcffedebbcabcceeabbddb_dll.yar
+  命令: yara64 "ALL yara rules\rule_10_bbccdcffedebbcabcceeabbddb_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\DanaBotnet\bb8ccdcf17761f1e86d8ebbc1a12b123929c48c5eea4739b7619bd53728d412b.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\DanaBotnet\c58594d414c882ce33499233c2f508789e5fa4d91b79ef01d763012e39d7b095.dll
+被以下規則掃描到:
+- 規則: rule_12_cdccecfefadbefdedb_dll.yar
+  命令: yara64 "ALL yara rules\rule_12_cdccecfefadbefdedb_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\DanaBotnet\c58594d414c882ce33499233c2f508789e5fa4d91b79ef01d763012e39d7b095.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\DanaBotnet\d2ba18358b1edbac5cdb875761367ce6f88ef0e61d749357a259988d15d1bc17.exe
+被以下規則掃描到:
+- 規則: rule_13_dbabedbaccdbcefefedaddbc_exe.yar
+  命令: yara64 "ALL yara rules\rule_13_dbabedbaccdbcefefedaddbc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\DanaBotnet\d2ba18358b1edbac5cdb875761367ce6f88ef0e61d749357a259988d15d1bc17.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\DanaBotnet\d6b7cb431b16723bce5523e0ac0c99fe0e583afaf1154f51cffee7420fe4dd74.exe
+被以下規則掃描到:
+- 規則: rule_14_dbcbbbceeaccfeeafaffcffeefedd_exe.yar
+  命令: yara64 "ALL yara rules\rule_14_dbcbbbceeaccfeeafaffcffeefedd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\DanaBotnet\d6b7cb431b16723bce5523e0ac0c99fe0e583afaf1154f51cffee7420fe4dd74.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\DanaBotnet\df16940f38135c9dfa808b7f19348339deca912fe54331b2dd739decdf37d9e0.exe
+被以下規則掃描到:
+- 規則: rule_15_dffcdfabfdecafebdddecdfde_exe.yar
+  命令: yara64 "ALL yara rules\rule_15_dffcdfabfdecafebdddecdfde_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\DanaBotnet\df16940f38135c9dfa808b7f19348339deca912fe54331b2dd739decdf37d9e0.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\DanaBotnet\e7c9951f26973c3915ffadced059e629390c2bb55b247e2a1a95effbd7d29204.dll
+被以下規則掃描到:
+- 規則: rule_16_ecfcffadcedecbbbeaaeffbdd_dll.yar
+  命令: yara64 "ALL yara rules\rule_16_ecfcffadcedecbbbeaaeffbdd_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\DanaBotnet\e7c9951f26973c3915ffadced059e629390c2bb55b247e2a1a95effbd7d29204.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Golang\1df11bc19aa52b623bdf15380e3fded56d8eb6fb7b53a2240779864b1a6474ad.exe
+被以下規則掃描到:
+- 規則: rule_18_dfbcaabbdfefdeddebfbbabaad_exe.yar
+  命令: yara64 "ALL yara rules\rule_18_dfbcaabbdfefdeddebfbbabaad_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Golang\1df11bc19aa52b623bdf15380e3fded56d8eb6fb7b53a2240779864b1a6474ad.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Golang\79fb1d00ef9d85e958a17fd331b23dec507e4f2e2c150fd580d0668b84d29d00.exe
+被以下規則掃描到:
+- 規則: rule_19_fbdefdeafdbdecefecfddbdd_exe.yar
+  命令: yara64 "ALL yara rules\rule_19_fbdefdeafdbdecefecfddbdd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Golang\79fb1d00ef9d85e958a17fd331b23dec507e4f2e2c150fd580d0668b84d29d00.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Golang\7ef9667e73b84b6a031e28b6279e04cd8abe82d69cd836043a7cfe0978cb8a98.exe
+被以下規則掃描到:
+- 規則: rule_20_efebbaebecdabedcdacfecba_exe.yar
+  命令: yara64 "ALL yara rules\rule_20_efebbaebecdabedcdacfecba_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Golang\7ef9667e73b84b6a031e28b6279e04cd8abe82d69cd836043a7cfe0978cb8a98.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Golang\95193266e37a3401a0becace6d41171ab2968ed5289d666043251d05552d02fc.exe
+被以下規則掃描到:
+- 規則: rule_21_eaabecacedabeddddfc_exe.yar
+  命令: yara64 "ALL yara rules\rule_21_eaabecacedabeddddfc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Golang\95193266e37a3401a0becace6d41171ab2968ed5289d666043251d05552d02fc.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Golang\a00f9938052cd7987d8740671ba12f61cde995601edb75b63d7347e48b552bf5.exe
+被以下規則掃描到:
+- 規則: rule_22_afcddbafcdeedbbdebbf_exe.yar
+  命令: yara64 "ALL yara rules\rule_22_afcddbafcdeedbbdebbf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Golang\a00f9938052cd7987d8740671ba12f61cde995601edb75b63d7347e48b552bf5.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\IcedID\1820a0542f5950fd92ffa787cf09377a14d0fb42f0fa7419366090a5771a5f34.exe
+被以下規則掃描到:
+- 規則: rule_23_affdffacfadfbffaaaf_exe.yar
+  命令: yara64 "ALL yara rules\rule_23_affdffacfadfbffaaaf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\IcedID\1820a0542f5950fd92ffa787cf09377a14d0fb42f0fa7419366090a5771a5f34.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\IcedID\55d03f9954e35d8bce3fbd084d909744b3719310bac7c359cda87e7831cc1344.exe
+被以下規則掃描到:
+- 規則: rule_24_dfedbcefbddbbacccdaecc_exe.yar
+  命令: yara64 "ALL yara rules\rule_24_dfedbcefbddbbacccdaecc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\IcedID\55d03f9954e35d8bce3fbd084d909744b3719310bac7c359cda87e7831cc1344.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\IcedID\ea2a2d0b594f527f391abdf595d5f93424d9121dc292ff458362bff765bff2cd.exe
+被以下規則掃描到:
+- 規則: rule_25_eaadbffabdfdfddcffbffbffcd_exe.yar
+  命令: yara64 "ALL yara rules\rule_25_eaadbffabdfdfddcffbffbffcd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\IcedID\ea2a2d0b594f527f391abdf595d5f93424d9121dc292ff458362bff765bff2cd.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\IcedID\eda6bb813cee36866a58cc01b6c928484e8751e3c442ec9739f798aeb8e453f9.exe
+被以下規則掃描到:
+- 規則: rule_26_edabbceeaccbceececfaebef_exe.yar
+  命令: yara64 "ALL yara rules\rule_26_edabbceeaccbceececfaebef_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\IcedID\eda6bb813cee36866a58cc01b6c928484e8751e3c442ec9739f798aeb8e453f9.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\LokiBotnet\5e58e3818a1b7a5c46fab0a1400f7ccd88f088a782bb9c9f229f5e835e57aecb.exe
+被以下規則掃描到:
+- 規則: rule_28_eeabacfabafccdfabbcffeeaecb_exe.yar
+  命令: yara64 "ALL yara rules\rule_28_eeabacfabafccdfabbcffeeaecb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\LokiBotnet\5e58e3818a1b7a5c46fab0a1400f7ccd88f088a782bb9c9f229f5e835e57aecb.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\LokiBotnet\a27aa292f9978f85dd0fcf599491efea6abf80223d4ce4baaf56789f870c9196.exe
+被以下規則掃描到:
+- 規則: rule_29_aaaffddfcfefeaabfdcebaaffc_exe.yar
+  命令: yara64 "ALL yara rules\rule_29_aaaffddfcfefeaabfdcebaaffc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\LokiBotnet\a27aa292f9978f85dd0fcf599491efea6abf80223d4ce4baaf56789f870c9196.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\LokiBotnet\c203192bf329f099fddebfc57a7a258b974550e0b51a81115c9980aff02fe6c1.exe
+被以下規則掃描到:
+- 規則: rule_30_cbfffddebfcaabebacafffec_exe.yar
+  命令: yara64 "ALL yara rules\rule_30_cbfffddebfcaabebacafffec_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\LokiBotnet\c203192bf329f099fddebfc57a7a258b974550e0b51a81115c9980aff02fe6c1.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\LokiBotnet\f72762cd37962e6fc7a65ae4c414589694aef8794e6d1fa8060f270f069bf1ac.exe
+被以下規則掃描到:
+- 規則: rule_31_fcdefcaaecaefedfaffbfac_exe.yar
+  命令: yara64 "ALL yara rules\rule_31_fcdefcaaecaefedfaffbfac_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\LokiBotnet\f72762cd37962e6fc7a65ae4c414589694aef8794e6d1fa8060f270f069bf1ac.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Lu0Botnet\0297bbb0f00b3f591894ebcf042f2c6b0ed52e6662def1a9dbca0f8d20133cee.exe
+被以下規則掃描到:
+- 規則: rule_32_bbbfbfebcffcbededefadbcafdcee_exe.yar
+  命令: yara64 "ALL yara rules\rule_32_bbbfbfebcffcbededefadbcafdcee_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Lu0Botnet\0297bbb0f00b3f591894ebcf042f2c6b0ed52e6662def1a9dbca0f8d20133cee.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Lu0Botnet\22934e006b3f1b8225c51a93ce0acaa1874c4f1dc895fa1664bdf16b0065d2e7.exe
+被以下規則掃描到:
+- 規則: rule_33_ebfbcaceacaacfdcfabdfbde_exe.yar
+  命令: yara64 "ALL yara rules\rule_33_ebfbcaceacaacfdcfabdfbde_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Lu0Botnet\22934e006b3f1b8225c51a93ce0acaa1874c4f1dc895fa1664bdf16b0065d2e7.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Lu0Botnet\8264e723a411381a9d837458ec39cbb36c8d582bcba14f7ed7fc45f8154c479d.exe
+被以下規則掃描到:
+- 規則: rule_34_eaadeccbbcdbcbafedfcfcd_exe.yar
+  命令: yara64 "ALL yara rules\rule_34_eaadeccbbcdbcbafedfcfcd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Lu0Botnet\8264e723a411381a9d837458ec39cbb36c8d582bcba14f7ed7fc45f8154c479d.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Lu0Botnet\863c612734f5ff0ff0ea3fed7fd790dfb43c47eecdc1417bcd82c0ad866419af.exe
+被以下規則掃描到:
+- 規則: rule_35_cfffffeafedfddfbceecdcbcdcadaf_exe.yar
+  命令: yara64 "ALL yara rules\rule_35_cfffffeafedfddfbceecdcbcdcadaf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Lu0Botnet\863c612734f5ff0ff0ea3fed7fd790dfb43c47eecdc1417bcd82c0ad866419af.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Lu0Botnet\db246897a0efe3c4b3cd4b9f832067815fa920045e9a5a3d0881dc9ffd958fb0.exe
+被以下規則掃描到:
+- 規則: rule_36_dbaefecbcdbffaeaaddcffdfb_exe.yar
+  命令: yara64 "ALL yara rules\rule_36_dbaefecbcdbffaeaaddcffdfb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Lu0Botnet\db246897a0efe3c4b3cd4b9f832067815fa920045e9a5a3d0881dc9ffd958fb0.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Lu0Botnet\fce3d69b9c65945dcfbb74155f2186626f2ab404e38117f2222762361d7af6e2.exe
+被以下規則掃描到:
+- 規則: rule_37_fcedbcdcfbbffabefdafe_exe.yar
+  命令: yara64 "ALL yara rules\rule_37_fcedbcdcfbbffabefdafe_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Lu0Botnet\fce3d69b9c65945dcfbb74155f2186626f2ab404e38117f2222762361d7af6e2.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Old\2828fabf3937d88b85183664c9019c4639776ba7c2322f48e4957108ef07ed65.exe
+被以下規則掃描到:
+- 規則: rule_38_fabfdbccbacfeefed_exe.yar
+  命令: yara64 "ALL yara rules\rule_38_fabfdbccbacfeefed_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Old\2828fabf3937d88b85183664c9019c4639776ba7c2322f48e4957108ef07ed65.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Old\3784e2125b21b065495a9d35e474e1bc930e4f39bd33d80acec06d9d2c4aa99b.dll
+被以下規則掃描到:
+- 規則: rule_39_ebbadeebcefbddacecddcaab_dll.yar
+  命令: yara64 "ALL yara rules\rule_39_ebbadeebcefbddacecddcaab_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Old\3784e2125b21b065495a9d35e474e1bc930e4f39bd33d80acec06d9d2c4aa99b.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Old\654e574fb479af0a9f8d277ed12f2d86681b76b4cfe63d7c9e774f5144be8801.exe
+被以下規則掃描到:
+- 規則: rule_40_efbafafdedfdbbcfedcefbe_exe.yar
+  命令: yara64 "ALL yara rules\rule_40_efbafafdedfdbbcfedcefbe_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Old\654e574fb479af0a9f8d277ed12f2d86681b76b4cfe63d7c9e774f5144be8801.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Old\71e2483b2d36765651132c9c1f935784a2008a91159b0ee3bbfb94193d0d644e.exe
+被以下規則掃描到:
+- 規則: rule_41_ebdccfaabeebbfbdde_exe.yar
+  命令: yara64 "ALL yara rules\rule_41_ebdccfaabeebbfbdde_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Old\71e2483b2d36765651132c9c1f935784a2008a91159b0ee3bbfb94193d0d644e.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Old\8427f4aaf255d36cf523ecd34f3023e23cb0ad1d5edacc5c96d1f70ff6b1b496.exe
+被以下規則掃描到:
+- 規則: rule_42_faafdcfecdfecbaddedacccdfffbb_exe.yar
+  命令: yara64 "ALL yara rules\rule_42_faafdcfecdfecbaddedacccdfffbb_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Old\8427f4aaf255d36cf523ecd34f3023e23cb0ad1d5edacc5c96d1f70ff6b1b496.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Old\90a0498b6351dd26caf13325fd1ab92e39dd7ba3f390ac6500602a3223b4f64d.dll
+被以下規則掃描到:
+- 規則: rule_43_abddcaffdabeddbafacabfd_dll.yar
+  命令: yara64 "ALL yara rules\rule_43_abddcaffdabeddbafacabfd_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Old\90a0498b6351dd26caf13325fd1ab92e39dd7ba3f390ac6500602a3223b4f64d.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Old\9f59a3d6b5129c689f7fdbb219707995c6e3ec151cce7391073194588290a485.dll
+被以下規則掃描到:
+- 規則: rule_44_fadbcffdbbceecccea_dll.yar
+  命令: yara64 "ALL yara rules\rule_44_fadbcffdbbceecccea_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Old\9f59a3d6b5129c689f7fdbb219707995c6e3ec151cce7391073194588290a485.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Old\b7e327f63639270c1c5d56b51a5cef6e2541687ff310f5bc79cf5d80d822194f.dll
+被以下規則掃描到:
+- 規則: rule_45_befccdbacefefffbccfddf_dll.yar
+  命令: yara64 "ALL yara rules\rule_45_befccdbacefefffbccfddf_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Old\b7e327f63639270c1c5d56b51a5cef6e2541687ff310f5bc79cf5d80d822194f.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Old\c1f1bc58456cff7413d7234e348d47a8acfdc9d019ae7a4aba1afc1b3ed55ffa.dll
+被以下規則掃描到:
+- 規則: rule_46_cfbccffdedaacfdcdaeaabaafcbedffa_dll.yar
+  命令: yara64 "ALL yara rules\rule_46_cfbccffdedaacfdcdaeaabaafcbedffa_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Old\c1f1bc58456cff7413d7234e348d47a8acfdc9d019ae7a4aba1afc1b3ed55ffa.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Old\d8bac426368dbb00dcfd57dbed97dd3f070c9e4c1dfd113236e87ab3e3898017.dll
+被以下規則掃描到:
+- 規則: rule_47_dbacdbbdcfddbedddfcecdfdeabe_dll.yar
+  命令: yara64 "ALL yara rules\rule_47_dbacdbbdcfddbedddfcecdfdeabe_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Old\d8bac426368dbb00dcfd57dbed97dd3f070c9e4c1dfd113236e87ab3e3898017.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Old\e75612b515f036b54d63ed2efa45afc9b167b78116d65a77b1f0fa69674ed51f.dll
+被以下規則掃描到:
+- 規則: rule_48_ebfbdedefaafcbbdabffaedf_dll.yar
+  命令: yara64 "ALL yara rules\rule_48_ebfbdedefaafcbbdabffaedf_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Old\e75612b515f036b54d63ed2efa45afc9b167b78116d65a77b1f0fa69674ed51f.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Old\e98170984c87aa1b92df230ef020557cad5afa4cf6815f7cbd764a70a1323b66.exe
+被以下規則掃描到:
+- 規則: rule_49_ecaabdfefcadafacffcbdaab_exe.yar
+  命令: yara64 "ALL yara rules\rule_49_ecaabdfefcadafacffcbdaab_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\Old\e98170984c87aa1b92df230ef020557cad5afa4cf6815f7cbd764a70a1323b66.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\QakBotnet\37348342c66980e606e25ae057a0b14ac2351ebd0a8123a7bdb5224b89288a39.dll
+被以下規則掃描到:
+- 規則: rule_50_ceeaeabacebdaabdbba_dll.yar
+  命令: yara64 "ALL yara rules\rule_50_ceeaeabacebdaabdbba_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\QakBotnet\37348342c66980e606e25ae057a0b14ac2351ebd0a8123a7bdb5224b89288a39.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\QakBotnet\3cde8a896848e9c28ccfcc2db7812602143de7be90aa44fcfe83c85ac7e53f9b.dll
+被以下規則掃描到:
+- 規則: rule_51_cdeaecccfccdbdebeaafcfecacefb_dll.yar
+  命令: yara64 "ALL yara rules\rule_51_cdeaecccfccdbdebeaafcfecacefb_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\QakBotnet\3cde8a896848e9c28ccfcc2db7812602143de7be90aa44fcfe83c85ac7e53f9b.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\QakBotnet\4ae2caea3ebe8e5891ad21cf1a8efab399cfcbe2cec21248fb4914f0329b9416.dll
+被以下規則掃描到:
+- 規則: rule_52_aecaeaebeeadcfaefabcfcbececfbfb_dll.yar
+  命令: yara64 "ALL yara rules\rule_52_aecaeaebeeadcfaefabcfcbececfbfb_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\QakBotnet\4ae2caea3ebe8e5891ad21cf1a8efab399cfcbe2cec21248fb4914f0329b9416.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\QakBotnet\4d446547a8316ca8424aeba6e4901be6cef1be7af7f51ed4f5697581a647e540.dll
+被以下規則掃描到:
+- 規則: rule_53_dacaaebaebecefbeaffedfae_dll.yar
+  命令: yara64 "ALL yara rules\rule_53_dacaaebaebecefbeaffedfae_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\QakBotnet\4d446547a8316ca8424aeba6e4901be6cef1be7af7f51ed4f5697581a647e540.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\QakBotnet\c5148afaf55c8b27a41a5971b6e439c8076b57f84c518f31bfec4171cd112a13.dll
+被以下規則掃描到:
+- 規則: rule_54_cafafcbaabecbfcfbfeccda_dll.yar
+  命令: yara64 "ALL yara rules\rule_54_cafafcbaabecbfcfbfeccda_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\QakBotnet\c5148afaf55c8b27a41a5971b6e439c8076b57f84c518f31bfec4171cd112a13.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\QuakBotnet\14da506c629f1046dcd6cd3f21080ae8886c15b5027a555c61219aec2911eca8.dll
+被以下規則掃描到:
+- 規則: rule_55_dacfdcdcdfaecbacaececa_dll.yar
+  命令: yara64 "ALL yara rules\rule_55_dacfdcdcdfaecbacaececa_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\QuakBotnet\14da506c629f1046dcd6cd3f21080ae8886c15b5027a555c61219aec2911eca8.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\QuakBotnet\405e8907b3775351b266445fae051055a10d97fb89ed926b5fa083f32028f5d4.dll
+被以下規則掃描到:
+- 規則: rule_56_ebbfaeadfbedbfaffd_dll.yar
+  命令: yara64 "ALL yara rules\rule_56_ebbfaeadfbedbfaffd_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\QuakBotnet\405e8907b3775351b266445fae051055a10d97fb89ed926b5fa083f32028f5d4.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\QuakBotnet\6dc7ef69f54e7c1bf12c90a4090f931d18bd969acd3ca12d7e16ff3f59912322.dll
+被以下規則掃描到:
+- 規則: rule_57_dceffecbfcafdbdacdcadefff_dll.yar
+  命令: yara64 "ALL yara rules\rule_57_dceffecbfcafdbdacdcadefff_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\QuakBotnet\6dc7ef69f54e7c1bf12c90a4090f931d18bd969acd3ca12d7e16ff3f59912322.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\QuakBotnet\77abaa92184007a6176bf62098a90cf705254fae15ba25bcf2cd4359ca708428.dll
+被以下規則掃描到:
+- 規則: rule_58_abaaabfacffaebabcfcdca_dll.yar
+  命令: yara64 "ALL yara rules\rule_58_abaaabfacffaebabcfcdca_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\QuakBotnet\77abaa92184007a6176bf62098a90cf705254fae15ba25bcf2cd4359ca708428.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\QuakBotnet\cf2652dc2a844f6aa436149211ea57e54102ce3ebd808eded619298c0bb16cc4.exe
+被以下規則掃描到:
+- 規則: rule_59_cfdcafaaeaeceebdededcbbcc_exe.yar
+  命令: yara64 "ALL yara rules\rule_59_cfdcafaaeaeceebdededcbbcc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\QuakBotnet\cf2652dc2a844f6aa436149211ea57e54102ce3ebd808eded619298c0bb16cc4.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\QuakBotnet\d3fa92f89ffbc4403c0f8b95034a61d63cfb47fd11cb7d90b5a8d724250234a3.dll
+被以下規則掃描到:
+- 規則: rule_60_dfafffbccfbadcfbfdcbdbada_dll.yar
+  命令: yara64 "ALL yara rules\rule_60_dfafffbccfbadcfbfdcbdbada_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\QuakBotnet\d3fa92f89ffbc4403c0f8b95034a61d63cfb47fd11cb7d90b5a8d724250234a3.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\QuakBotnet\d617ac91f216f3fb38c60b1c5bb1f623805d69fdf076636167bb09adfba5af67.dll
+被以下規則掃描到:
+- 規則: rule_61_dacfffbcbcbbfdfdfbbadfbaaf_dll.yar
+  命令: yara64 "ALL yara rules\rule_61_dacfffbcbcbbfdfdfbbadfbaaf_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\QuakBotnet\d617ac91f216f3fb38c60b1c5bb1f623805d69fdf076636167bb09adfba5af67.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\QuakBotnet\f0d4f5c12229a0dcb085dce79a4909349b7d970233f5085dcadd2ba401931f3b.dll
+被以下規則掃描到:
+- 規則: rule_62_fdfcadcbdceabdfdcaddbafb_dll.yar
+  命令: yara64 "ALL yara rules\rule_62_fdfcadcbdceabdfdcaddbafb_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\QuakBotnet\f0d4f5c12229a0dcb085dce79a4909349b7d970233f5085dcadd2ba401931f3b.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\StormKitty\611cf2be6752c173be1328ea47cc8ea736bc3bda9030da617390b23afa955b47.exe
+被以下規則掃描到:
+- 規則: rule_63_cfbecbeeacceabcbdadabafab_exe.yar
+  命令: yara64 "ALL yara rules\rule_63_cfbecbeeacceabcbdadabafab_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\StormKitty\611cf2be6752c173be1328ea47cc8ea736bc3bda9030da617390b23afa955b47.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\StormKitty\91eab57eaf00089ffd21329eb93e072c8eb7ed79e37c807f6db2859548c8b5d8.exe
+被以下規則掃描到:
+- 規則: rule_64_eabeafffdebecebedecfdbcbd_exe.yar
+  命令: yara64 "ALL yara rules\rule_64_eabeafffdebecebedecfdbcbd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\StormKitty\91eab57eaf00089ffd21329eb93e072c8eb7ed79e37c807f6db2859548c8b5d8.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\StormKitty\c0592acd4714d89c4f9e10ef0b2a9b4a7f0a445f24fb5212781fd47ca7d34dd2.exe
+被以下規則掃描到:
+- 規則: rule_65_cacddcfeefbabafaffbfdcaddd_exe.yar
+  命令: yara64 "ALL yara rules\rule_65_cacddcfeefbabafaffbfdcaddd_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\StormKitty\c0592acd4714d89c4f9e10ef0b2a9b4a7f0a445f24fb5212781fd47ca7d34dd2.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\TeamBotnet\15aeb8380c7b5b50ed1e2ff29c342cfe5c29a26554020001f7f9f1449f996e71.exe
+被以下規則掃描到:
+- 規則: rule_66_aebcbbedeffccfecaffffe_exe.yar
+  命令: yara64 "ALL yara rules\rule_66_aebcbbedeffccfecaffffe_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\TeamBotnet\15aeb8380c7b5b50ed1e2ff29c342cfe5c29a26554020001f7f9f1449f996e71.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\TeamBotnet\32b0fbaf95fefcc9b89243be8721625592fc9ed92d76a48cab263898fd3d5c08.exe
+被以下規則掃描到:
+- 規則: rule_67_bfbaffefccbbefceddacabfddc_exe.yar
+  命令: yara64 "ALL yara rules\rule_67_bfbaffefccbbefceddacabfddc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\TeamBotnet\32b0fbaf95fefcc9b89243be8721625592fc9ed92d76a48cab263898fd3d5c08.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\TeamBotnet\3763170476b8a4c3cb592cbea6c4471ba2ea2463db9f7839fda502ef0a06b092.exe
+被以下規則掃描到:
+- 規則: rule_68_baccbcbeacbaeadbffdaefab_exe.yar
+  命令: yara64 "ALL yara rules\rule_68_baccbcbeacbaeadbffdaefab_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\TeamBotnet\3763170476b8a4c3cb592cbea6c4471ba2ea2463db9f7839fda502ef0a06b092.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\TeamBotnet\4bf2dace8a23551a3cd374a14b68cef6185aa18f9148dac8bf77f19f734d3ad7.exe
+被以下規則掃描到:
+- 規則: rule_69_bfdaceaacdabcefaafdacbfffdad_exe.yar
+  命令: yara64 "ALL yara rules\rule_69_bfdaceaacdabcefaafdacbfffdad_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\TeamBotnet\4bf2dace8a23551a3cd374a14b68cef6185aa18f9148dac8bf77f19f734d3ad7.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\TeamBotnet\942263c89534d74459991db826caf2e9a187c074730f5c4f0f83f8c91e980e38.exe
+被以下規則掃描到:
+- 規則: rule_70_cddbcafeacfcfffcee_exe.yar
+  命令: yara64 "ALL yara rules\rule_70_cddbcafeacfcfffcee_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\TeamBotnet\942263c89534d74459991db826caf2e9a187c074730f5c4f0f83f8c91e980e38.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\TeamBotnet\c14987c4c6fc2de2cac43355964465d7611652e29f699d64fa292399f526c103.exe
+被以下規則掃描到:
+- 規則: rule_71_cccfcdecacdefdfafc_exe.yar
+  命令: yara64 "ALL yara rules\rule_71_cccfcdecacdefdfafc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\TeamBotnet\c14987c4c6fc2de2cac43355964465d7611652e29f699d64fa292399f526c103.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\TeamBotnet\eaffdf51b17ef1b7b7bf01ab6e8c2dce61a3dbd875b368e06a6d3b95e100c6f1.exe
+被以下規則掃描到:
+- 規則: rule_72_eaffdfbefbbbfabecdceadbdbeadbecf_exe.yar
+  命令: yara64 "ALL yara rules\rule_72_eaffdfbefbbbfabecdceadbdbeadbecf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\TeamBotnet\eaffdf51b17ef1b7b7bf01ab6e8c2dce61a3dbd875b368e06a6d3b95e100c6f1.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\TeamBotnet\f4f625c6ec130389122077c9650b1c195a7793a173a621416cea8622c14405fc.exe
+被以下規則掃描到:
+- 規則: rule_73_ffceccbcaaaceacfc_exe.yar
+  命令: yara64 "ALL yara rules\rule_73_ffceccbcaaaceacfc_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\TeamBotnet\f4f625c6ec130389122077c9650b1c195a7793a173a621416cea8622c14405fc.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\TrickBotnet\7109e67cf655b41ff88903bf1e70cc4efa3e537a38df7df90d8a3ff95c4cab58.exe
+被以下規則掃描到:
+- 規則: rule_74_ecfbffbfeccefaeadfdfdaffccab_exe.yar
+  命令: yara64 "ALL yara rules\rule_74_ecfbffbfeccefaeadfdfdaffccab_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\TrickBotnet\7109e67cf655b41ff88903bf1e70cc4efa3e537a38df7df90d8a3ff95c4cab58.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\TrickBotnet\8502e6f441a360ea75ffdbf33dd7d64d51a4c556eb9c0c1ad3fd2220d5876447.dll
+被以下規則掃描到:
+- 規則: rule_75_efaeaffdbfddddacebccadfdd_dll.yar
+  命令: yara64 "ALL yara rules\rule_75_efaeaffdbfddddacebccadfdd_dll.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\TrickBotnet\8502e6f441a360ea75ffdbf33dd7d64d51a4c556eb9c0c1ad3fd2220d5876447.dll"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\TrickBotnet\b1adee00a132b96a6f457031953b01fd1e322c57bff3fc9517b7d92d1ba884f4.exe
+被以下規則掃描到:
+- 規則: rule_76_badeeabafbfdecbfffcbddbaf_exe.yar
+  命令: yara64 "ALL yara rules\rule_76_badeeabafbfdecbfffcbddbaf_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\TrickBotnet\b1adee00a132b96a6f457031953b01fd1e322c57bff3fc9517b7d92d1ba884f4.exe"
+
+檔案: C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\TrickBotnet\e39833949c41ebb2bcc53a374f17491536b1dda70e53700b19fa53f04bf695ab.exe
+被以下規則掃描到:
+- 規則: rule_77_ecebbbccafbddaebfafbfab_exe.yar
+  命令: yara64 "ALL yara rules\rule_77_ecebbbccafbddaebfafbfab_exe.yar" "C:/Users/windows/Documents/yargen_gui/03/MalwareDatabase/Botnet\TrickBotnet\e39833949c41ebb2bcc53a374f17491536b1dda70e53700b19fa53f04bf695ab.exe"
+
+
+總結:
+被掃描到的惡意程式: 73
+總共掃描的程式: 302
